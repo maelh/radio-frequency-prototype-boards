@@ -22,7 +22,7 @@ This resulted in two boards (out of the many variations I tried):
 
 - The [standard version], with all the original dimensions and features being kept.
 
-- The [extended version], based on the standard version, with the following changes:
+- The [extended version], with the following changes compared to the standard version:
   - **added**: screw terminal for power
   - **added**: mounting holes
   - **extended**: a complete 4 pad U.Fl connector footprint with silkscreen (for easier alignment)
