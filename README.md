@@ -23,9 +23,9 @@ This resulted in two boards (out of the many variations I tried):
 - The [standard version], with all the original dimensions and features being kept.
 
 - The [extended version], with the following additions/extensions:
-  - screw terminal for power
-  - mounting holes
-  - a complete 4 pad U.Fl connector footprint with silkscreen (for easier alignment).
+  - :heavy_plus_sign: screw terminal for power
+  - [added] mounting holes
+  - [extended] a complete 4 pad U.Fl connector footprint with silkscreen (for easier alignment).
   
 The screw terminal on the extended version reduces the amount of loose wires going off the board. Now, all the power wires from the sub-boards can be soldered onto SMD pads, which have traces leading to the one central screw terminal.
 
