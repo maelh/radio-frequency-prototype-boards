@@ -9,7 +9,7 @@ This repository presents boards suitable for prototyping RF circuits, ready to b
 [MegawattKS](https://www.youtube.com/@MegawattKS) gives an introductory [radio design course on YouTube](https://www.youtube.com/watch?v=r_p7AHsSOdw&list=PL9Ox3wpnB0kqekAyz6blg4YdvoEMoJNJY), with an accompanying site detailing how to [prototype RF circuits](https://ecefiles.org/rf-circuit-prototyping/).
 It's quite a useful course for getting hands on experience and a non-math heavy intuition, using (comparatively) affordable tools, such as the [NanoVNA and the TinySA for radio design](https://www.youtube.com/watch?v=B7DFOq9rM_M&list=PL9Ox3wpnB0koBGofotI4xS8R0ct0FeYfv).
 
-When you don't happen to have access to the very expensive RF equipment of a university laboratory, this course is ideal, as it was designed to measure and characterize the built RF circuits with the NanoVNA and TinySA in mind. (Tools which are widely used in DIY/amateur communities, and accordingly have lots of documentation and tutorial videos available online).
+When you don't happen to have access to the very expensive RF equipment of a university laboratory, this course is ideal, as it was designed to measure and characterize the built RF circuits with the NanoVNA and TinySA in mind. (Tools which are widely used in DIY/amateur communities, and accordingly have lots of documentation and tutorial videos available online.)
 
 Additionally, MegawattKS kindly provided his [original files], which I used to take measurements of the various footprints and layout dimensions.
 
