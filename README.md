@@ -7,7 +7,7 @@ When designing radio frequency circuits, we cannot rely on traditional perfboard
 [MegawattKS](https://www.youtube.com/@MegawattKS) has an introductory [Radio design course on Youtube](https://www.youtube.com/watch?v=r_p7AHsSOdw&list=PL9Ox3wpnB0kqekAyz6blg4YdvoEMoJNJY) with an accompanying site detailing how to [prototype RF circuits](https://ecefiles.org/rf-circuit-prototyping/).
 It's quite a useful course for getting hands on experience, using (comparatively) affordable tools, such as the NanoVNA and the TinySA to measure and characterize the built RF circuits. [MegawattKS YouTube channel](https://www.youtube.com/@MegawattKS) has other useful information re
 
-## Derived versions (KiCad, several manufacturers possible)
+## Derived versions (KiCad, many PCB manufacturers)
 
 I manually converted the RF protoboard design to KiCad, since the original boards are made in ExpressPCB, which is a format exclusive to this manufacturer, and cannot be exported. This allows to pick pretty much any PCB manufacturer, to fabricate the boards.
 
