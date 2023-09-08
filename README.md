@@ -29,6 +29,8 @@ This resulted in two boards (out of the many variations I tried):
   
 The screw terminal on the extended version reduces the amount of loose wires going off the board. Now, all the power wires from the sub-boards can be soldered onto SMD pads, which have traces leading to the one central screw terminal.
 
+TODO: add 3d renderings of the boards
+
 ## Other RF prototyping board designs
 
 While doing some research on the topic, I found the following alternatives, you might find useful as well:
