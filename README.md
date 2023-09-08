@@ -1,2 +1,21 @@
-# radio-frequency-prototype-boards
-Radio frequency prototype boards (based on MegawattKS design)
+# RF prototype boards
+
+When designing radio frequency circuits, we cannot rely on traditional perfboards or breadboards. Perfboards lack a ground plane that is essential for RF circuits, and breadboards have too much parasitic capacitances and inductances (mainly due to the horizontal signal rails, and the vertical power rails).
+
+## Original work (ExpressPCB exclusively)
+
+[MegawattKS](https://www.youtube.com/@MegawattKS) has an introductory [Radio design course on Youtube](https://www.youtube.com/watch?v=r_p7AHsSOdw&list=PL9Ox3wpnB0kqekAyz6blg4YdvoEMoJNJY) with an accompanying site detailing how to [prototype RF circuits](https://ecefiles.org/rf-circuit-prototyping/).
+It's quite a useful course for getting hands on experience, using (comparatively) affordable tools, such as the NanoVNA and the TinySA to measure and characterize the built RF circuits. [MegawattKS YouTube channel](https://www.youtube.com/@MegawattKS) has other useful information re
+
+## Derived versions (KiCad, several manufacturers possible)
+
+I manually converted the RF protoboard design to KiCad, since the original boards are made in ExpressPCB, which is a format exclusive to this manufacturer, and cannot be exported. This allows to pick pretty much any PCB manufacturer, to fabricate the boards.
+
+In the standard version, all the original dimensions and features are kept.
+
+The extended version that adds mounting holes, and a screw terminal, to reduce the amount of loose wires going off the board. All power wires from the sub-boards can be soldered onto SMD pads, which are connected to the one central screw terminal.
+
+## Other RF prototyping board designs
+
+While doing some research on the topic, I found the following alternatives, you might find useful as well:
+Several alternative designs exists (TODO: add references). 
