@@ -16,7 +16,7 @@ Finally, MegawattKS kindly provided his [original files], which I used to take m
 ## Derived work (KiCad, many PCB manufacturers)
 
 I faithfully redesigned the RF protoboard in KiCad, based on those measurements, to enable fabricating them with pretty much any PCB manufacturer.
-The manual conversion was necessary, since the original boards are made in ExpressPCB, which uses a format exclusive to this manufacturer, with no export/import options. 
+The manual conversion was necessary, since the original boards are made for ExpressPCB, which uses a format exclusive to this manufacturer, with no export/import options. 
 
 This resulted in two boards (out of the many variations I tried):
 
