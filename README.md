@@ -27,7 +27,7 @@ This resulted in two boards (out of the many variations I tried):
   - **added**: mounting holes
   - **extended**: a complete 4 pad U.FL connector footprint with silkscreen (for easier alignment)
   - **changed**: ground rings instead of fully exposed ground plane
-    - back side solder mask only exposes ground rings around the backside of plated through holes, which should form nicer solder bonds and hopefully ease solderability to the ground plane
+    - solder mask only exposes ground rings around the backside of plated through holes, which should form nicer solder bonds and hopefully ease solderability to the ground plane
   
 The screw terminal on the extended version reduces the amount of loose wires going off the board. Now, all the power wires from the sub-boards can be soldered onto SMD pads, which have traces leading to the one central screw terminal.
 
