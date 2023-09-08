@@ -1,6 +1,8 @@
-# RF prototype boards
+# RF prototyping boards
 
 When designing radio frequency circuits, we cannot rely on traditional perfboards or breadboards. Perfboards lack a ground plane that is essential for RF circuits, and breadboards have too much parasitic capacitances and inductances (mainly due to the horizontal signal rails, and the vertical power rails).
+
+This repository presents boards suitable for prototyping RF circuits, ready to be sent to a PCB manufacturer.
 
 ## Original work (ExpressPCB only)
 
