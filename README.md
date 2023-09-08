@@ -13,7 +13,7 @@ I manually converted the RF protoboard design to KiCad, since the original board
 
 In the [standard version], all the original dimensions and features are kept.
 
-The [extended version] adds mounting holes, and a screw terminal, to reduce the amount of loose wires going off the board. All power wires from the sub-boards can be soldered onto SMD pads, which are connected to the one central screw terminal.
+The [extended version] adds mounting holes, and a screw terminal, to reduce the amount of loose wires going off the board. All power wires from the sub-boards can be soldered onto SMD pads, which have traces leading to the one central screw terminal.
 
 ## Other RF prototyping board designs
 
