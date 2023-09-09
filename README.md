@@ -1,6 +1,6 @@
 # RF prototyping boards
 
-When designing radio frequency circuits, we cannot rely on traditional perfboards or breadboards. Perfboards lack a [ground plane](https://en.wikipedia.org/wiki/Ground_plane#Printed_circuit_boards), that is essential for RF circuits, and breadboards have too much parasitic capacitances and inductances (mainly due to the horizontal signal rails, and the vertical power rails).
+When designing radio frequency circuits, we cannot rely on traditional perfboards or breadboards. Perfboards lack a [ground plane](https://en.wikipedia.org/wiki/Ground_plane#Printed_circuit_boards), that is essential for RF circuits, and breadboards have too much parasitic capacitances and inductances (mainly due to the horizontal signal rails, and the vertical power rails). Also, both types do not support SMT components, which are better suited for RF circuits, due to less parasitic inductance compared to leaded components.
 
 This repository presents boards suitable for prototyping RF circuits, ready to be sent to a PCB manufacturer.
 
