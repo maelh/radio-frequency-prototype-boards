@@ -11,7 +11,7 @@ It's quite a useful course for getting hands on experience and a non-math heavy 
 
 When you don't happen to have access to the very expensive RF equipment of a university laboratory, this course is ideal, as it was designed to measure and characterize the built RF circuits with the NanoVNA and TinySA in mind. (Tools which are widely used in DIY/amateur communities, and accordingly have lots of documentation and tutorial videos available online.)
 
-Finally, MegawattKS kindly provided his [original files], which I used to take measurements of the various footprints and layout dimensions.
+Finally, MegawattKS kindly provided his [original files](RFprotoboard_Rev2_17nov22.rrb), which I used to take measurements of the various footprints and layout dimensions.
 
 ## Derived work (KiCad, many PCB manufacturers)
 
