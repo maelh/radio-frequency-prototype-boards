@@ -25,7 +25,7 @@ This resulted in two boards (out of the many variations I tried):
 - The [extended version], with the following changes compared to the standard version:
   - **added**: screw terminal for power
   - **added**: mounting holes
-  - **extended**: a complete 4 pad U.FL connector footprint with silkscreen (for easier alignment)
+  - **extended**: complete 4 pad U.FL connector footprints with silkscreen (for easier alignment)
   - **changed**: ground rings instead of a fully exposed ground plane
     - solder mask only exposes ground rings around the backside of plated through holes; ground rings should form nicer solder joints and hopefully ease solderability to the ground plane
   
