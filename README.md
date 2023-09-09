@@ -4,7 +4,7 @@ When designing radio frequency (RF) circuits, we cannot rely on traditional perf
 
 In the same vein, RF protoboards should support SMT components, which have less parasitic inductance compared to their leaded counterparts.
 
-This repository presents boards suitable for prototyping RF circuits, ready to be sent to a PCB manufacturer.
+*This repository presents boards suitable for prototyping RF circuits, ready to be sent to a PCB manufacturer.*
 
 ## Original work (ExpressPCB only)
 
