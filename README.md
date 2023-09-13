@@ -37,6 +37,7 @@ The screw terminal on the extended version reduces the amount of loose wires goi
 
 TODO: add 3d renderings of the boards, front and back side
 
-## Other RF prototyping board designs
+## Related perfboard designs
 
 https://github.com/electroniceel/protoboard
+https://github.com/jamesmunns/brick-mount
