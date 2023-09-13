@@ -13,7 +13,7 @@ It's quite a useful course for getting hands on experience and a non-math heavy 
 
 When you don't happen to have access to the very expensive RF equipment of a university laboratory, this course is ideal, as it was designed to measure and characterize the built RF circuits with the NanoVNA and TinySA in mind. (Tools which are widely used in DIY/amateur communities, and accordingly have lots of documentation and tutorial videos available online.)
 
-There is also a [more advanced university level course (designing and building transmitters and receivers)](https://ecefiles.org/rf-circuits-course-notes/) and its [part list](https://ecefiles.org/wp-content/uploads/2023/01/000b_ECE662_PartsList_F19.pdf).
+There is also a more advanced university level course ["Designing and building transmitters and receivers"](https://ecefiles.org/rf-circuits-course-notes/) and its [part list](https://ecefiles.org/wp-content/uploads/2023/01/000b_ECE662_PartsList_F19.pdf).
 
 Finally, MegawattKS kindly provided his [original design for ExpressPCB Plus](RFprotoboard_Rev2_17nov22.rrb), which I used to take measurements of the various footprints and layout dimensions.
 
