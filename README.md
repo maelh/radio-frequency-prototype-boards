@@ -39,5 +39,4 @@ TODO: add 3d renderings of the boards, front and back side
 
 ## Other RF prototyping board designs
 
-While doing some research on the topic, I found the following alternatives, you might find useful as well:
-Several alternative designs exists (TODO: add references). 
+https://github.com/electroniceel/protoboard
