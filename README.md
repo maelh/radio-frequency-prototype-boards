@@ -39,9 +39,9 @@ TODO: add 3d renderings of the boards, front and back side
 
 ## Related perfboard designs
 
-https://github.com/electroniceel/protoboard
-https://github.com/jamesmunns/brick-mount
-https://github.com/hyves42/miniboard-protoboard
-https://github.com/mje-nz/protoboard
-https://github.com/AriaSalvatrice/synth-protoboard
-https://hackaday.com/2016/06/16/evaluating-the-unusual-and-innovative-perf-protoboard/
+- https://github.com/electroniceel/protoboard
+- https://github.com/jamesmunns/brick-mount
+- https://github.com/hyves42/miniboard-protoboard
+- https://github.com/mje-nz/protoboard
+- https://github.com/AriaSalvatrice/synth-protoboard
+- https://hackaday.com/2016/06/16/evaluating-the-unusual-and-innovative-perf-protoboard/
