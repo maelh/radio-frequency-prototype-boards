@@ -46,3 +46,7 @@ TODO: add 3d renderings of the boards, front and back side
 - https://github.com/AriaSalvatrice/synth-protoboard
 - https://hackaday.com/2016/06/16/evaluating-the-unusual-and-innovative-perf-protoboard/
 - https://busboard.com/SP1-50x50-G
+
+## Recommended lead-free solder
+
+After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowing solder making nice shiny joints.
