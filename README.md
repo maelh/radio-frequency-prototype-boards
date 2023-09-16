@@ -24,7 +24,7 @@ The manual conversion was necessary, since the original boards are made for Expr
 
 This resulted in two boards (out of the many variations I tried):
 
-- The [standard version], with all the original dimensions and features being kept.
+- The [standard version](/RF_ProtoBoard), with all the original dimensions and features being kept.
 
 - The [extended version], with the following changes compared to the standard version:
   - **added**: screw terminal for power
