@@ -71,6 +71,7 @@ After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowi
 - https://www.amazon.de/gp/product/B0795DX46R/ref=ox_sc_act_title_2?smid=A1CKTEOLLEJC1Q&psc=1
 - TODO: screw terminal block that fits extended pcb
 - M2.5 spacer rods, screws and nuts (nylon, or some other non-conductive material) for pcb mounting holes
+- rubber feet with adhesive
 - https://www.ph2lb.nl/blog/index.php?page=xtal-adapter-for-nanovna
 - https://www.ph2lb.nl/blog/index.php?page=qrp-labs-filter-adapter-for-nanovna
 - https://www.ph2lb.nl/blog/index.php?page=rfsampler
