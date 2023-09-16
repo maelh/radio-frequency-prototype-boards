@@ -25,10 +25,18 @@ The manual conversion was necessary, since the original boards are made for Expr
 This resulted in two boards (out of the many variations I tried):
 
 - The [standard version](/RF_ProtoBoard), with all the original dimensions and features being kept.
-  Front:
-  ![Front of standard version](/images/RF_ProtoBoard_Front.png?raw=true "Front of standard version")
-  Back:
-  ![Back of standard version](/images/RF_ProtoBoard_Back.png?raw=true "Back of standard version")
+
+  <div align="center">
+    <img src="/images/RF_ProtoBoard_Front.png?raw=true" alt="Front of standard version" title="Front of standard version"/>
+    <div>Front</div>    
+  </div>
+
+  <br/>
+
+  <div align="center">
+    <img src="/images/RF_ProtoBoard_Back.png?raw=true" alt="Back of standard version" title="Back of standard version"/>
+    <div>Back</div>
+  </div>
 
 - The [extended version](/RF_ProtoBoard_Extended), with the following changes compared to the standard version:
   - **added**: screw terminal for power
@@ -36,9 +44,20 @@ This resulted in two boards (out of the many variations I tried):
   - **extended**: complete 4 pad U.FL connector footprints with silkscreen (for easier alignment)
   - **changed**: ground rings instead of a fully exposed ground plane
     - solder mask only exposes ground rings around the backside of plated through holes; ground rings should form nicer solder joints and hopefully ease solderability to the ground plane
+
+  <br/>
   
-  ![Front of extended version](/images/RF_ProtoBoard_Extended_Front.png?raw=true "Front of extended version")
-  ![Back of extended version](/images/RF_ProtoBoard_Extended_Back.png?raw=true "Back of extended version")
+  <div align="center">
+    <img src="/images/RF_ProtoBoard_Extended_Front.png?raw=true" alt="Front of extended version" title="Front of extended version"/>
+    <div>Front</div>    
+  </div>
+
+  <br/>
+
+  <div align="center">
+    <img src="/images/RF_ProtoBoard_Extended_Back.png?raw=true" alt="Back of extended version" title="Back of extended version"/>
+    <div>Back</div>
+  </div>
   
 The screw terminal on the extended version reduces the amount of loose wires going off the board. Now, all the power wires from the sub-boards can be routed to the centrally positioned pair of power pads, which have traces leading to the single central power screw terminal. The power pads on the backside of the board allow to add a decoupling/bulk capacitor.
 
