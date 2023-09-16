@@ -1,0 +1,1105 @@
+(footprint "RF_ProtoBoard_Module" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr allow_soldermask_bridges)
+  (fp_text reference "REF**" (at 0 17.78 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 6c535b25-984d-457a-9d3d-e7b801c3bc52)
+  )
+  (fp_text value " " (at 0 -17.78) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 3335b103-a7c9-49a8-a1ca-88bee394d996)
+  )
+  (pad "" smd rect (at 0 0) (size 29.1084 29.1084) (layers "B.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp d822a6b0-c5ac-404e-9071-1a8922b744d4))
+  (pad "" smd rect (at 0 0) (size 29.1084 29.1084) (layers "F.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp b10adbbe-bfaa-4d49-9094-259c5d166942))
+  (pad "0" smd rect (at -14.3002 -14.3002) (size 0.508 0.508) (layers "B.Cu")
+    (zone_connect 2) (tstamp 98da39af-d8d1-4142-b264-dabac569171d))
+  (pad "0" smd rect (at -14.3002 14.3002) (size 0.508 0.508) (layers "B.Cu")
+    (zone_connect 2) (tstamp dc3aba43-0fda-4016-b96b-9f09829fc7eb))
+  (pad "0" smd rect (at 14.3002 -14.3002) (size 0.508 0.508) (layers "B.Cu")
+    (zone_connect 2) (tstamp 622d7ea2-aad3-4325-86d9-1fd076022ed7))
+  (pad "0" smd rect (at 14.3002 14.3002) (size 0.508 0.508) (layers "B.Cu")
+    (zone_connect 2) (tstamp 15477545-310f-435c-8583-0a427329025a))
+  (pad "1a" thru_hole circle (at -12.7 -12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 29380365-9c6b-4452-aea8-0fb95b3f9be1))
+  (pad "1a" smd rect (at -12.7 -12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 2fc11800-3c66-45f1-81db-98d573c7b3b9))
+  (pad "1b" thru_hole circle (at -10.16 -12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 13851de4-a8ae-49dd-b870-bbc9c980b62c))
+  (pad "1b" smd rect (at -10.16 -12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp c6f78925-0c35-4823-a4e2-b94f844f662b))
+  (pad "1c" thru_hole circle (at -7.62 -12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp a8c1de28-1e75-498b-bf09-87f3c177a481))
+  (pad "1c" smd rect (at -7.62 -12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp da8ba516-6319-4f31-8c5a-1f2c27a242d9))
+  (pad "1d" thru_hole circle (at -5.08 -12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 406ab3da-cd43-4bb3-8c69-18ced67ccd7b))
+  (pad "1d" smd rect (at -5.08 -12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 5eefc958-7690-48a4-b0c9-04a36878a9b9))
+  (pad "1e" thru_hole circle (at -2.54 -12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 94c8b228-15f9-434d-9aec-e41701051766))
+  (pad "1e" smd rect (at -2.54 -12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 5406f765-4135-43a8-8e94-1c9eb8abac28))
+  (pad "1f" thru_hole circle (at 0 -12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp f6d4e8e5-d829-482a-ae61-d9504916e7cc))
+  (pad "1f" smd rect (at 0 -12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 0d6b8396-111b-4c9f-a306-c5330226573e))
+  (pad "1g" thru_hole circle (at 2.54 -12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp cced4fc9-99ab-4617-87ae-b1d32b14648a))
+  (pad "1g" smd rect (at 2.54 -12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 54dc54ba-9eea-4ce7-8e4e-fe5c43234366))
+  (pad "1h" thru_hole circle (at 5.08 -12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp f0a334fd-d76d-4437-a3c3-9820eea6b297))
+  (pad "1h" smd rect (at 5.08 -12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 8b620bab-5ed9-4a55-817a-b35e14c97fe3))
+  (pad "1i" thru_hole circle (at 7.62 -12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp e91d2b1e-c985-4838-bafb-d651b27ca790))
+  (pad "1i" smd rect (at 7.62 -12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp f5dc389e-e22c-49ee-bfdf-ced4ae46b1c8))
+  (pad "1j" thru_hole circle (at 10.16 -12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 05500cc8-fcb1-40cb-99dd-7d306ad4292b))
+  (pad "1j" smd rect (at 10.16 -12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 63971eff-2d6b-44b9-b817-ea28a696f7df))
+  (pad "1k" thru_hole circle (at 12.7 -12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 0a70db75-8150-4f37-96bb-5870fa193d5d))
+  (pad "1k" smd rect (at 12.7 -12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp cfad012b-8130-4c07-af4e-185e775f9d1c))
+  (pad "2a" thru_hole circle (at -12.7 -10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp a917e075-1045-4dd9-b0fd-f4c05e531872))
+  (pad "2a" smd rect (at -12.7 -10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 2354fc89-e6bf-42ff-bc5b-565157526915))
+  (pad "2b" thru_hole circle (at -10.16 -10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 555bffa1-857e-4790-80aa-63492204df2d))
+  (pad "2b" smd rect (at -10.16 -10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 7de0637a-1a07-46fa-85be-4a0aa34e0e72))
+  (pad "2c" thru_hole circle (at -7.62 -10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp b19a34cb-99b5-471d-8ca0-799d38cf362c))
+  (pad "2c" smd rect (at -7.62 -10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 678b4924-e130-4875-90eb-3f2aacb67ec1))
+  (pad "2d" thru_hole circle (at -5.08 -10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp f4adbd41-fe0c-4481-b416-f432a65dd4e1))
+  (pad "2d" smd rect (at -5.08 -10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 18e5b6f4-c137-48e9-b161-df4ea36ff04c))
+  (pad "2e" thru_hole circle (at -2.54 -10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 615c595d-2219-476c-be97-7f412c290c5e))
+  (pad "2e" smd rect (at -2.54 -10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 0b5e661f-0dae-47dc-a87a-e5cdb63ef0e7))
+  (pad "2f" thru_hole circle (at 0 -10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 99dd8211-8776-4162-affd-cef156765787))
+  (pad "2f" smd rect (at 0 -10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp f8030760-acad-4283-9e59-29670fcf1b5e))
+  (pad "2g" thru_hole circle (at 2.54 -10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 0e9c8c92-50b1-49db-a664-41b46b93a6a7))
+  (pad "2g" smd rect (at 2.54 -10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 7a756d37-ecdf-4c8a-90b0-8888daf17082))
+  (pad "2h" thru_hole circle (at 5.08 -10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 77e51f85-2a77-48f5-ad2c-5f83e106c73d))
+  (pad "2h" smd rect (at 5.08 -10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp c8d78ca9-61c4-43d2-b216-9cc93ff1dc21))
+  (pad "2i" thru_hole circle (at 7.62 -10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 0a2a50b9-9cdb-4a0c-a4d0-2a2f7abcdd10))
+  (pad "2i" smd rect (at 7.62 -10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 388750bb-a06d-4b7a-bd4f-e30680973641))
+  (pad "2j" thru_hole circle (at 10.16 -10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 5334d06d-a35d-408d-9737-db44fa2d934b))
+  (pad "2j" smd rect (at 10.16 -10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp b1494fb3-3352-4a2f-823f-ecf8322853af))
+  (pad "2k" thru_hole circle (at 12.7 -10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp e8ecdedb-e895-4ea0-b3a2-a576cc6ff155))
+  (pad "2k" smd rect (at 12.7 -10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 70dfe162-7651-42e3-a703-3d00e835d41e))
+  (pad "3a" thru_hole circle (at -12.7 -7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp e736c939-d426-4623-b246-f5514b9fca97))
+  (pad "3a" smd rect (at -12.7 -7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 3620516b-e910-4022-bf83-29dea30743d9))
+  (pad "3b" thru_hole circle (at -10.16 -7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 6e2bd35d-08f1-485b-9cee-dd74d5839c07))
+  (pad "3b" smd rect (at -10.16 -7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp c774da2d-4c80-401b-92e3-fcbb13a2a42d))
+  (pad "3c" thru_hole circle (at -7.62 -7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp c5ae1e9d-1e61-494a-bbec-1b0512537819))
+  (pad "3c" smd rect (at -7.62 -7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp d6b12dcb-5ef0-40ea-86c8-aff1932ea2cf))
+  (pad "3d" thru_hole circle (at -5.08 -7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp e16add84-1195-40c5-b67f-0f47fd5748ec))
+  (pad "3d" smd rect (at -5.08 -7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 591369c9-53d9-4ee8-96d8-d48c5e7133c1))
+  (pad "3e" thru_hole circle (at -2.54 -7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 00e03dd8-190f-4a87-993f-f09c8947492d))
+  (pad "3e" smd rect (at -2.54 -7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 1a0fcc42-6742-4026-9273-98070c2da4a7))
+  (pad "3f" thru_hole circle (at 0 -7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 0a9f32a5-ab5d-4a5d-a01e-412412dfabe9))
+  (pad "3f" smd rect (at 0 -7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 5fb04b6a-9754-4da4-9773-8e30f87f8c66))
+  (pad "3g" thru_hole circle (at 2.54 -7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 870f1d79-6f9c-4efb-8f29-ba777b978628))
+  (pad "3g" smd rect (at 2.54 -7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp ce7a5638-18df-4435-bb40-3f2128c92d9e))
+  (pad "3h" thru_hole circle (at 5.08 -7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 039897f5-b406-43d5-8019-a52a32bd6fec))
+  (pad "3h" smd rect (at 5.08 -7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 487e7912-d118-4f3d-a439-0d7e2b3a9a05))
+  (pad "3i" thru_hole circle (at 7.62 -7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp f7e55f46-fdfe-449e-9b24-b3310b2391d8))
+  (pad "3i" smd rect (at 7.62 -7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp a90dee24-1d67-4ff5-9052-879360613c34))
+  (pad "3j" thru_hole circle (at 10.16 -7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp a0a58f38-4013-4a96-9161-8e5a81e04701))
+  (pad "3j" smd rect (at 10.16 -7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 842092d2-0c84-4979-955d-155390ab7c87))
+  (pad "3k" thru_hole circle (at 12.7 -7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 68feb5bb-09fd-4972-b44e-7bc79005730f))
+  (pad "3k" smd rect (at 12.7 -7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 7da6a2d1-7541-43ba-9b55-f6906f2f13ca))
+  (pad "4a" thru_hole circle (at -12.7 -5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 7456d2c5-88ff-4825-bcea-65be99accf91))
+  (pad "4a" smd rect (at -12.7 -5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp d13a7cd0-cdd0-4720-bcbd-870fdd6620b3))
+  (pad "4b" thru_hole circle (at -10.16 -5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 0ea5e5a0-d43e-4164-9485-638c8f8dde43))
+  (pad "4b" smd rect (at -10.16 -5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 4112ccc2-f6aa-48c3-805b-acb3fced9dca))
+  (pad "4c" thru_hole circle (at -7.62 -5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp a5406dda-a320-42fc-8cab-498f862c794e))
+  (pad "4c" smd rect (at -7.62 -5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 9b516c1e-e69d-4877-af83-31c5c37d8c31))
+  (pad "4d" thru_hole circle (at -5.08 -5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 46af34b0-aace-47e1-928d-ff8821dec5ea))
+  (pad "4d" smd rect (at -5.08 -5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 0d5442c0-faba-4c4e-a6d9-0f6edde839cb))
+  (pad "4e" thru_hole circle (at -2.54 -5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 24ea5bf5-4591-4b74-a585-39933c13cf72))
+  (pad "4e" smd rect (at -2.54 -5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp f13d6c72-b5e8-47ff-bfc9-54973de832f3))
+  (pad "4f" thru_hole circle (at 0 -5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp d5a89c4f-0d96-44d0-a1d4-2eaeb015f181))
+  (pad "4f" smd rect (at 0 -5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp bbb16904-c67c-435f-a8c2-2b286f2fe44b))
+  (pad "4g" thru_hole circle (at 2.54 -5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 3d2041d8-702a-4713-b216-9ff29a31a5c8))
+  (pad "4g" smd rect (at 2.54 -5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 39106912-8e87-4351-923a-399f7c1e2c65))
+  (pad "4h" thru_hole circle (at 5.08 -5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 797b0669-4bb4-409d-a95d-e1c1e56b0abc))
+  (pad "4h" smd rect (at 5.08 -5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp d78e9fec-2876-47fb-8600-c1a4dc734c5a))
+  (pad "4i" thru_hole circle (at 7.62 -5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp d8b6f499-7691-4cdf-8688-218b9fb3a52b))
+  (pad "4i" smd rect (at 7.62 -5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 265b0d53-4561-4d0c-b357-1449c35d46a7))
+  (pad "4j" thru_hole circle (at 10.16 -5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 7a69a2c3-5970-439c-8729-cfc801fe5261))
+  (pad "4j" smd rect (at 10.16 -5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp a5db52e7-dbca-400f-8e5c-587d0d52cd6b))
+  (pad "4k" thru_hole circle (at 12.7 -5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 91f7f9f4-28f4-49ef-b9db-e647cdd9f3bf))
+  (pad "4k" smd rect (at 12.7 -5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 32c9cb17-3200-4753-b987-db9b01d3b872))
+  (pad "5a" thru_hole circle (at -12.7 -2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 6e9876a5-ab67-4d9d-a706-02b804a17b31))
+  (pad "5a" smd rect (at -12.7 -2.3495) (size 2.286 2.667) (layers "F.Cu" "F.Mask") (tstamp d6d6ee3b-ef07-4e46-bf64-ba7d268fc6d4))
+  (pad "5b" thru_hole circle (at -10.16 -2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 9263ff5b-4da1-4eec-83f2-c9f5f3579276))
+  (pad "5b" smd rect (at -10.16 -2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 2bf6901e-b091-45c5-9f7a-add68c3d7d31))
+  (pad "5c" thru_hole circle (at -7.62 -2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 96a9a441-d945-497a-87d8-cc2098cf7d2f))
+  (pad "5c" smd rect (at -7.62 -2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp e8d8be3b-56a8-47f9-9c2e-87cfe9a4086b))
+  (pad "5d" thru_hole circle (at -5.08 -2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp c0d7358e-1a2a-4d25-818e-1dda4aa6bb14))
+  (pad "5d" smd rect (at -5.08 -2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp ce318c42-b2ff-469e-a2ec-36211245118a))
+  (pad "5e" thru_hole circle (at -2.54 -2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 4160d112-01b3-4e00-9734-113d076d5895))
+  (pad "5e" smd rect (at -2.54 -2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 0c32765c-1320-4001-bb83-0338f592c69f))
+  (pad "5f" thru_hole circle (at 0 -2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 79bff9d9-78ba-4089-803a-506a31f54593))
+  (pad "5f" smd rect (at 0 -2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 7f7867ef-84c7-4b27-bbc0-87897c15a499))
+  (pad "5g" thru_hole circle (at 2.54 -2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 5989ff8e-b5c0-4aa6-8af8-c91496fb59e6))
+  (pad "5g" smd rect (at 2.54 -2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp f8a44f5e-0416-4660-8a9a-a94ac9f7a544))
+  (pad "5h" thru_hole circle (at 5.08 -2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp c6dd4a31-720a-46b6-b2f9-4ee82fd0e28e))
+  (pad "5h" smd rect (at 5.08 -2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 1bc46595-b05b-4518-ad1f-843bf2fbb93d))
+  (pad "5i" thru_hole circle (at 7.62 -2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp fe95b299-030b-44c5-bf98-8ef0b1d2f17e))
+  (pad "5i" smd rect (at 7.62 -2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 64cf2043-4995-4712-be8a-821d572cc266))
+  (pad "5j" thru_hole circle (at 10.16 -2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 2433f823-b37d-4b59-a745-bdf3bb5447a0))
+  (pad "5j" smd rect (at 10.16 -2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp f1fb0f83-fbdc-4317-89f8-9095449bde4e))
+  (pad "5k" thru_hole circle (at 12.7 -2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp a61d4c7b-0a9a-4cae-922c-3f7016223558))
+  (pad "5k" smd rect (at 12.7 -2.3495) (size 2.286 2.667) (layers "F.Cu" "F.Mask") (tstamp 741f29b0-9302-4677-bec7-ed00b04a2809))
+  (pad "6b" thru_hole circle (at -10.16 0) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 2c0f900d-c702-4d6c-a465-a0fd106c71e5))
+  (pad "6b" smd custom (at -10.16 0) (size 2.286 2.286) (layers "F.Cu" "F.Mask")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_rect (start -1.397 -0.4445) (end -1.0922 0.4445) (width 0) (fill yes))
+    ) (tstamp c47626c5-f3bb-4574-9e10-fbcd126a23d9))
+  (pad "6c" thru_hole circle (at -7.62 0) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 4d2a8753-8572-4514-b0f4-27af33455a1a))
+  (pad "6c" smd rect (at -7.62 0) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp dcacf876-650e-449e-95d6-9996b67aebef))
+  (pad "6d" thru_hole circle (at -5.08 0) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 52c6f3ed-8a85-4a8e-97e6-f6b5422739d2))
+  (pad "6d" smd rect (at -5.08 0) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 81eb7eb4-f556-428f-afbd-5cc40f40e3fa))
+  (pad "6e" thru_hole circle (at -2.54 0) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 2144563c-8d7a-4c11-b703-9a8cd2010ed4))
+  (pad "6e" smd rect (at -2.54 0) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 8a433065-eabe-4df2-a150-46ea1da02f32))
+  (pad "6f" thru_hole circle (at 0 0) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 092133f6-6813-4483-ad14-40053bb1fb33))
+  (pad "6f" smd rect (at 0 0) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 87a50c23-08b2-4d1c-a3a5-8b955e4568f0))
+  (pad "6g" thru_hole circle (at 2.54 0) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp df1878bf-1e3f-419b-b866-a550c17b0aa8))
+  (pad "6g" smd rect (at 2.54 0) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 3d3e2baf-f27d-4550-ae1f-b7363e056569))
+  (pad "6h" thru_hole circle (at 5.08 0) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 82d726ee-5885-4052-abcc-5166ca51ce52))
+  (pad "6h" smd rect (at 5.08 0) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp b45571a9-d64c-42f4-8c03-0ec4b1809350))
+  (pad "6i" thru_hole circle (at 7.62 0) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp cea7c492-a92b-4410-8a2d-0969f03d98cd))
+  (pad "6i" smd rect (at 7.62 0) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp cbe7a59a-c22a-4555-a3a9-cd652b753eb7))
+  (pad "6j" thru_hole circle (at 10.16 0) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 8beaa1ad-3076-49d5-b48e-92a68d763940))
+  (pad "6j" smd custom (at 10.16 0) (size 2.286 2.286) (layers "F.Cu" "F.Mask")
+    (thermal_bridge_angle 45)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_rect (start 1.0922 -0.4445) (end 1.397 0.4445) (width 0) (fill yes))
+    ) (tstamp 35934aa0-15c5-452c-b8e3-331807c48651))
+  (pad "7a" smd rect (at -12.7 2.3495) (size 2.286 2.667) (layers "F.Cu" "F.Mask") (tstamp 0e65a4f7-b8fc-4650-9751-bc0154d240f2))
+  (pad "7a" thru_hole circle (at -12.7 2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 3383afeb-aba8-4c18-bc93-826cdb6123d5))
+  (pad "7b" thru_hole circle (at -10.16 2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp e8ba873d-a362-4fd9-a02f-e41e506a07ff))
+  (pad "7b" smd rect (at -10.16 2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp acb27df3-f2c2-4858-9c2e-4405c28a5770))
+  (pad "7c" thru_hole circle (at -7.62 2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp c566b084-d38b-49c0-b953-1228bb1355d0))
+  (pad "7c" smd rect (at -7.62 2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 25b831fa-81c6-4c9b-97d3-56d19f84573d))
+  (pad "7d" thru_hole circle (at -5.08 2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 69967932-2dcd-4244-b261-b42817f0be35))
+  (pad "7d" smd rect (at -5.08 2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 419b8ef4-0615-423f-a516-5eb6b141f4cd))
+  (pad "7e" thru_hole circle (at -2.54 2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp fd29e69f-d93e-47e3-8aa7-adae45561b66))
+  (pad "7e" smd rect (at -2.54 2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp c64c8d7b-13af-4155-a7ca-b8bbf8214a6b))
+  (pad "7f" thru_hole circle (at 0 2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 7d280e2b-3178-43ee-bc74-6150b3f951ec))
+  (pad "7f" smd rect (at 0 2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp dc2b0408-cd58-417f-a04f-0e232a008ab6))
+  (pad "7g" thru_hole circle (at 2.54 2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 65382b47-c674-405b-998c-9806c5e6fcb9))
+  (pad "7g" smd rect (at 2.54 2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 665879ed-4932-4d6e-99ad-ac390d1d2ba0))
+  (pad "7h" thru_hole circle (at 5.08 2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp deccaef7-6fd8-4948-8e0f-b892051387dd))
+  (pad "7h" smd rect (at 5.08 2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 273c593b-9c0a-4027-acdd-5d47cb142fe8))
+  (pad "7i" thru_hole circle (at 7.62 2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 02878c19-4ea4-4a2a-9a0c-d752bca83384))
+  (pad "7i" smd rect (at 7.62 2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 116443b9-1a27-4150-8159-8b118d48c566))
+  (pad "7j" thru_hole circle (at 10.16 2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp bda26729-3b67-46de-9734-4e9924a4f74b))
+  (pad "7j" smd rect (at 10.16 2.54) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 814ec186-6e94-4d89-97ff-b79e29bef342))
+  (pad "7k" smd rect (at 12.7 2.3495) (size 2.286 2.667) (layers "F.Cu" "F.Mask") (tstamp 4b45a3d6-36f8-4b84-9671-896bba4240a5))
+  (pad "7k" thru_hole circle (at 12.7 2.54) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 368634d2-1a31-475e-bc17-09e29969b8a6))
+  (pad "8a" thru_hole circle (at -12.7 5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp b04f49e2-ec5a-4ef1-b52e-bc483d3e32d1))
+  (pad "8a" smd rect (at -12.7 5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 5f741285-d0f7-4b5d-b7be-2e7a3a6adcbc))
+  (pad "8b" thru_hole circle (at -10.16 5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 5da986de-6d3c-4aa3-9e41-d2e901bde693))
+  (pad "8b" smd rect (at -10.16 5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp bd65527c-2ac7-4901-a2a7-b27fd3b86eaf))
+  (pad "8c" thru_hole circle (at -7.62 5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 352cc7da-609b-4f78-9647-dc7284ded620))
+  (pad "8c" smd rect (at -7.62 5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 519bcaa3-e306-4c74-9174-6abba76536db))
+  (pad "8d" thru_hole circle (at -5.08 5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 58481694-961f-48da-a764-17306bd11967))
+  (pad "8d" smd rect (at -5.08 5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 11822445-cbec-4dcc-bb82-5a5f05034a75))
+  (pad "8e" thru_hole circle (at -2.54 5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 11ac406a-99c1-49fa-961c-eaec11006b7d))
+  (pad "8e" smd rect (at -2.54 5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 1bcd81a7-bdfc-49ef-b459-17caf783e6ac))
+  (pad "8f" thru_hole circle (at 0 5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp cb751e24-8f20-4350-b7fe-e172c0d11c26))
+  (pad "8f" smd rect (at 0 5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 9840a241-947c-4164-ada9-d51213cc6a0e))
+  (pad "8g" thru_hole circle (at 2.54 5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 7ee45325-4c2c-44fb-9032-23ffcdb37829))
+  (pad "8g" smd rect (at 2.54 5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp e6b8e594-16f9-49e8-af4b-95fd68d197c0))
+  (pad "8h" thru_hole circle (at 5.08 5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 3d224c87-a16f-4a28-af50-b438d4c6663d))
+  (pad "8h" smd rect (at 5.08 5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp e0eeb531-9fd9-4e5c-add9-35ed148fbe8c))
+  (pad "8i" thru_hole circle (at 7.62 5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 384c1852-0a25-4ea2-8756-a257d6215075))
+  (pad "8i" smd rect (at 7.62 5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 55d1e334-b8fc-46f6-9556-fc9af75144b4))
+  (pad "8j" thru_hole circle (at 10.16 5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp d57fad66-e051-411b-9d3a-f037f6f6e5dd))
+  (pad "8j" smd rect (at 10.16 5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 071b149d-f2ab-4446-9869-e896bc55a15b))
+  (pad "8k" thru_hole circle (at 12.7 5.08) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp ac4ddd64-236e-43fd-b498-fb8cf8063543))
+  (pad "8k" smd rect (at 12.7 5.08) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp c134ab13-456e-4905-a9d1-c38fce6984df))
+  (pad "9a" thru_hole circle (at -12.7 7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp daad462a-ead9-487b-8349-4143cb8308ce))
+  (pad "9a" smd rect (at -12.7 7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp a50c9b43-5b01-48e6-b58b-66def9700a0b))
+  (pad "9b" thru_hole circle (at -10.16 7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 1add1ab2-f6ee-4939-ae0e-d3674496e407))
+  (pad "9b" smd rect (at -10.16 7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp a11939d0-23ef-4989-b454-1c9f8814065b))
+  (pad "9c" thru_hole circle (at -7.62 7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 2c9599b2-941c-4b62-a96e-84bfe01999ba))
+  (pad "9c" smd rect (at -7.62 7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 5ca86452-85d3-4154-bdf8-749f78d91909))
+  (pad "9d" thru_hole circle (at -5.08 7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp c85c6568-5629-4b71-9449-233062acf549))
+  (pad "9d" smd rect (at -5.08 7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 2ab16c4c-3242-49f1-986f-0d44dab1b1c3))
+  (pad "9e" thru_hole circle (at -2.54 7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 492496bf-3631-45a3-a85f-0838a9ddade7))
+  (pad "9e" smd rect (at -2.54 7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 71146dac-58fd-41a3-935d-b2cccabf41b0))
+  (pad "9f" thru_hole circle (at 0 7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp c52dd1a6-4abe-4f29-882c-3ef1ffb273e0))
+  (pad "9f" smd rect (at 0 7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp edfccb70-c3d5-4044-9b07-56c7b5c94bcc))
+  (pad "9g" thru_hole circle (at 2.54 7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 38e600d4-ebd2-49ba-a767-c108d0602f72))
+  (pad "9g" smd rect (at 2.54 7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp c3808dcf-c06c-4b71-a0a0-f2e53af1cdae))
+  (pad "9h" thru_hole circle (at 5.08 7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp c73b7231-2ecc-4455-9cc3-2b6d4ab0c7ae))
+  (pad "9h" smd rect (at 5.08 7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 6cad6a2d-61ca-43e8-9c5e-fb0fbe2303e2))
+  (pad "9i" thru_hole circle (at 7.62 7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 69b395f2-7cdd-44a1-88bc-9c8f1df31e3d))
+  (pad "9i" smd rect (at 7.62 7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp f39224e3-d617-4aa5-b9cd-5077280ca2f4))
+  (pad "9j" thru_hole circle (at 10.16 7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 61bc9b15-dcc5-46ae-9ea3-c51fe86a610f))
+  (pad "9j" smd rect (at 10.16 7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 92e5f579-4705-435a-a3db-74c14bb62629))
+  (pad "9k" thru_hole circle (at 12.7 7.62) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 3324333a-d0eb-4d92-b9c0-405f8178cc54))
+  (pad "9k" smd rect (at 12.7 7.62) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 30f04e0d-95f6-43ea-9e69-2697b19efcbe))
+  (pad "10a" thru_hole circle (at -12.7 10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp e6d59f4d-ea0a-42c6-b70b-c6113a1feea1))
+  (pad "10a" smd rect (at -12.7 10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 2c2d4369-49ad-44ff-935a-48aa56e42a3e))
+  (pad "10b" thru_hole circle (at -10.16 10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp de21c735-bbc1-4e4c-919a-047042157d88))
+  (pad "10b" smd rect (at -10.16 10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 9083b880-3050-4a95-8ea9-85fdcda13937))
+  (pad "10c" thru_hole circle (at -7.62 10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 042e0575-087f-4aea-bb4c-8222dc5660d5))
+  (pad "10c" smd rect (at -7.62 10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp e443b6a7-1d26-4a0c-8dc7-30018eed27e9))
+  (pad "10d" thru_hole circle (at -5.08 10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp d8572e83-7fe3-4bf2-9450-1370bde4a3b2))
+  (pad "10d" smd rect (at -5.08 10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 7b543cef-faeb-4555-8284-5eff60be0af7))
+  (pad "10e" thru_hole circle (at -2.54 10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp d6c21fe3-d0db-4967-845d-83fd7eb01626))
+  (pad "10e" smd rect (at -2.54 10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 6d32b556-bddc-4ca3-a6de-5661f050bbe2))
+  (pad "10f" thru_hole circle (at 0 10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp d65483c5-6b6f-4c0c-9aaa-8d456f465454))
+  (pad "10f" smd rect (at 0 10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp cd27408c-1c6a-42da-91f1-73b0b154e9a3))
+  (pad "10g" thru_hole circle (at 2.54 10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp a763dc91-a256-4a2b-a567-494028a945af))
+  (pad "10g" smd rect (at 2.54 10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp b265c01d-a766-478e-b76b-c5e28b0a4614))
+  (pad "10h" thru_hole circle (at 5.08 10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 7cae4cc3-574b-4a4c-b36e-cb6ba7516d10))
+  (pad "10h" smd rect (at 5.08 10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 67998046-411f-48c9-9919-d89b22654b1e))
+  (pad "10i" thru_hole circle (at 7.62 10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 22298809-f7a2-4814-9618-67160b27acbe))
+  (pad "10i" smd rect (at 7.62 10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp fa6cdff9-3980-4eb0-a5f3-a146247159c2))
+  (pad "10j" thru_hole circle (at 10.16 10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp a0a251c9-366c-458d-9826-2e39f645a29c))
+  (pad "10j" smd rect (at 10.16 10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 5984aac4-ee10-4833-a67d-5bd68742035e))
+  (pad "10k" thru_hole circle (at 12.7 10.16) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 9d9d9f55-ad1d-4124-9638-fb25cbd6c311))
+  (pad "10k" smd rect (at 12.7 10.16) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 2aa1122b-7e3d-4cb6-918d-78877d75c76f))
+  (pad "11a" thru_hole circle (at -12.7 12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 7f9091e0-336a-4f75-ae61-94a0860e9a8f))
+  (pad "11a" smd rect (at -12.7 12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp d373136a-9da9-4c5a-a454-ea97f9708820))
+  (pad "11b" thru_hole circle (at -10.16 12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp f516ed3a-7e1d-4928-8d06-1a4293c1aca6))
+  (pad "11b" smd rect (at -10.16 12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 2cbb770a-0675-4a1d-89ae-cd2b4449063f))
+  (pad "11c" thru_hole circle (at -7.62 12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp cfaf3d3b-a4f4-4c4d-88bb-225f76a8d9b0))
+  (pad "11c" smd rect (at -7.62 12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 87152760-cb7f-40c7-9d2b-abe400536cc3))
+  (pad "11d" thru_hole circle (at -5.08 12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp ebf7a519-884e-4b88-96d6-5a9e27e35880))
+  (pad "11d" smd rect (at -5.08 12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 466187fd-4d66-4740-a9cc-2b549c454433))
+  (pad "11e" thru_hole circle (at -2.54 12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 15f63e46-1a8f-4241-a8c4-2a5be61aa72a))
+  (pad "11e" smd rect (at -2.54 12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp df2a8332-2160-47e9-9890-541f43ad282c))
+  (pad "11f" thru_hole circle (at 0 12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp cfda4e6c-a2e4-4ea0-a8d9-a2cc075655c0))
+  (pad "11f" smd rect (at 0 12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp a80ef762-f1e2-4ea6-8f9b-67d7ea4ab5e2))
+  (pad "11g" thru_hole circle (at 2.54 12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 0bfbcf54-7e6d-4292-bd2f-de0c64c7e926))
+  (pad "11g" smd rect (at 2.54 12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp ed59ad07-f85f-4001-8f44-54b0eb6efbe9))
+  (pad "11h" thru_hole circle (at 5.08 12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 4f9b1cc6-a88e-483b-a472-b3adf98b23bd))
+  (pad "11h" smd rect (at 5.08 12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 030cec59-10ed-4cef-9199-d25fae4506c4))
+  (pad "11i" thru_hole circle (at 7.62 12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp f5036c19-3f95-49ff-9b21-fa7f503a5da4))
+  (pad "11i" smd rect (at 7.62 12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp ca99ad83-b40b-4bcf-840c-cde26fef9b3f))
+  (pad "11j" thru_hole circle (at 10.16 12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 865ae3ac-698b-4cad-bac2-a9dca36342fe))
+  (pad "11j" smd rect (at 10.16 12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp c218917c-7c85-4e1b-8029-986ea33eea95))
+  (pad "11k" thru_hole circle (at 12.7 12.7) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 55eeeabb-1a10-4e10-ab66-35f56c58f921))
+  (pad "11k" smd rect (at 12.7 12.7) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 0ba50934-ee10-4229-a0ec-ab3f78a24773))
+  (group "" (id 01ffe1d1-2ce6-4854-b998-34afa170a513)
+    (members
+      0ea5e5a0-d43e-4164-9485-638c8f8dde43
+      4112ccc2-f6aa-48c3-805b-acb3fced9dca
+    )
+  )
+  (group "" (id 02e66b1c-7252-4253-90f2-f7e93955908d)
+    (members
+      e91d2b1e-c985-4838-bafb-d651b27ca790
+      f5dc389e-e22c-49ee-bfdf-ced4ae46b1c8
+    )
+  )
+  (group "" (id 0333df48-67d1-4b8e-8a37-c4495fa0525d)
+    (members
+      0a70db75-8150-4f37-96bb-5870fa193d5d
+      cfad012b-8130-4c07-af4e-185e775f9d1c
+    )
+  )
+  (group "" (id 03d931df-3bad-4d8f-ade0-b3acd4a00b00)
+    (members
+      ac4ddd64-236e-43fd-b498-fb8cf8063543
+      c134ab13-456e-4905-a9d1-c38fce6984df
+    )
+  )
+  (group "" (id 05c43adb-cef5-4532-ae96-9afa531cff4f)
+    (members
+      bbb16904-c67c-435f-a8c2-2b286f2fe44b
+      d5a89c4f-0d96-44d0-a1d4-2eaeb015f181
+    )
+  )
+  (group "" (id 06ccedf2-7998-4d3b-97eb-7711943b82a0)
+    (members
+      9b516c1e-e69d-4877-af83-31c5c37d8c31
+      a5406dda-a320-42fc-8cab-498f862c794e
+    )
+  )
+  (group "" (id 0acf806b-92c5-4bac-9d88-ada3634b149c)
+    (members
+      11ac406a-99c1-49fa-961c-eaec11006b7d
+      1bcd81a7-bdfc-49ef-b459-17caf783e6ac
+    )
+  )
+  (group "" (id 0d7be6a3-c0fc-4010-8102-8609e04e6a1a)
+    (members
+      6e2bd35d-08f1-485b-9cee-dd74d5839c07
+      c774da2d-4c80-401b-92e3-fcbb13a2a42d
+    )
+  )
+  (group "" (id 0e0b1df6-b009-41aa-bd85-4b0acdf988f1)
+    (members
+      acb27df3-f2c2-4858-9c2e-4405c28a5770
+      e8ba873d-a362-4fd9-a02f-e41e506a07ff
+    )
+  )
+  (group "" (id 114a572b-f4fe-4d12-9f07-4d6b4b42eb22)
+    (members
+      32c9cb17-3200-4753-b987-db9b01d3b872
+      91f7f9f4-28f4-49ef-b9db-e647cdd9f3bf
+    )
+  )
+  (group "" (id 12e7a672-e3f5-4d6a-bd84-405bd239755d)
+    (members
+      0a9f32a5-ab5d-4a5d-a01e-412412dfabe9
+      5fb04b6a-9754-4da4-9773-8e30f87f8c66
+    )
+  )
+  (group "" (id 1303c12f-390e-4626-81f3-c85029683d5c)
+    (members
+      9083b880-3050-4a95-8ea9-85fdcda13937
+      de21c735-bbc1-4e4c-919a-047042157d88
+    )
+  )
+  (group "" (id 133d60f9-8a4e-46b6-90c0-9afea75c9b00)
+    (members
+      7a69a2c3-5970-439c-8729-cfc801fe5261
+      a5db52e7-dbca-400f-8e5c-587d0d52cd6b
+    )
+  )
+  (group "" (id 13a6026d-b396-43c5-aa22-46deeda55db5)
+    (members
+      c5ae1e9d-1e61-494a-bbec-1b0512537819
+      d6b12dcb-5ef0-40ea-86c8-aff1932ea2cf
+    )
+  )
+  (group "" (id 14e08f87-0806-440b-8832-c53ad154e585)
+    (members
+      99dd8211-8776-4162-affd-cef156765787
+      f8030760-acad-4283-9e59-29670fcf1b5e
+    )
+  )
+  (group "" (id 1560d26c-bfc0-4302-beb1-a96d9cfe0298)
+    (members
+      a90dee24-1d67-4ff5-9052-879360613c34
+      f7e55f46-fdfe-449e-9b24-b3310b2391d8
+    )
+  )
+  (group "" (id 1faba2a5-42be-4a56-a377-1c43214af401)
+    (members
+      492496bf-3631-45a3-a85f-0838a9ddade7
+      71146dac-58fd-41a3-935d-b2cccabf41b0
+    )
+  )
+  (group "" (id 216d42bb-f356-4117-a1b2-832ba98787c1)
+    (members
+      0bfbcf54-7e6d-4292-bd2f-de0c64c7e926
+      ed59ad07-f85f-4001-8f44-54b0eb6efbe9
+    )
+  )
+  (group "" (id 25e9a4cf-9144-47a8-8825-230e6e87344d)
+    (members
+      3620516b-e910-4022-bf83-29dea30743d9
+      e736c939-d426-4623-b246-f5514b9fca97
+    )
+  )
+  (group "" (id 276ffaca-826e-4b0a-953e-ec1ab6f377a9)
+    (members
+      2c2d4369-49ad-44ff-935a-48aa56e42a3e
+      e6d59f4d-ea0a-42c6-b70b-c6113a1feea1
+    )
+  )
+  (group "" (id 294d88c6-ae0a-49a9-8113-fdcbc998c07e)
+    (members
+      7ee45325-4c2c-44fb-9032-23ffcdb37829
+      e6b8e594-16f9-49e8-af4b-95fd68d197c0
+    )
+  )
+  (group "" (id 2d1074c0-46d1-43b5-818d-82d7e1757131)
+    (members
+      8b620bab-5ed9-4a55-817a-b35e14c97fe3
+      f0a334fd-d76d-4437-a3c3-9820eea6b297
+    )
+  )
+  (group "" (id 2e8d5751-fbb8-449f-856d-8f7165279f7d)
+    (members
+      13851de4-a8ae-49dd-b870-bbc9c980b62c
+      c6f78925-0c35-4823-a4e2-b94f844f662b
+    )
+  )
+  (group "" (id 316dadb8-d41e-4664-8c76-a559f0eca5b9)
+    (members
+      6d32b556-bddc-4ca3-a6de-5661f050bbe2
+      d6c21fe3-d0db-4967-845d-83fd7eb01626
+    )
+  )
+  (group "" (id 3689b87d-4225-4cee-8cf2-0ac254219870)
+    (members
+      22298809-f7a2-4814-9618-67160b27acbe
+      fa6cdff9-3980-4eb0-a5f3-a146247159c2
+    )
+  )
+  (group "" (id 372f2a8b-1428-4c90-b68e-b4caeb15e154)
+    (members
+      2c9599b2-941c-4b62-a96e-84bfe01999ba
+      5ca86452-85d3-4154-bdf8-749f78d91909
+    )
+  )
+  (group "" (id 3bb736ed-05b9-4fc7-8723-6637df080dbc)
+    (members
+      2ab16c4c-3242-49f1-986f-0d44dab1b1c3
+      c85c6568-5629-4b71-9449-233062acf549
+    )
+  )
+  (group "" (id 3f75d23a-c4fe-4e92-ac08-efca63e18f8b)
+    (members
+      870f1d79-6f9c-4efb-8f29-ba777b978628
+      ce7a5638-18df-4435-bb40-3f2128c92d9e
+    )
+  )
+  (group "" (id 452eed88-0adb-4d5b-ac9a-de345538de9d)
+    (members
+      c0d7358e-1a2a-4d25-818e-1dda4aa6bb14
+      ce318c42-b2ff-469e-a2ec-36211245118a
+    )
+  )
+  (group "" (id 456d7822-f594-40d4-8bb1-af62333a3995)
+    (members
+      678b4924-e130-4875-90eb-3f2aacb67ec1
+      b19a34cb-99b5-471d-8ca0-799d38cf362c
+    )
+  )
+  (group "" (id 46882501-1f35-4989-81e8-c8828234f43e)
+    (members
+      2c0f900d-c702-4d6c-a465-a0fd106c71e5
+      c47626c5-f3bb-4574-9e10-fbcd126a23d9
+    )
+  )
+  (group "" (id 47785d7b-9368-4721-ba89-6e49565b0aa6)
+    (members
+      555bffa1-857e-4790-80aa-63492204df2d
+      7de0637a-1a07-46fa-85be-4a0aa34e0e72
+    )
+  )
+  (group "" (id 496ec44f-cd70-4abe-a81c-f0c3cdfca9ec)
+    (members
+      1add1ab2-f6ee-4939-ae0e-d3674496e407
+      a11939d0-23ef-4989-b454-1c9f8814065b
+    )
+  )
+  (group "" (id 4973af1a-b82b-49dd-9dda-71ff41a0b7b0)
+    (members
+      a763dc91-a256-4a2b-a567-494028a945af
+      b265c01d-a766-478e-b76b-c5e28b0a4614
+    )
+  )
+  (group "" (id 4a525ee3-dc2e-42a2-b4af-c2e80cefaab0)
+    (members
+      406ab3da-cd43-4bb3-8c69-18ced67ccd7b
+      5eefc958-7690-48a4-b0c9-04a36878a9b9
+    )
+  )
+  (group "" (id 4aa89b0b-5da1-4cc5-bcba-ab8d0df90c44)
+    (members
+      6e9876a5-ab67-4d9d-a706-02b804a17b31
+      d6d6ee3b-ef07-4e46-bf64-ba7d268fc6d4
+    )
+  )
+  (group "" (id 5086d814-03ad-4075-aad0-9199064a1c90)
+    (members
+      87152760-cb7f-40c7-9d2b-abe400536cc3
+      cfaf3d3b-a4f4-4c4d-88bb-225f76a8d9b0
+    )
+  )
+  (group "" (id 51af3b58-b3b6-43e6-b7a0-25655516f4e0)
+    (members
+      2354fc89-e6bf-42ff-bc5b-565157526915
+      a917e075-1045-4dd9-b0fd-f4c05e531872
+    )
+  )
+  (group "" (id 5394cf00-6bd9-468d-8367-0c72ace56b7d)
+    (members
+      15f63e46-1a8f-4241-a8c4-2a5be61aa72a
+      df2a8332-2160-47e9-9890-541f43ad282c
+    )
+  )
+  (group "" (id 54c39a04-2539-4cdc-9be2-017cc95ad5ff)
+    (members
+      591369c9-53d9-4ee8-96d8-d48c5e7133c1
+      e16add84-1195-40c5-b67f-0f47fd5748ec
+    )
+  )
+  (group "" (id 54f0b60d-f101-47c8-9f6c-2520b63e6a47)
+    (members
+      741f29b0-9302-4677-bec7-ed00b04a2809
+      a61d4c7b-0a9a-4cae-922c-3f7016223558
+    )
+  )
+  (group "" (id 55718df3-effe-428c-83bf-bde9a559a017)
+    (members
+      039897f5-b406-43d5-8019-a52a32bd6fec
+      487e7912-d118-4f3d-a439-0d7e2b3a9a05
+    )
+  )
+  (group "" (id 581ee680-da67-4eb7-a627-e11e41ce7678)
+    (members
+      5334d06d-a35d-408d-9737-db44fa2d934b
+      b1494fb3-3352-4a2f-823f-ecf8322853af
+    )
+  )
+  (group "" (id 5d68a332-6a5c-42be-9ed5-ca60c128a756)
+    (members
+      797b0669-4bb4-409d-a95d-e1c1e56b0abc
+      d78e9fec-2876-47fb-8600-c1a4dc734c5a
+    )
+  )
+  (group "" (id 63eb2f29-1c9e-4a50-9488-405aef1fa025)
+    (members
+      0a2a50b9-9cdb-4a0c-a4d0-2a2f7abcdd10
+      388750bb-a06d-4b7a-bd4f-e30680973641
+    )
+  )
+  (group "" (id 660b282a-bf4a-423f-9f13-73a732fabeeb)
+    (members
+      38e600d4-ebd2-49ba-a767-c108d0602f72
+      c3808dcf-c06c-4b71-a0a0-f2e53af1cdae
+    )
+  )
+  (group "" (id 66e9edb5-4da6-4e13-92a2-050c8e078a58)
+    (members
+      5406f765-4135-43a8-8e94-1c9eb8abac28
+      94c8b228-15f9-434d-9aec-e41701051766
+    )
+  )
+  (group "" (id 687cd5f8-9df9-482c-9590-8c837e02271d)
+    (members
+      0e9c8c92-50b1-49db-a664-41b46b93a6a7
+      7a756d37-ecdf-4c8a-90b0-8888daf17082
+    )
+  )
+  (group "" (id 695ed48a-e192-41c7-b0ee-9156125386d8)
+    (members
+      042e0575-087f-4aea-bb4c-8222dc5660d5
+      e443b6a7-1d26-4a0c-8dc7-30018eed27e9
+    )
+  )
+  (group "" (id 69a0d47a-4b6f-45c9-9b64-32425f30ee1b)
+    (members
+      2433f823-b37d-4b59-a745-bdf3bb5447a0
+      f1fb0f83-fbdc-4317-89f8-9095449bde4e
+    )
+  )
+  (group "" (id 69dc9fe9-d057-48b9-b8d6-11b9187e36ef)
+    (members
+      69b395f2-7cdd-44a1-88bc-9c8f1df31e3d
+      f39224e3-d617-4aa5-b9cd-5077280ca2f4
+    )
+  )
+  (group "" (id 6a412dfe-381a-4da6-b797-a2fa1acd6796)
+    (members
+      00e03dd8-190f-4a87-993f-f09c8947492d
+      1a0fcc42-6742-4026-9273-98070c2da4a7
+    )
+  )
+  (group "" (id 6a802c4d-90e1-4513-abb2-b6fdcc2257ba)
+    (members
+      9840a241-947c-4164-ada9-d51213cc6a0e
+      cb751e24-8f20-4350-b7fe-e172c0d11c26
+    )
+  )
+  (group "" (id 6aebbfdf-e2f4-4823-a1ee-5ab04f1ea417)
+    (members
+      0b5e661f-0dae-47dc-a87a-e5cdb63ef0e7
+      615c595d-2219-476c-be97-7f412c290c5e
+    )
+  )
+  (group "" (id 6babcf99-1b89-4ef4-bd32-24a5adbea9c9)
+    (members
+      368634d2-1a31-475e-bc17-09e29969b8a6
+      4b45a3d6-36f8-4b84-9671-896bba4240a5
+    )
+  )
+  (group "" (id 6c706e66-f0b7-4cb9-83f6-8cff978301e5)
+    (members
+      265b0d53-4561-4d0c-b357-1449c35d46a7
+      d8b6f499-7691-4cdf-8688-218b9fb3a52b
+    )
+  )
+  (group "" (id 6d6cfe11-e0aa-47fb-ac7a-3cb5adff2df7)
+    (members
+      466187fd-4d66-4740-a9cc-2b549c454433
+      ebf7a519-884e-4b88-96d6-5a9e27e35880
+    )
+  )
+  (group "" (id 70fa4971-a08b-4c35-a333-eedd7c0b06f9)
+    (members
+      842092d2-0c84-4979-955d-155390ab7c87
+      a0a58f38-4013-4a96-9161-8e5a81e04701
+    )
+  )
+  (group "" (id 74d2c007-3e3c-4a18-8c20-d469996c5f5e)
+    (members
+      24ea5bf5-4591-4b74-a585-39933c13cf72
+      f13d6c72-b5e8-47ff-bfc9-54973de832f3
+    )
+  )
+  (group "" (id 77dcc10f-0786-4b74-9f37-393b5da8436f)
+    (members
+      273c593b-9c0a-4027-acdd-5d47cb142fe8
+      deccaef7-6fd8-4948-8e0f-b892051387dd
+    )
+  )
+  (group "" (id 794b646a-031f-458e-8e4b-e0ba307c4e2f)
+    (members
+      5989ff8e-b5c0-4aa6-8af8-c91496fb59e6
+      f8a44f5e-0416-4660-8a9a-a94ac9f7a544
+    )
+  )
+  (group "" (id 7a28cc36-6809-4e38-a3e6-84e61b67a456)
+    (members
+      c64c8d7b-13af-4155-a7ca-b8bbf8214a6b
+      fd29e69f-d93e-47e3-8aa7-adae45561b66
+    )
+  )
+  (group "" (id 805023fd-7907-4a74-95da-be21034fec2a)
+    (members
+      cbe7a59a-c22a-4555-a3a9-cd652b753eb7
+      cea7c492-a92b-4410-8a2d-0969f03d98cd
+    )
+  )
+  (group "" (id 811d3432-3ad0-4129-825e-2d2fe4879bc2)
+    (members
+      865ae3ac-698b-4cad-bac2-a9dca36342fe
+      c218917c-7c85-4e1b-8029-986ea33eea95
+    )
+  )
+  (group "" (id 89714d51-a0c5-40af-9187-8f5fe0d6980e)
+    (members
+      82d726ee-5885-4052-abcc-5166ca51ce52
+      b45571a9-d64c-42f4-8c03-0ec4b1809350
+    )
+  )
+  (group "" (id 8a418263-c0d2-4798-8114-103a1677419c)
+    (members
+      7456d2c5-88ff-4825-bcea-65be99accf91
+      d13a7cd0-cdd0-4720-bcbd-870fdd6620b3
+    )
+  )
+  (group "" (id 8ed1a1f9-7604-442c-a818-17d9acb69120)
+    (members
+      352cc7da-609b-4f78-9647-dc7284ded620
+      519bcaa3-e306-4c74-9174-6abba76536db
+    )
+  )
+  (group "" (id 9183c927-76de-4c9c-8784-0e061dce571b)
+    (members
+      0e65a4f7-b8fc-4650-9751-bc0154d240f2
+      3383afeb-aba8-4c18-bc93-826cdb6123d5
+    )
+  )
+  (group "" (id 93109a9c-c6cf-4daa-bd9a-08ad76580aa7)
+    (members
+      35934aa0-15c5-452c-b8e3-331807c48651
+      8beaa1ad-3076-49d5-b48e-92a68d763940
+    )
+  )
+  (group "" (id 954b7368-b07b-41c7-bf8a-482040240017)
+    (members
+      c52dd1a6-4abe-4f29-882c-3ef1ffb273e0
+      edfccb70-c3d5-4044-9b07-56c7b5c94bcc
+    )
+  )
+  (group "" (id 95d03705-8d43-4c21-83c6-c4e399c52b1a)
+    (members
+      2cbb770a-0675-4a1d-89ae-cd2b4449063f
+      f516ed3a-7e1d-4928-8d06-1a4293c1aca6
+    )
+  )
+  (group "" (id 97e90e30-9cca-487b-aa9a-a5cc86a9f3fd)
+    (members
+      64cf2043-4995-4712-be8a-821d572cc266
+      fe95b299-030b-44c5-bf98-8ef0b1d2f17e
+    )
+  )
+  (group "" (id 98f895fc-0137-4fa9-862a-09abd9741aad)
+    (members
+      a80ef762-f1e2-4ea6-8f9b-67d7ea4ab5e2
+      cfda4e6c-a2e4-4ea0-a8d9-a2cc075655c0
+    )
+  )
+  (group "" (id 9920814a-df8b-48d9-92df-a9a4b425e9e8)
+    (members
+      67998046-411f-48c9-9919-d89b22654b1e
+      7cae4cc3-574b-4a4c-b36e-cb6ba7516d10
+    )
+  )
+  (group "" (id 9aa464ab-9813-4024-a299-29dbf13e19c3)
+    (members
+      ca99ad83-b40b-4bcf-840c-cde26fef9b3f
+      f5036c19-3f95-49ff-9b21-fa7f503a5da4
+    )
+  )
+  (group "" (id 9b2539a3-a9f7-451b-a048-289a0cea2e05)
+    (members
+      030cec59-10ed-4cef-9199-d25fae4506c4
+      4f9b1cc6-a88e-483b-a472-b3adf98b23bd
+    )
+  )
+  (group "" (id 9e579e21-6e1a-4ec9-81c4-14d57f8d8179)
+    (members
+      6cad6a2d-61ca-43e8-9c5e-fb0fbe2303e2
+      c73b7231-2ecc-4455-9cc3-2b6d4ab0c7ae
+    )
+  )
+  (group "" (id 9e5f8768-95bc-4d62-ba12-072a3a4853af)
+    (members
+      814ec186-6e94-4d89-97ff-b79e29bef342
+      bda26729-3b67-46de-9734-4e9924a4f74b
+    )
+  )
+  (group "" (id 9edf90e8-51cb-4a7d-b189-bf0833819a85)
+    (members
+      5984aac4-ee10-4833-a67d-5bd68742035e
+      a0a251c9-366c-458d-9826-2e39f645a29c
+    )
+  )
+  (group "" (id 9ee35fab-44a6-4426-911e-4204314c53bc)
+    (members
+      384c1852-0a25-4ea2-8756-a257d6215075
+      55d1e334-b8fc-46f6-9556-fc9af75144b4
+    )
+  )
+  (group "" (id 9f07160b-3928-4748-a15b-0e8e93884633)
+    (members
+      2bf6901e-b091-45c5-9f7a-add68c3d7d31
+      9263ff5b-4da1-4eec-83f2-c9f5f3579276
+    )
+  )
+  (group "" (id 9f87933d-45c5-4361-80e5-a9178288b8c4)
+    (members
+      071b149d-f2ab-4446-9869-e896bc55a15b
+      d57fad66-e051-411b-9d3a-f037f6f6e5dd
+    )
+  )
+  (group "" (id a0a446bd-58c6-4458-aa12-68f8b68297e9)
+    (members
+      96a9a441-d945-497a-87d8-cc2098cf7d2f
+      e8d8be3b-56a8-47f9-9c2e-87cfe9a4086b
+    )
+  )
+  (group "" (id a46c4826-9f8d-4422-8fec-e63ddde6ffa5)
+    (members
+      7b543cef-faeb-4555-8284-5eff60be0af7
+      d8572e83-7fe3-4bf2-9450-1370bde4a3b2
+    )
+  )
+  (group "" (id a5263182-4639-4ca8-b24d-8d202d594957)
+    (members
+      1bc46595-b05b-4518-ad1f-843bf2fbb93d
+      c6dd4a31-720a-46b6-b2f9-4ee82fd0e28e
+    )
+  )
+  (group "" (id a82c8c2f-30b8-4241-affa-78fdf983e121)
+    (members
+      68feb5bb-09fd-4972-b44e-7bc79005730f
+      7da6a2d1-7541-43ba-9b55-f6906f2f13ca
+    )
+  )
+  (group "" (id ab52f362-7d13-4355-9867-10cef49fbc7f)
+    (members
+      a50c9b43-5b01-48e6-b58b-66def9700a0b
+      daad462a-ead9-487b-8349-4143cb8308ce
+    )
+  )
+  (group "" (id aeed4aba-8127-46f2-9f3d-063ec0224752)
+    (members
+      0d6b8396-111b-4c9f-a306-c5330226573e
+      f6d4e8e5-d829-482a-ae61-d9504916e7cc
+    )
+  )
+  (group "" (id b27140b0-bb69-46ab-8fe7-af79471445bd)
+    (members
+      30f04e0d-95f6-43ea-9e69-2697b19efcbe
+      3324333a-d0eb-4d92-b9c0-405f8178cc54
+    )
+  )
+  (group "" (id b3a56274-369f-4a26-a16b-635aae59639b)
+    (members
+      092133f6-6813-4483-ad14-40053bb1fb33
+      87a50c23-08b2-4d1c-a3a5-8b955e4568f0
+    )
+  )
+  (group "" (id b7fde480-d092-4b8c-95db-653b0a74cfe7)
+    (members
+      70dfe162-7651-42e3-a703-3d00e835d41e
+      e8ecdedb-e895-4ea0-b3a2-a576cc6ff155
+    )
+  )
+  (group "" (id baa2e8a6-51ab-456a-b045-f88af7d8203a)
+    (members
+      61bc9b15-dcc5-46ae-9ea3-c51fe86a610f
+      92e5f579-4705-435a-a3db-74c14bb62629
+    )
+  )
+  (group "" (id bc688ff4-21ea-484a-b5aa-434658ef4b17)
+    (members
+      79bff9d9-78ba-4089-803a-506a31f54593
+      7f7867ef-84c7-4b27-bbc0-87897c15a499
+    )
+  )
+  (group "" (id c0a68e9d-eb87-4235-a48b-8c8af8bda9a8)
+    (members
+      11822445-cbec-4dcc-bb82-5a5f05034a75
+      58481694-961f-48da-a764-17306bd11967
+    )
+  )
+  (group "" (id c1d2f58b-c775-422e-91fb-1392163277bc)
+    (members
+      3d224c87-a16f-4a28-af50-b438d4c6663d
+      e0eeb531-9fd9-4e5c-add9-35ed148fbe8c
+    )
+  )
+  (group "" (id c5d4249d-59e0-4998-9936-331c1b773714)
+    (members
+      29380365-9c6b-4452-aea8-0fb95b3f9be1
+      2fc11800-3c66-45f1-81db-98d573c7b3b9
+    )
+  )
+  (group "" (id c983fb55-4510-40b6-a477-6ce3453e36bd)
+    (members
+      65382b47-c674-405b-998c-9806c5e6fcb9
+      665879ed-4932-4d6e-99ad-ac390d1d2ba0
+    )
+  )
+  (group "" (id ca6a0c74-4172-4526-a54d-ac51446cc79b)
+    (members
+      7d280e2b-3178-43ee-bc74-6150b3f951ec
+      dc2b0408-cd58-417f-a04f-0e232a008ab6
+    )
+  )
+  (group "" (id cce0a80e-8866-4926-bfe0-d0dd0a82de31)
+    (members
+      25b831fa-81c6-4c9b-97d3-56d19f84573d
+      c566b084-d38b-49c0-b953-1228bb1355d0
+    )
+  )
+  (group "" (id cd48dd8d-65e3-48d4-acc3-2b7f8eaee74a)
+    (members
+      5f741285-d0f7-4b5d-b7be-2e7a3a6adcbc
+      b04f49e2-ec5a-4ef1-b52e-bc483d3e32d1
+    )
+  )
+  (group "" (id d2037d76-0940-4c52-b877-a885ae5552fe)
+    (members
+      3d3e2baf-f27d-4550-ae1f-b7363e056569
+      df1878bf-1e3f-419b-b866-a550c17b0aa8
+    )
+  )
+  (group "" (id d8143fc1-804c-4871-8726-dd4f210eaabc)
+    (members
+      7f9091e0-336a-4f75-ae61-94a0860e9a8f
+      d373136a-9da9-4c5a-a454-ea97f9708820
+    )
+  )
+  (group "" (id d9c87dde-7618-4cd5-be7d-5b33a08932ad)
+    (members
+      54dc54ba-9eea-4ce7-8e4e-fe5c43234366
+      cced4fc9-99ab-4617-87ae-b1d32b14648a
+    )
+  )
+  (group "" (id dd95599e-a1a4-4f54-b9f2-142470c773ee)
+    (members
+      419b8ef4-0615-423f-a516-5eb6b141f4cd
+      69967932-2dcd-4244-b261-b42817f0be35
+    )
+  )
+  (group "" (id dfeab41a-94ab-47a9-b04e-7ddf747a6bb5)
+    (members
+      0c32765c-1320-4001-bb83-0338f592c69f
+      4160d112-01b3-4e00-9734-113d076d5895
+    )
+  )
+  (group "" (id e7380ed6-cb9f-4d82-a017-28e91e01acad)
+    (members
+      4d2a8753-8572-4514-b0f4-27af33455a1a
+      dcacf876-650e-449e-95d6-9996b67aebef
+    )
+  )
+  (group "" (id ed405dcd-7491-465d-943a-f274402ec503)
+    (members
+      2144563c-8d7a-4c11-b703-9a8cd2010ed4
+      8a433065-eabe-4df2-a150-46ea1da02f32
+    )
+  )
+  (group "" (id edd8fb84-f0a8-4484-b459-9832ff7f0c4a)
+    (members
+      5da986de-6d3c-4aa3-9e41-d2e901bde693
+      bd65527c-2ac7-4901-a2a7-b27fd3b86eaf
+    )
+  )
+  (group "" (id efe925a5-5c68-4c6a-8384-20b21ff806c3)
+    (members
+      0ba50934-ee10-4229-a0ec-ab3f78a24773
+      55eeeabb-1a10-4e10-ab66-35f56c58f921
+    )
+  )
+  (group "" (id f0c7df0d-d79c-44c9-bc83-f90443f1a985)
+    (members
+      a8c1de28-1e75-498b-bf09-87f3c177a481
+      da8ba516-6319-4f31-8c5a-1f2c27a242d9
+    )
+  )
+  (group "" (id f39ffb15-1cac-4d82-a767-fd35cd5b6544)
+    (members
+      cd27408c-1c6a-42da-91f1-73b0b154e9a3
+      d65483c5-6b6f-4c0c-9aaa-8d456f465454
+    )
+  )
+  (group "" (id f41c2605-73aa-4ea6-aa88-b07b2c160055)
+    (members
+      0d5442c0-faba-4c4e-a6d9-0f6edde839cb
+      46af34b0-aace-47e1-928d-ff8821dec5ea
+    )
+  )
+  (group "" (id f444932a-14da-4df8-98c3-20267a513c38)
+    (members
+      77e51f85-2a77-48f5-ad2c-5f83e106c73d
+      c8d78ca9-61c4-43d2-b216-9cc93ff1dc21
+    )
+  )
+  (group "" (id f94ad9eb-3f6b-44ae-923c-06ab59bc228d)
+    (members
+      2aa1122b-7e3d-4cb6-918d-78877d75c76f
+      9d9d9f55-ad1d-4124-9638-fb25cbd6c311
+    )
+  )
+  (group "" (id fa8eed0c-055e-419b-a673-17b8b8e0dd1e)
+    (members
+      18e5b6f4-c137-48e9-b161-df4ea36ff04c
+      f4adbd41-fe0c-4481-b416-f432a65dd4e1
+    )
+  )
+  (group "" (id fb7af20c-0786-41c5-a3ec-86ce1e9d9d3c)
+    (members
+      05500cc8-fcb1-40cb-99dd-7d306ad4292b
+      63971eff-2d6b-44b9-b817-ea28a696f7df
+    )
+  )
+  (group "" (id fbcc9a52-c66a-4127-b74f-2598f79cd8d5)
+    (members
+      52c6f3ed-8a85-4a8e-97e6-f6b5422739d2
+      81eb7eb4-f556-428f-afbd-5cc40f40e3fa
+    )
+  )
+  (group "" (id fc174615-61a9-4f99-8017-ae3972fa99e8)
+    (members
+      39106912-8e87-4351-923a-399f7c1e2c65
+      3d2041d8-702a-4713-b216-9ff29a31a5c8
+    )
+  )
+  (group "" (id fd94e3d5-ea6f-4905-9bb4-6c57d816be10)
+    (members
+      02878c19-4ea4-4a2a-9a0c-d752bca83384
+      116443b9-1a27-4150-8159-8b118d48c566
+    )
+  )
+)

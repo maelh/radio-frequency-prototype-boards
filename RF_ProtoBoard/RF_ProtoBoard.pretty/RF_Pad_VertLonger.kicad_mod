@@ -1,0 +1,21 @@
+(footprint "RF_Pad_VertLonger" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 3.302 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 880986f2-3682-4cc7-b728-16a77aa776c9)
+  )
+  (fp_text value "RF_Pad_VertLonger" (at 0 4.826 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0f7d8c33-9936-4f50-be56-ad43dc898bb5)
+  )
+  (pad "1" thru_hole circle (at 0 0) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.381) (clearance 0.381) (tstamp 804f29b6-ea28-4b68-973f-c2cf57913ef5))
+  (pad "1" smd rect (at 0 0.1905) (size 2.286 2.667) (layers "F.Cu" "F.Mask") (tstamp 96ed3ae1-5e0b-4f82-bd7a-f50897282825))
+  (group "" (id 40032b8e-7431-4cdd-9f41-b97598b33831)
+    (members
+      804f29b6-ea28-4b68-973f-c2cf57913ef5
+      96ed3ae1-5e0b-4f82-bd7a-f50897282825
+    )
+  )
+)
