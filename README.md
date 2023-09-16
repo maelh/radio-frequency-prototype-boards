@@ -15,7 +15,7 @@ When you don't happen to have access to the very expensive RF equipment of a uni
 
 There is also a more advanced university level course ["Designing and Building Transmitters and Receivers"](https://ecefiles.org/rf-circuits-course-notes/) and its [part list](https://ecefiles.org/wp-content/uploads/2023/01/000b_ECE662_PartsList_F19.pdf).
 
-Finally, MegawattKS kindly provided his [original design for ExpressPCB Plus](/Original/RFprotoboard_Rev2_17nov22.rrb), which I used to take measurements of the various footprints and layout dimensions.
+Finally, MegawattKS kindly provided his [original design for ExpressPCB Plus](/original/RFprotoboard_Rev2_17nov22.rrb), which I used to take measurements of the various footprints and layout dimensions.
 
 ## Derived work (KiCad, many PCB manufacturers)
 
@@ -41,6 +41,10 @@ This resulted in two boards (out of the many variations I tried):
   
 The screw terminal on the extended version reduces the amount of loose wires going off the board. Now, all the power wires from the sub-boards can be routed to the centrally positioned pair of power pads, which have traces leading to the single central power screw terminal. The power pads on the backside of the board allow to add a decoupling/bulk capacitor.
 
+## Recommended lead-free solder
+
+After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowing solder making nice shiny joints.
+
 ## Related perfboard designs
 
 - https://github.com/electroniceel/protoboard
@@ -49,7 +53,3 @@ The screw terminal on the extended version reduces the amount of loose wires goi
 - https://github.com/mje-nz/protoboard
 - https://github.com/AriaSalvatrice/synth-protoboard
 - https://hackaday.com/2016/06/16/evaluating-the-unusual-and-innovative-perf-protoboard/
-
-## Recommended lead-free solder
-
-After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowing solder making nice shiny joints.
