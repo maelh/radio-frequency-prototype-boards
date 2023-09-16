@@ -15,7 +15,7 @@ When you don't happen to have access to the very expensive RF equipment of a uni
 
 There is also a more advanced university level course ["Designing and Building Transmitters and Receivers"](https://ecefiles.org/rf-circuits-course-notes/) and its [part list](https://ecefiles.org/wp-content/uploads/2023/01/000b_ECE662_PartsList_F19.pdf).
 
-Finally, MegawattKS kindly provided his [original design for ExpressPCB Plus](RFprotoboard_Rev2_17nov22.rrb), which I used to take measurements of the various footprints and layout dimensions.
+Finally, MegawattKS kindly provided his [original design for ExpressPCB Plus](/Original/RFprotoboard_Rev2_17nov22.rrb), which I used to take measurements of the various footprints and layout dimensions.
 
 ## Derived work (KiCad, many PCB manufacturers)
 
@@ -47,7 +47,6 @@ TODO: add 3d renderings of the boards, front and back side
 - https://github.com/mje-nz/protoboard
 - https://github.com/AriaSalvatrice/synth-protoboard
 - https://hackaday.com/2016/06/16/evaluating-the-unusual-and-innovative-perf-protoboard/
-- https://busboard.com/SP1-50x50-G
 
 ## Recommended lead-free solder
 
