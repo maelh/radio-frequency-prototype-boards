@@ -26,8 +26,8 @@ This resulted in two boards (out of the many variations I tried):
 
 - The [standard version](/RF_ProtoBoard), with all the original dimensions and features being kept.
 
-  ![Standard version front](/images/RF_ProtoBoard_Front.png?raw=true "Standard version front")
-  ![Standard version back](/images/RF_ProtoBoard_Back.png?raw=true "Standard version back")
+  ![Front of Standard version](/images/RF_ProtoBoard_Front.png?raw=true "Front of Standard version")
+  ![Back of standard version](/images/RF_ProtoBoard_Back.png?raw=true "Back of standard version")
 
 - The [extended version](/RF_ProtoBoard_Extended), with the following changes compared to the standard version:
   - **added**: screw terminal for power
@@ -36,8 +36,8 @@ This resulted in two boards (out of the many variations I tried):
   - **changed**: ground rings instead of a fully exposed ground plane
     - solder mask only exposes ground rings around the backside of plated through holes; ground rings should form nicer solder joints and hopefully ease solderability to the ground plane
   
-  ![Extended version front](/images/RF_ProtoBoard_Extended_Front.png?raw=true "Extended version front")
-  ![Extended version back](/images/RF_ProtoBoard_Extended_Back.png?raw=true "Extended version back")
+  ![Front of extended version](/images/RF_ProtoBoard_Extended_Front.png?raw=true "Front of extended version")
+  ![Back of extended version](/images/RF_ProtoBoard_Extended_Back.png?raw=true "Back of extended version")
   
 The screw terminal on the extended version reduces the amount of loose wires going off the board. Now, all the power wires from the sub-boards can be routed to the centrally positioned pair of power pads, which have traces leading to the single central power screw terminal. The power pads on the backside of the board allow to add a decoupling/bulk capacitor.
 
