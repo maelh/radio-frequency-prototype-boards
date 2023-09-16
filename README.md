@@ -59,7 +59,7 @@ This resulted in two boards (out of the many variations I tried):
     <div>Back</div>
   </div>
   
-The screw terminal on the extended version reduces the amount of loose wires going off the board. Now, all the power wires from the sub-boards can be routed to the centrally positioned pair of power pads, which have traces leading to the single central power screw terminal. The power pads on the backside of the board allow to add a decoupling/bulk capacitor.
+The screw terminal on the extended version reduces the amount of loose wires going off the board. Now, all the power wires from the 6 sub-modules can be routed to the centrally positioned pair of power pads, which have traces leading to the single central power screw terminal. The power pads on the backside of the board allow to add a decoupling/bulk capacitor.
 
 ## Recommended lead-free solder
 
