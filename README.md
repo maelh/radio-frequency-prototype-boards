@@ -25,6 +25,7 @@ The manual conversion was necessary, since the original boards are made for Expr
 This resulted in two boards (out of the many variations I tried):
 
 - The [standard version](/RF_ProtoBoard), with all the original dimensions and features being kept.
+
   ![Standard version front](/images/RF_ProtoBoard_Front.png?raw=true "Standard version front")
   ![Standard version back](/images/RF_ProtoBoard_Back.png?raw=true "Standard version back")
 
@@ -34,6 +35,7 @@ This resulted in two boards (out of the many variations I tried):
   - **extended**: complete 4 pad U.FL connector footprints with silkscreen (for easier alignment)
   - **changed**: ground rings instead of a fully exposed ground plane
     - solder mask only exposes ground rings around the backside of plated through holes; ground rings should form nicer solder joints and hopefully ease solderability to the ground plane
+  
   ![Extended version front](/images/RF_ProtoBoard_Extended_Front.png?raw=true "Extended version front")
   ![Extended version back](/images/RF_ProtoBoard_Extended_Back.png?raw=true "Extended version back")
   
