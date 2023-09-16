@@ -65,6 +65,9 @@ The screw terminal on the extended version reduces the amount of loose wires goi
 
 After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowing solder making nice shiny joints.
 
+## SMD component kits
+https://www.amazon.de/gp/product/B08QGD9G7C/ref=ox_sc_act_image_1?smid=A343O8N8FO74B8&psc=1
+
 ## Caveat!
 
 I haven't sent the design to a PCB manufacturer yet, but will do so soon with the extended version, testing it with JLCPCB. Let me know if there are any issues in manufacturability.
