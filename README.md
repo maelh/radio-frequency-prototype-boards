@@ -79,10 +79,14 @@ After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowi
 - "SMA RF DC-Block DC to 6 GHz 50 Ohm"
 - "Nooelec SMA Attenuator Kit - Bundle of 6pc 2W 50 Ohm SMA in-Line Attenuators"
 
+<br/>
+
 - "Interstellar Electronics SMD Professional Assortment Kit" (the surface mount parts box)
 - "Inductor Sample Book" (goes by various names/vendors - but that should pull up useful hits)
 - "50PCS IPEX U.FL SMD SMT Solder for PCB Mount Socket Jack Female RF Coaxial Connector"
 - "U.FL to SMA Male Coaxial RG178 Low Loss Cable"
+
+<br/>
 
 - "6.5ft Low-Loss Coaxial Extension Cable RG58 (50 Ohm) SMA Male to SMA Female"
 
