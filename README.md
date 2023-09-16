@@ -65,6 +65,10 @@ The screw terminal on the extended version reduces the amount of loose wires goi
 
 After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowing solder making nice shiny joints.
 
+## Caveat!
+
+I haven't sent the design to a PCB manufacturer yet, but will do so soon with the extended version, testing it with JLCPCB. Let me know if there are any issues in manufacturability.
+
 ## Related perfboard designs
 
 - https://github.com/electroniceel/protoboard
