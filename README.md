@@ -70,6 +70,23 @@ After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowi
 - https://www.amazon.de/gp/product/B08QGD9G7C/ref=ox_sc_act_image_1?smid=A343O8N8FO74B8&psc=1
 - https://www.amazon.de/gp/product/B0795DX46R/ref=ox_sc_act_title_2?smid=A1CKTEOLLEJC1Q&psc=1
 
+## Other parts (mentioned in MegawattKS' YouTube playlist)
+
+- "NanoVNA" (lots of different versions - mine is the 4" screen NanoVNA-F)
+- "TinySA" (some different types, but mainly different places to buy)
+- "RF Demo Kit for NanoVNA-F - by deepelec" (The green board with all the cool Smith Charts and components)
+- "NanoVNA Testboard Kit" (the little blue board the filter was built on)
+- "SMA RF DC-Block DC to 6 GHz 50 Ohm"
+- "Nooelec SMA Attenuator Kit - Bundle of 6pc 2W 50 Ohm SMA in-Line Attenuators"
+
+- "Interstellar Electronics SMD Professional Assortment Kit" (the surface mount parts box)
+- "Inductor Sample Book" (goes by various names/vendors - but that should pull up useful hits)
+- "50PCS IPEX U.FL SMD SMT Solder for PCB Mount Socket Jack Female RF Coaxial Connector"
+- "U.FL to SMA Male Coaxial RG178 Low Loss Cable"
+
+- "6.5ft Low-Loss Coaxial Extension Cable RG58 (50 Ohm) SMA Male to SMA Female"
+
+
 ## Caveat!
 
 I haven't sent the design to a PCB manufacturer yet, but will do so soon with the extended version, testing it with JLCPCB. Let me know if there are any issues in manufacturability!
