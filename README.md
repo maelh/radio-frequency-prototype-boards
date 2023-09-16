@@ -51,4 +51,4 @@ TODO: add 3d renderings of the boards, front and back side
 
 ## Recommended lead-free solder
 
-After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowing solder making nice shiny joints. It will
+After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowing solder making nice shiny joints.
