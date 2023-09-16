@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RF_ProtoBoard")(type "KiCad")(uri "${KIPRJMOD}/RF_ProtoBoard_Extended.pretty")(options "")(descr "RF ProtoBoard Module footprints"))
+)

@@ -1,0 +1,25 @@
+(footprint "GndRing_RF_Pad" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 3.302 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 880986f2-3682-4cc7-b728-16a77aa776c9)
+  )
+  (fp_text value "GndRing_RF_Pad" (at 0 4.826 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0f7d8c33-9936-4f50-be56-ad43dc898bb5)
+  )
+  (pad "" smd circle (at 0 0) (size 2.1336 2.1336) (layers "B.Mask") (tstamp 8e6e40da-1d39-43eb-b98c-8c70e0aacadd))
+  (pad "1" thru_hole circle (at 0 0) (size 1.0414 1.0414) (drill 0.508) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.3302) (clearance 0.3302) (tstamp 804f29b6-ea28-4b68-973f-c2cf57913ef5))
+  (pad "1" smd rect (at 0 0) (size 2.286 2.286) (layers "F.Cu" "F.Mask") (tstamp 5618a8db-0f18-479e-8fc2-2b0e5b341cde))
+  (group "" (id 192075ad-596a-420a-a154-4025b45820f2)
+    (members
+      0f7d8c33-9936-4f50-be56-ad43dc898bb5
+      5618a8db-0f18-479e-8fc2-2b0e5b341cde
+      804f29b6-ea28-4b68-973f-c2cf57913ef5
+      880986f2-3682-4cc7-b728-16a77aa776c9
+      8e6e40da-1d39-43eb-b98c-8c70e0aacadd
+    )
+  )
+)

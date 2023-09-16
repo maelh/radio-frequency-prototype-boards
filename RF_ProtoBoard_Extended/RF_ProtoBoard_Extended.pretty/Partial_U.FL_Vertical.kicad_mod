@@ -1,0 +1,89 @@
+(footprint "Partial_U.FL_Vertical" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "Molex Microcoaxial RF Connectors (MCRF), mates Hirose U.FL, (http://www.molex.com/pdm_docs/sd/734120110_sd.pdf)")
+  (tags "mcrf hirose ufl u.fl microcoaxial")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 3.5) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp cab256ca-8c24-472f-a95d-ea76c8a094dc)
+  )
+  (fp_text value "Partial_U.FL_Vertical" (at 0 -3.302) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp d0cd5a0f-4a70-4572-b06f-5a6a83f3af7a)
+  )
+  (fp_text user "${REFERENCE}" (at 0 3.5) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 47dd1611-25ac-4344-a4d4-c5536e01ba2e)
+  )
+  (fp_line (start -1.524 -1.5) (end -1.324 -1.5)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 48c3f972-63f4-4efa-8655-5b90f4947db4))
+  (fp_line (start -1.524 -1.5) (end -1.324 -1.5)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 663ce805-923a-49fb-80d8-2ffe4a3b610d))
+  (fp_line (start -1.524 -0.7) (end -1.524 -1.5)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 509d9d64-e85b-4fcb-a9da-0d423f037eee))
+  (fp_line (start -1.524 1.5) (end -1.524 0.7)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 544a8071-e49a-4933-b702-133f1a2fb20a))
+  (fp_line (start -1.524 1.5) (end -1.524 0.7)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp f7cf415d-59a5-4bbd-b1f1-6b64a4cfec96))
+  (fp_line (start -1.324 1.5) (end -1.524 1.5)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp 213f0c48-1a6b-4fa3-be80-93d3b9785fed))
+  (fp_line (start -1.324 1.5) (end -1.524 1.5)
+    (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp e10d2ed9-2830-4470-a86e-01c1f596ddfb))
+  (fp_arc (start 0.85 0.31) (mid -0.904761 -0.002674) (end 0.851817 -0.304971)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 028208ea-8643-4b15-8e5b-ce24d2b3a021))
+  (fp_arc (start 0.85 0.31) (mid -0.904761 -0.002674) (end 0.851817 -0.304971)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 69d21e33-31b4-4b68-aaaa-c8b01d4d0701))
+  (fp_circle (center 0 0) (end 0 -0.2)
+    (stroke (width 0.1) (type solid)) (fill none) (layer "F.SilkS") (tstamp 60e7f5a5-1442-4dd2-a39f-b158f5790e22))
+  (fp_circle (center 0 0) (end 0 -0.2)
+    (stroke (width 0.1) (type solid)) (fill none) (layer "F.SilkS") (tstamp 6171a1f1-35b3-4f9e-9dac-4c0d44cfcde7))
+  (fp_circle (center 0 0) (end 0 -0.125)
+    (stroke (width 0.1) (type solid)) (fill none) (layer "F.SilkS") (tstamp 43f6f4a5-543b-4267-83f8-514a64787558))
+  (fp_circle (center 0 0) (end 0 -0.125)
+    (stroke (width 0.1) (type solid)) (fill none) (layer "F.SilkS") (tstamp 9fad49ae-802c-4055-98d3-71b7083a160c))
+  (fp_circle (center 0 0) (end 0 -0.05)
+    (stroke (width 0.1) (type solid)) (fill none) (layer "F.SilkS") (tstamp 48644c13-8437-47cc-8e77-d83b4fc9e539))
+  (fp_circle (center 0 0) (end 0 -0.05)
+    (stroke (width 0.1) (type solid)) (fill none) (layer "F.SilkS") (tstamp 4b9f7509-7f4d-4a18-b653-41e0b3f20b93))
+  (fp_line (start -2.5 -2.5) (end -2.5 2.5)
+    (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 756a3c1c-ab82-4d01-9e0c-eb9c1c1a936d))
+  (fp_line (start -2.5 2.5) (end 2.5 2.5)
+    (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp eadde644-2bbe-44a1-97e1-5ef14b8a14d2))
+  (fp_line (start 2.5 -2.5) (end -2.5 -2.5)
+    (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 5140be46-9dd4-4c2e-8775-45cb3ab92510))
+  (fp_line (start 2.5 2.5) (end 2.5 -2.5)
+    (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp acadf9c8-6702-4aac-9e31-8e79b00048a0))
+  (pad "0" thru_hole rect (at -1.4351 0) (size 0.8382 1.016) (drill 0.3048) (layers "*.Cu" "F.Mask") (tstamp 47e91841-15a6-454a-9c59-b011cfc2ffe8))
+  (group "" (id 31ae1d35-8ea7-4a5f-a29d-be6735b8726a)
+    (members
+      028208ea-8643-4b15-8e5b-ce24d2b3a021
+      213f0c48-1a6b-4fa3-be80-93d3b9785fed
+      43f6f4a5-543b-4267-83f8-514a64787558
+      47dd1611-25ac-4344-a4d4-c5536e01ba2e
+      47e91841-15a6-454a-9c59-b011cfc2ffe8
+      48644c13-8437-47cc-8e77-d83b4fc9e539
+      48c3f972-63f4-4efa-8655-5b90f4947db4
+      4b9f7509-7f4d-4a18-b653-41e0b3f20b93
+      509d9d64-e85b-4fcb-a9da-0d423f037eee
+      5140be46-9dd4-4c2e-8775-45cb3ab92510
+      544a8071-e49a-4933-b702-133f1a2fb20a
+      60e7f5a5-1442-4dd2-a39f-b158f5790e22
+      6171a1f1-35b3-4f9e-9dac-4c0d44cfcde7
+      663ce805-923a-49fb-80d8-2ffe4a3b610d
+      69d21e33-31b4-4b68-aaaa-c8b01d4d0701
+      756a3c1c-ab82-4d01-9e0c-eb9c1c1a936d
+      9fad49ae-802c-4055-98d3-71b7083a160c
+      acadf9c8-6702-4aac-9e31-8e79b00048a0
+      cab256ca-8c24-472f-a95d-ea76c8a094dc
+      d0cd5a0f-4a70-4572-b06f-5a6a83f3af7a
+      e10d2ed9-2830-4470-a86e-01c1f596ddfb
+      eadde644-2bbe-44a1-97e1-5ef14b8a14d2
+      f7cf415d-59a5-4bbd-b1f1-6b64a4cfec96
+    )
+  )
+  (model "${KICAD7_3DMODEL_DIR}/Connector_Coaxial.3dshapes/U.FL_Hirose_U.FL-R-SMT-1_Vertical.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
+)
