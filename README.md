@@ -72,7 +72,7 @@ After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowi
 
 ## Caveat!
 
-I haven't sent the design to a PCB manufacturer yet, but will do so soon with the extended version, testing it with JLCPCB. Let me know if there are any issues in manufacturability.
+I haven't sent the design to a PCB manufacturer yet, but will do so soon with the extended version, testing it with JLCPCB. Let me know if there are any issues in manufacturability!
 
 ## Related perfboard designs
 
