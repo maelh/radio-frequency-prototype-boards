@@ -39,7 +39,7 @@ This resulted in two boards (out of the many variations I tried):
   </div>
 
 - The [extended version](/RF_ProtoBoard_Extended), with the following changes compared to the standard version:
-  - **added**: screw terminal for power
+  - **added**: screw terminal for power (and pads to solder wires onto)
   - **added**: mounting holes
   - **extended**: complete 4 pad U.FL connector footprints with silkscreen (for easier alignment)
   - **changed**: ground rings instead of a fully exposed ground plane
