@@ -47,7 +47,6 @@ TODO: add 3d renderings of the boards, front and back side
 - https://github.com/mje-nz/protoboard
 - https://github.com/AriaSalvatrice/synth-protoboard
 - https://hackaday.com/2016/06/16/evaluating-the-unusual-and-innovative-perf-protoboard/
-- https://busboard.com/SP1-50x50-G
 
 ## Recommended lead-free solder
 
