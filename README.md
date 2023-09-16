@@ -72,7 +72,6 @@ After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowi
 - https://www.ph2lb.nl/blog/index.php?page=xtal-adapter-for-nanovna
 - https://www.ph2lb.nl/blog/index.php?page=qrp-labs-filter-adapter-for-nanovna
 - https://www.ph2lb.nl/blog/index.php?page=rfsampler
-- 
 <br/>
 
 - https://www.ph2lb.nl/blog/index.php?page=component-measuring-adapter-for-nanovna
