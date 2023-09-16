@@ -34,6 +34,8 @@ This resulted in two boards (out of the many variations I tried):
   - **extended**: complete 4 pad U.FL connector footprints with silkscreen (for easier alignment)
   - **changed**: ground rings instead of a fully exposed ground plane
     - solder mask only exposes ground rings around the backside of plated through holes; ground rings should form nicer solder joints and hopefully ease solderability to the ground plane
+  ![Extended version front](/images/RF_ProtoBoard_Extended_Front.png?raw=true "Extended version front")
+  ![Extended version back](/images/RF_ProtoBoard_Extended_Back.png?raw=true "Extended version back")
   
 The screw terminal on the extended version reduces the amount of loose wires going off the board. Now, all the power wires from the sub-boards can be routed to the centrally positioned pair of power pads, which have traces leading to the single central power screw terminal. The power pads on the backside of the board allow to add a decoupling/bulk capacitor.
 
