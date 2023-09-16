@@ -26,7 +26,7 @@ This resulted in two boards (out of the many variations I tried):
 
 - The [standard version](/RF_ProtoBoard), with all the original dimensions and features being kept.
 
-  ![Front of Standard version](/images/RF_ProtoBoard_Front.png?raw=true "Front of Standard version")
+  ![Front of standard version](/images/RF_ProtoBoard_Front.png?raw=true "Front of standard version")
   ![Back of standard version](/images/RF_ProtoBoard_Back.png?raw=true "Back of standard version")
 
 - The [extended version](/RF_ProtoBoard_Extended), with the following changes compared to the standard version:
