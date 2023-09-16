@@ -67,6 +67,7 @@ After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowi
 
 ## SMD component kits
 https://www.amazon.de/gp/product/B08QGD9G7C/ref=ox_sc_act_image_1?smid=A343O8N8FO74B8&psc=1
+https://www.amazon.de/gp/product/B0795DX46R/ref=ox_sc_act_title_2?smid=A1CKTEOLLEJC1Q&psc=1
 
 ## Caveat!
 
