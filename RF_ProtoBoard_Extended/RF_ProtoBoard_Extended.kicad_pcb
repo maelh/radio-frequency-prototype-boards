@@ -931,7 +931,7 @@
     (property "ki_description" "Mounting Hole without connection")
     (property "ki_keywords" "mounting hole")
     (path "/24cc4f99-fa89-42dd-ba0e-989875ab542e")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H3" (at 0 -3.7) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0c530b44-53df-42b3-b01b-80dd413ae1ba)
@@ -957,14 +957,15 @@
     (at 33.02 66.04)
     (property "Sheetfile" "RF_ProtoBoard_Extended.kicad_sch")
     (property "Sheetname" "")
+    (property "exclude_from_bom" "")
     (property "ki_keywords" "RF Radio Frequency Connector Protoboard")
     (path "/b71c6441-da73-424d-ace8-19c10af3cbff")
-    (attr allow_soldermask_bridges)
+    (attr exclude_from_bom allow_soldermask_bridges)
     (fp_text reference "A4" (at 0 17.78 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 597a8711-1a2c-43d8-8091-e6c7cb55d2c8)
     )
-    (fp_text value " " (at 0 -17.78) (layer "F.Fab") hide
+    (fp_text value "GndRing_RF_ProtoBoard_Module" (at 0 -17.78) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 44573c60-56e1-486e-b92b-28516ba0ee35)
     )
@@ -2559,7 +2560,7 @@
     (property "ki_description" "Mounting Hole without connection")
     (property "ki_keywords" "mounting hole")
     (path "/b5527793-3ce4-4672-a5b0-be6b06ac44f6")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H2" (at 0 -3.7) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fc316367-cdb2-4f95-9c37-5e71e862c912)
@@ -2585,14 +2586,15 @@
     (at 33.02 33.02)
     (property "Sheetfile" "RF_ProtoBoard_Extended.kicad_sch")
     (property "Sheetname" "")
+    (property "exclude_from_bom" "")
     (property "ki_keywords" "RF Radio Frequency Connector Protoboard")
     (path "/fac9f8ca-5104-448f-adc0-988f735949b6")
-    (attr allow_soldermask_bridges)
+    (attr exclude_from_bom allow_soldermask_bridges)
     (fp_text reference "A1" (at 0 17.78 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp db4c378a-801c-4f0a-8701-245d9446b52a)
     )
-    (fp_text value " " (at 0 -17.78) (layer "F.Fab") hide
+    (fp_text value "GndRing_RF_ProtoBoard_Module" (at 0 -17.78) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 28a5c66c-cce1-4ce3-9780-e9d171efdb8b)
     )
@@ -4187,7 +4189,7 @@
     (property "ki_description" "Mounting Hole without connection")
     (property "ki_keywords" "mounting hole")
     (path "/8e7f715d-914d-4da0-9fac-a9a8bf83f0a3")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H4" (at 0 -3.7) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c0c0d3f0-db37-478c-863c-48528b1f3a8a)
@@ -4213,14 +4215,15 @@
     (at 66.04 33.02)
     (property "Sheetfile" "RF_ProtoBoard_Extended.kicad_sch")
     (property "Sheetname" "")
+    (property "exclude_from_bom" "")
     (property "ki_keywords" "RF Radio Frequency Connector Protoboard")
     (path "/4cceda87-691f-4518-ad2b-76111134fd91")
-    (attr allow_soldermask_bridges)
+    (attr exclude_from_bom allow_soldermask_bridges)
     (fp_text reference "A2" (at 0 17.78 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d9e44233-ba77-4b4b-9749-4fa328f28627)
     )
-    (fp_text value " " (at 0 -17.78) (layer "F.Fab") hide
+    (fp_text value "GndRing_RF_ProtoBoard_Module" (at 0 -17.78) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dfceeea0-b267-419a-8a78-3a0e55271df5)
     )
@@ -5805,14 +5808,15 @@
     (at 99.06 33.02)
     (property "Sheetfile" "RF_ProtoBoard_Extended.kicad_sch")
     (property "Sheetname" "")
+    (property "exclude_from_bom" "")
     (property "ki_keywords" "RF Radio Frequency Connector Protoboard")
     (path "/4b8e6fcf-d60c-4ecd-a9ee-f4ef22eb6804")
-    (attr allow_soldermask_bridges)
+    (attr exclude_from_bom allow_soldermask_bridges)
     (fp_text reference "A3" (at 0 17.78 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 69c252e2-79da-4aea-9c69-c4db519332d2)
     )
-    (fp_text value " " (at 0 -17.78) (layer "F.Fab") hide
+    (fp_text value "GndRing_RF_ProtoBoard_Module" (at 0 -17.78) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 77a531cc-1211-4ec0-9e73-4fa43aa545b1)
     )
@@ -7397,14 +7401,15 @@
     (at 99.06 66.04)
     (property "Sheetfile" "RF_ProtoBoard_Extended.kicad_sch")
     (property "Sheetname" "")
+    (property "exclude_from_bom" "")
     (property "ki_keywords" "RF Radio Frequency Connector Protoboard")
     (path "/eef9dbf6-66cf-4f8a-a958-9c1d61b9a70e")
-    (attr allow_soldermask_bridges)
+    (attr exclude_from_bom allow_soldermask_bridges)
     (fp_text reference "A6" (at 0 17.78 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 50d358cc-14b3-4795-a2ca-b96a5249c512)
     )
-    (fp_text value " " (at 0 -17.78) (layer "F.Fab") hide
+    (fp_text value "GndRing_RF_ProtoBoard_Module" (at 0 -17.78) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 371e5a4a-bbe8-44ab-bdf4-1f1af0fcde1a)
     )
@@ -8999,7 +9004,7 @@
     (property "ki_description" "Mounting Hole without connection")
     (property "ki_keywords" "mounting hole")
     (path "/0cad0f38-a5c1-4ff7-84ee-ccfd5d76bbc3")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr exclude_from_pos_files)
     (fp_text reference "H1" (at 0 -3.7) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ccda2a72-eba5-4e1a-9960-71fe8c49149d)
@@ -9025,14 +9030,15 @@
     (at 66.04 66.04)
     (property "Sheetfile" "RF_ProtoBoard_Extended.kicad_sch")
     (property "Sheetname" "")
+    (property "exclude_from_bom" "")
     (property "ki_keywords" "RF Radio Frequency Connector Protoboard")
     (path "/3e8e77f2-6d1f-4396-80a5-66e59cdaab0f")
-    (attr allow_soldermask_bridges)
+    (attr exclude_from_bom allow_soldermask_bridges)
     (fp_text reference "A5" (at 0 17.78 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ec5b7b0f-0ed9-4415-98c8-9ade968b4e0a)
     )
-    (fp_text value " " (at 0 -17.78) (layer "F.Fab") hide
+    (fp_text value "GndRing_RF_ProtoBoard_Module" (at 0 -17.78) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d2ce30ad-24b7-40d9-995a-9c19618d9928)
     )
@@ -10617,10 +10623,11 @@
     (at 66.04 13.462)
     (property "Sheetfile" "RF_ProtoBoard_Extended.kicad_sch")
     (property "Sheetname" "")
+    (property "exclude_from_bom" "")
     (property "ki_description" "Power connector, single row, 01x02, power distribution")
     (property "ki_keywords" "power connector")
     (path "/2fe0b8ce-dfbc-48d5-9a9c-a4a681ccd82e")
-    (attr through_hole)
+    (attr through_hole exclude_from_bom)
     (fp_text reference "J2" (at 0 3.302 unlocked) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.1)))
       (tstamp 82a2f009-79fd-44f0-b3a8-8d27899ae778)
