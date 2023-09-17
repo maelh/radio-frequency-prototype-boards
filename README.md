@@ -61,7 +61,7 @@ This resulted in two boards (out of the many variations I tried):
   
 The screw terminal on the extended version reduces the amount of loose wires going off the board. Now, all the power wires from the 6 sub-modules can be routed to the centrally positioned pair of power pads, which have traces leading to the single central power screw terminal. The power pads on the backside of the board allow to add a decoupling/bulk capacitor.
 
-## Fabricating RF proto boards
+## Fabricating the RF proto boards
 
 The necessary ZIP files are available in the fabrication directory, ready to be sent to a PCB manufacturer.
 
