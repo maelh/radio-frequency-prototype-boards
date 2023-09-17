@@ -822,7 +822,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b4dae245-6cda-41b9-a263-e756a53cc656)
     )
-    (fp_text value " " (at 0 -17.78) (layer "F.Fab") hide
+    (fp_text value "RF_ProtoBoard_Module" (at 0 -17.78) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9110643a-88cf-4be2-9f7a-eef9e887489d)
     )
@@ -2054,7 +2054,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6ced3452-b8ea-4e0e-8420-916849126a2c)
     )
-    (fp_text value " " (at 0 -17.78) (layer "F.Fab") hide
+    (fp_text value "RF_ProtoBoard_Module" (at 0 -17.78) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d6be0a7b-bfca-4551-ab1d-e53ccbe72653)
     )
@@ -3286,7 +3286,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f08a8b80-b37d-4e26-96aa-8539a29a49b0)
     )
-    (fp_text value " " (at 0 -17.78) (layer "F.Fab") hide
+    (fp_text value "RF_ProtoBoard_Module" (at 0 -17.78) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8e6c410d-92ff-452c-b40b-a2a4e721ec15)
     )
@@ -4518,7 +4518,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 94f534f8-7f32-4463-8114-cdf5b910c983)
     )
-    (fp_text value " " (at 0 -17.78) (layer "F.Fab") hide
+    (fp_text value "RF_ProtoBoard_Module" (at 0 -17.78) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 31978035-b4b7-4daf-b661-1effe2923ac4)
     )
@@ -5750,7 +5750,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 42b4c6d4-e599-4d0c-b352-a27f2282c24b)
     )
-    (fp_text value " " (at 0 -17.78) (layer "F.Fab") hide
+    (fp_text value "RF_ProtoBoard_Module" (at 0 -17.78) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a05de219-c4f5-485a-91a9-52c4401b3f7d)
     )
@@ -6982,7 +6982,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7eb18357-827f-4cdb-beee-9e69e7d49d57)
     )
-    (fp_text value " " (at 0 -17.78) (layer "F.Fab") hide
+    (fp_text value "RF_ProtoBoard_Module" (at 0 -17.78) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f26dc34e-bb8c-4406-80de-acbf8901bc5c)
     )
