@@ -1,6 +1,6 @@
 (footprint "VPlus_Gnd_Pads" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole exclude_from_bom)
+  (attr through_hole exclude_from_pos_files exclude_from_bom)
   (fp_text reference "REF**" (at 0 3.302 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.1)))
     (tstamp 880986f2-3682-4cc7-b728-16a77aa776c9)
