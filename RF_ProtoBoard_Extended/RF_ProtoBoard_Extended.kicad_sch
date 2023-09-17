@@ -111,7 +111,7 @@
         )
       )
     )
-    (symbol "RF_ProtoBoard:Conn_VPlus_Gnd" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+    (symbol "RF_ProtoBoard:Conn_VPlus_Gnd" (pin_names (offset 1.016) hide) (in_bom no) (on_board yes)
       (property "Reference" "J" (at 0 2.54 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -276,7 +276,7 @@
         )
       )
     )
-    (symbol "RF_ProtoBoard:GndRing_RF_ProtoBoard_Module" (pin_names hide) (in_bom yes) (on_board yes)
+    (symbol "RF_ProtoBoard:GndRing_RF_ProtoBoard_Module" (pin_names hide) (in_bom no) (on_board yes)
       (property "Reference" "A" (at 0 -36.195 0)
         (effects (font (size 1.27 1.27)))
       )
@@ -2524,7 +2524,7 @@
   )
 
   (symbol (lib_id "RF_ProtoBoard:Conn_VPlus_Gnd") (at 53.975 363.22 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 2fe0b8ce-dfbc-48d5-9a9c-a4a681ccd82e)
     (property "Reference" "J2" (at 48.895 361.95 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2650,7 +2650,7 @@
   )
 
   (symbol (lib_id "RF_ProtoBoard:GndRing_RF_ProtoBoard_Module") (at 146.685 270.51 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 3e8e77f2-6d1f-4396-80a5-66e59cdaab0f)
     (property "Reference" "A5" (at 146.685 253.365 0)
       (effects (font (size 1.27 1.27)))
@@ -2846,7 +2846,7 @@
   )
 
   (symbol (lib_id "RF_ProtoBoard:GndRing_RF_ProtoBoard_Module") (at 146.685 166.37 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 4b8e6fcf-d60c-4ecd-a9ee-f4ef22eb6804)
     (property "Reference" "A3" (at 146.685 149.225 0)
       (effects (font (size 1.27 1.27)))
@@ -2992,7 +2992,7 @@
   )
 
   (symbol (lib_id "RF_ProtoBoard:GndRing_RF_ProtoBoard_Module") (at 146.685 114.3 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 4cceda87-691f-4518-ad2b-76111134fd91)
     (property "Reference" "A2" (at 146.685 97.155 0)
       (effects (font (size 1.27 1.27)))
@@ -3602,7 +3602,7 @@
   )
 
   (symbol (lib_id "RF_ProtoBoard:GndRing_RF_ProtoBoard_Module") (at 146.685 219.075 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid b71c6441-da73-424d-ace8-19c10af3cbff)
     (property "Reference" "A4" (at 146.685 201.93 0)
       (effects (font (size 1.27 1.27)))
@@ -3823,7 +3823,7 @@
   )
 
   (symbol (lib_id "RF_ProtoBoard:GndRing_RF_ProtoBoard_Module") (at 146.685 322.58 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid eef9dbf6-66cf-4f8a-a958-9c1d61b9a70e)
     (property "Reference" "A6" (at 146.685 305.435 0)
       (effects (font (size 1.27 1.27)))
@@ -3994,7 +3994,7 @@
   )
 
   (symbol (lib_id "RF_ProtoBoard:GndRing_RF_ProtoBoard_Module") (at 146.685 62.865 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid fac9f8ca-5104-448f-adc0-988f735949b6)
     (property "Reference" "A1" (at 146.685 45.72 0)
       (effects (font (size 1.27 1.27)))
