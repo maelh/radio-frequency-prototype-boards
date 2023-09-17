@@ -66,16 +66,16 @@ The screw terminal on the extended version reduces the amount of loose wires goi
 The necessary ZIP files are available in the [fabrication directory](/fabrication), ready to be sent to a PCB manufacturer.
 They are tuned for JLCPCB, but you can adjust the settings as needed when generating the gerber, drill and map files from within the KiCad projects.
 
-*Extended version:* make sure to inform your manufacturer to keep the silkscreen for the U.FL connectors, since it's on the bare PCB (no solder mask underneath).
+*Extended board version:* make sure to inform your manufacturer to keep the silkscreen for the U.FL connectors, since it's on the bare PCB (no solder mask underneath).
 
 ### Generating files manually
 
 The project is set up to work correctly with JLCPCB, with all the necessary layers selected and the options properly set.
 
-- for the standard and the extended version:
+- for the standard and the extended board version:
   - make sure "Do not tent vias" is enabled.
 
-- for the extended version:
+- for the extended board version:
   - if the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB, enable "Subtract soldermask from silkscreen". If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB is intentional.
 
 Now, generate the gerbers, the drill files, and the map file. The results will be in the gerbers/ sub-directory. Put all the generated files in gerbers/ in a ZIP file and upload them to your manufacturer.
