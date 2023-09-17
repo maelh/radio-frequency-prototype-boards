@@ -67,6 +67,8 @@ The necessary ZIP files are available in the [fabrication directory](/fabricatio
 
 They are tuned for JLCPCB, but you can adjust the settings as needed when generating the gerber and drill files from within the KiCad projects.
 
+When generating your own Gerber files, make sure to select untented vias.
+
 ### Caveat!
 
 I haven't sent the design to a PCB manufacturer yet, but will do so soon with the extended version, testing it with JLCPCB. Let me know if there are any issues in manufacturability!
