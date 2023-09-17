@@ -1,6 +1,5 @@
 (footprint "RF_ProtoBoard_Module" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr allow_soldermask_bridges)
   (fp_text reference "REF**" (at 0 17.78 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 6c535b25-984d-457a-9d3d-e7b801c3bc52)
