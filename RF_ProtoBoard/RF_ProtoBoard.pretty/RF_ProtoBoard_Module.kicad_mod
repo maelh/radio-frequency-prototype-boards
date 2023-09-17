@@ -1,5 +1,6 @@
 (footprint "RF_ProtoBoard_Module" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
+  (attr allow_soldermask_bridges)
   (fp_text reference "REF**" (at 0 17.78 unlocked) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 6c535b25-984d-457a-9d3d-e7b801c3bc52)
@@ -8,6 +9,10 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 3335b103-a7c9-49a8-a1ca-88bee394d996)
   )
+  (fp_rect (start -14.5542 -14.5542) (end 14.5542 14.5542)
+    (stroke (width 0.05) (type default)) (fill none) (layer "B.CrtYd") (tstamp 030a93b3-4f63-47c0-965c-3171d4dae67e))
+  (fp_rect (start -14.5542 -14.5542) (end 14.5542 14.5542)
+    (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp 03b11538-4ad3-4b1e-96cd-49b45e0ded27))
   (pad "" smd rect (at 0 0) (size 29.1084 29.1084) (layers "B.Mask")
     (solder_mask_margin 0.381) (clearance 0.381) (tstamp d822a6b0-c5ac-404e-9071-1a8922b744d4))
   (pad "" smd rect (at 0 0) (size 29.1084 29.1084) (layers "F.Mask")
