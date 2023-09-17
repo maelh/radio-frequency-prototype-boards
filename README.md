@@ -66,6 +66,8 @@ The screw terminal on the extended version reduces the amount of loose wires goi
 The necessary ZIP files are available in the [fabrication directory](/fabrication), ready to be sent to a PCB manufacturer.
 They are tuned for JLCPCB, but you can adjust the settings as needed when generating the gerber, drill and map files from within the KiCad projects.
 
+*Extended version:* make sure to inform your manufacturer to keep the silkscreen for the U.FL connectors, since it's on the bare PCB (no solder mask underneath).
+
 ### Generating files manually
 
 The project is set up to work correctly with JLCPCB, with all the necessary layers selected and the options properly set.
