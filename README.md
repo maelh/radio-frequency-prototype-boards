@@ -68,7 +68,7 @@ They are tuned for JLCPCB, but you can adjust the settings as needed when genera
 
 ### Generating files manually
 
-When generating your own Gerber files, make sure to select untented vias. For the extended version, there is silkscreen for the U.FL connectors on the bare PCB. Let the manufacturer know that this is intentional, or make them invisible before generating the Gerbers if this creates issues.
+When generating your own Gerber files, make sure to select untented vias. For the extended version, there is silkscreen for the U.FL connectors on the bare PCB. Let the manufacturer know that this is intentional, or make the silkscreen for the U.FL connectors invisible before generating the Gerbers, if this creates issues.
 
 ### Caveat!
 
