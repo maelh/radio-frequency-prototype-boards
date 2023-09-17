@@ -82,7 +82,7 @@ Now, generate the gerber, the drill, and the map files. The results will be in t
 
 ### Caveat!
 
-I haven't sent the design to a PCB manufacturer yet, but will do so soon with the extended version, testing it with JLCPCB. Let me know if there are any issues in manufacturability!
+I haven't sent the designs to a PCB manufacturer yet, but will do so soon with the extended version, testing it with JLCPCB. Let me know if there are any issues in manufacturability!
 
 ## Recommended lead-free solder
 
