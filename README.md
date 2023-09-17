@@ -72,7 +72,7 @@ They are tuned for JLCPCB, but you can adjust the settings as needed when genera
 
 The project is set up to work correctly with JLCPCB, with all the necessary layers selected and the options properly set.
 
-- standard and extended board version:
+- standard and extended board versions:
   - make sure "Do not tent vias" is enabled.
 
 - extended board version:
