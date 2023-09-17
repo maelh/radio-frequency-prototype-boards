@@ -68,7 +68,15 @@ They are tuned for JLCPCB, but you can adjust the settings as needed when genera
 
 ### Generating files manually
 
-When generating your own Gerber files, make sure to select untented vias. For the extended version, there is silkscreen for the U.FL connectors on the bare PCB. Let the manufacturer know that this is intentional, or make the silkscreen for the U.FL connectors invisible before generating the Gerbers, if this creates issues.
+The project is set up to work correctly with JLCPCB, with all the necessary layers selected and the options properly set.
+
+For standard and extended version:
+especially, make sure "Do not tent vias" is enabled.
+
+For the extended version:
+if the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB, enable "Subtract soldermask from silkscreen". If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB is intentional.
+
+Now, generate the gerbers, the drill files, and the map file. The results will be in the gerbers/ sub-directory. Put all the generated files in gerbers/ in a ZIP file and upload them to your manufacturer.
 
 ### Caveat!
 
