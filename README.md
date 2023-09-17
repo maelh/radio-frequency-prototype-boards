@@ -61,6 +61,16 @@ This resulted in two boards (out of the many variations I tried):
   
 The screw terminal on the extended version reduces the amount of loose wires going off the board. Now, all the power wires from the 6 sub-modules can be routed to the centrally positioned pair of power pads, which have traces leading to the single central power screw terminal. The power pads on the backside of the board allow to add a decoupling/bulk capacitor.
 
+## Fabricating RF proto boards
+
+The necessary ZIP files are available in the fabrication directory, ready to sent to a PCB manufacturer.
+
+They are tuned for JLCPCB, but you can adjust the settings as needed when generating the gerber and drill files from within the KiCad projects.
+
+### Caveat!
+
+I haven't sent the design to a PCB manufacturer yet, but will do so soon with the extended version, testing it with JLCPCB. Let me know if there are any issues in manufacturability!
+
 ## Recommended lead-free solder
 
 After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowing solder making nice shiny joints.
@@ -101,11 +111,6 @@ After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowi
 <br/>
 
 - "6.5ft Low-Loss Coaxial Extension Cable RG58 (50 Ohm) SMA Male to SMA Female"
-
-
-## Caveat!
-
-I haven't sent the design to a PCB manufacturer yet, but will do so soon with the extended version, testing it with JLCPCB. Let me know if there are any issues in manufacturability!
 
 ## Related perfboard designs
 
