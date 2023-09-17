@@ -40,7 +40,7 @@ This resulted in two boards (out of the many variations I tried):
 
 - The [extended version](/RF_ProtoBoard_Extended), with the following changes compared to the standard version:
   - **added**: mounting holes
-  - **added**: screw terminal for power (and pads to solder wires onto)
+  - **added**: screw terminal for power (and pads to solder power wires onto)
   - **extended**: complete 4 pad U.FL connector footprints with silkscreen (for easier alignment)
   - **changed**: ground rings instead of a fully exposed ground plane
     - solder mask only exposes ground rings around the backside of plated through holes; ground rings should form nicer solder joints and hopefully ease solderability to the ground plane
