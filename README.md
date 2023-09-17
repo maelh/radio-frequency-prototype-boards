@@ -40,7 +40,7 @@ This resulted in two boards (out of the many variations I tried):
 
 - The [extended version](/RF_ProtoBoard_Extended), with the following changes compared to the standard version:
   - **added**: mounting holes
-  - **added**: screw terminal for power (and pads to solder wires onto)
+  - **added**: screw terminal for power (and pads to solder power wires onto)
   - **extended**: complete 4 pad U.FL connector footprints with silkscreen (for easier alignment)
   - **changed**: ground rings instead of a fully exposed ground plane
     - solder mask only exposes ground rings around the backside of plated through holes; ground rings should form nicer solder joints and hopefully ease solderability to the ground plane
@@ -63,9 +63,12 @@ The screw terminal on the extended version reduces the amount of loose wires goi
 
 ## Fabricating the RF proto boards
 
-The necessary ZIP files are available in the fabrication directory, ready to be sent to a PCB manufacturer.
-
+The necessary ZIP files are available in the [fabrication directory](/fabrication), ready to be sent to a PCB manufacturer.
 They are tuned for JLCPCB, but you can adjust the settings as needed when generating the gerber and drill files from within the KiCad projects.
+
+### Generating files manually
+
+When generating your own Gerber files, make sure to select untented vias. For the extended version, there is silkscreen for the U.FL connectors on the bare PCB. Let the manufacturer know that this is intentional, or make the silkscreen for the U.FL connectors invisible before generating the Gerbers, if this creates issues.
 
 ### Caveat!
 
