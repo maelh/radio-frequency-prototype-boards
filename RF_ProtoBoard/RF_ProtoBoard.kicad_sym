@@ -119,7 +119,7 @@
       )
     )
   )
-  (symbol "RF_ProtoBoard_Module" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "RF_ProtoBoard_Module" (pin_names hide) (in_bom no) (on_board yes)
     (property "Reference" "A" (at 0 -36.195 0)
       (effects (font (size 1.27 1.27)))
     )
