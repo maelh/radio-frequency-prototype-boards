@@ -67,7 +67,7 @@ The necessary ZIP files are available in the [fabrication directory](/fabricatio
 They are tuned for JLCPCB, but you can easily adjust the settings as needed when generating the gerber, drill and map files from within the KiCad projects.
 
 PCB ordering website options:
-- *Extended board version:* make sure to inform your manufacturer to keep the silkscreen for the U.FL connectors, since it's on the bare PCB (no solder mask underneath).
+- *Extended board version:* inform your manufacturer to keep the silkscreen for the U.FL connectors, since it's on the bare PCB (no solder mask underneath).
 - select "Untented" for "Via Covering"
 - *JLCPCB only*: under "Remove Order Number", select "Specify a location". The "JLCJLCJLCJLC" text on the B.Silkscreen layer, [specifies the location of the order number](https://jlcpcb.com/help/article/50-How-to-remove-order-number-from-your-PCB).
 
