@@ -64,15 +64,28 @@ The screw terminal on the extended version reduces the amount of loose wires goi
 ## Fabricating the RF proto boards
 
 The necessary ZIP files are available in the [fabrication directory](/fabrication), ready to be sent to a PCB manufacturer.
-They are tuned for JLCPCB, but you can adjust the settings as needed when generating the gerber and drill files from within the KiCad projects.
+They are tuned for JLCPCB, but you can easily adjust the settings as needed when generating the gerber, drill and map files from within the KiCad projects.
+
+*Extended board version:* make sure to inform your manufacturer to keep the silkscreen for the U.FL connectors, since it's on the bare PCB (no solder mask underneath).
+
+*Note for JLCPCB*: in the order page, under "Remove Order Number", select "Specify a location". The "JLCJLCJLCJLC" text on the B.Silkscreen layer, [specifies the location of the order number](https://jlcpcb.com/help/article/50-How-to-remove-order-number-from-your-PCB).
 
 ### Generating files manually
 
-When generating your own Gerber files, make sure to select untented vias. For the extended version, there is silkscreen for the U.FL connectors on the bare PCB. Let the manufacturer know that this is intentional, or make the silkscreen for the U.FL connectors invisible before generating the Gerbers, if this creates issues.
+The project is set up to work correctly with JLCPCB, with all the necessary layers selected and the options properly set.
+
+- standard and extended board versions:
+  - make sure "Do not tent vias" is enabled
+  - hide the "JLCJLCJLCJLC" text on the B.Silkscreen layer, for manufacturers other than JLCPCB
+
+- extended board version:
+  - if the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB, enable "Subtract soldermask from silkscreen". If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB is intentional
+
+Now, generate the gerber, the drill, and the map files. The results will be in the gerbers/ sub-directory. Put all the generated files in gerbers/ into a ZIP file, and upload them to your manufacturer.
 
 ### Caveat!
 
-I haven't sent the design to a PCB manufacturer yet, but will do so soon with the extended version, testing it with JLCPCB. Let me know if there are any issues in manufacturability!
+I haven't sent the designs to a PCB manufacturer yet, but will do so soon with the extended version, testing it with JLCPCB. Let me know if there are any issues in manufacturability!
 
 ## Recommended lead-free solder
 
