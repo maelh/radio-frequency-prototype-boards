@@ -70,7 +70,7 @@ They are tuned for JLCPCB, but you can easily adjust the settings as needed when
 
 ### Generating files manually
 
-The project is set up to work correctly with JLCPCB, with all the necessary layers selected and the options properly set.
+The project is set up to work correctly with JLCPCB, with all the necessary layers selected and the options properly set. Especially, there is a "JLCJLCJLCJLC" text on the B.Silkscreen layer, to [specify the location of the order number](https://jlcpcb.com/help/article/50-How-to-remove-order-number-from-your-PCB) from JLCPCB.
 
 - standard and extended board versions:
   - make sure "Do not tent vias" is enabled.
