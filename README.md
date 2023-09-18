@@ -68,18 +68,20 @@ They are tuned for JLCPCB, but you can easily adjust the settings as needed when
 
 *Extended board version:* make sure to inform your manufacturer to keep the silkscreen for the U.FL connectors, since it's on the bare PCB (no solder mask underneath).
 
-JLCPCB: in the order page, under "Remove Order Number", select "Specify a location".
-To make this work there is a "JLCJLCJLCJLC" text on the B.Silkscreen layer, to [specify the location of the order number](https://jlcpcb.com/help/article/50-How-to-remove-order-number-from-your-PCB) from JLCPCB.
+*Note for JLCPCB*:
+- in the order page, under "Remove Order Number", select "Specify a location"
+  - to make this work there is a "JLCJLCJLCJLC" text on the B.Silkscreen layer, to [specify the location of the order number](https://jlcpcb.com/help/article/50-How-to-remove-order-number-from-your-PCB) from JLCPCB
 
 ### Generating files manually
 
 The project is set up to work correctly with JLCPCB, with all the necessary layers selected and the options properly set.
 
 - standard and extended board versions:
-  - make sure "Do not tent vias" is enabled.
+  - make sure "Do not tent vias" is enabled
+  - hide "JLCJLCJLCJLC" text on the B.Silkscreen layer, for another manufacturer than JLCPCB
 
 - extended board version:
-  - if the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB, enable "Subtract soldermask from silkscreen". If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB is intentional.
+  - if the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB, enable "Subtract soldermask from silkscreen". If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB is intentional
 
 Now, generate the gerber, the drill, and the map files. The results will be in the gerbers/ sub-directory. Put all the generated files in gerbers/ into a ZIP file, and upload them to your manufacturer.
 
