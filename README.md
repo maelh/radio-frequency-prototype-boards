@@ -68,9 +68,7 @@ They are tuned for JLCPCB, but you can easily adjust the settings as needed when
 
 *Extended board version:* make sure to inform your manufacturer to keep the silkscreen for the U.FL connectors, since it's on the bare PCB (no solder mask underneath).
 
-Note for JLCPCB:
-- in the order page, under "Remove Order Number", select "Specify a location"
-  - the "JLCJLCJLCJLC" text on the B.Silkscreen layer, [specifies the location of the order number](https://jlcpcb.com/help/article/50-How-to-remove-order-number-from-your-PCB)
+*Note for JLCPCB*: in the order page, under "Remove Order Number", select "Specify a location". The "JLCJLCJLCJLC" text on the B.Silkscreen layer, [specifies the location of the order number](https://jlcpcb.com/help/article/50-How-to-remove-order-number-from-your-PCB).
 
 ### Generating files manually
 
