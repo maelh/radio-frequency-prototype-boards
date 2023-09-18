@@ -78,7 +78,7 @@ The project is set up to work correctly with JLCPCB, with all the necessary laye
 
 - standard and extended board versions:
   - make sure "Do not tent vias" is enabled
-  - hide "JLCJLCJLCJLC" text on the B.Silkscreen layer, for another manufacturer than JLCPCB
+  - hide "JLCJLCJLCJLC" text on the B.Silkscreen layer, for manufacturers other than JLCPCB
 
 - extended board version:
   - if the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB, enable "Subtract soldermask from silkscreen". If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB is intentional
