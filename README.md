@@ -80,7 +80,7 @@ The project is set up to work correctly with JLCPCB, with all the necessary laye
   - hide the "JLCJLCJLCJLC" text on the B.Silkscreen layer, for manufacturers other than JLCPCB.
 
 - extended board version:
-  - if the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB substrate, enable "Subtract soldermask from silkscreen". If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB substrate is intentional.
+  - do **not** enable "Subtract soldermask from silkscreen", unless the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB substrate. If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB substrate is intentional.
 
 Now, generate the gerber, the drill, and the map files. The results will be in the gerbers/ sub-directory. Put all the generated files in gerbers/ into a ZIP file, and upload them to your manufacturer.
 
