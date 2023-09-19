@@ -88,7 +88,7 @@ The project is set up to work correctly with JLCPCB, with all the necessary laye
     - for others: hide the text, as it will be unnecessary clutter
   - do **not** enable "Subtract soldermask from silkscreen", unless the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB substrate. If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB substrate is intentional.
 
-Default plot settings (menu `File|Fabrications Output|Gebers (.gbr)...`) for standard and extended board versions:
+Default plot settings (menu`File|Fabrications Output|Gerbers (.gbr)...`) for standard and extended board versions:
 
 ![KiCad 7 plot settings](images/PlotSettings.png "KiCad 7 plot settings")
 
