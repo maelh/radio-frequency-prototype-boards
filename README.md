@@ -27,14 +27,14 @@ This resulted in two boards (out of the many variations I tried):
 - The [standard version](/RF_ProtoBoard), with all the original dimensions and features being kept.
 
   <div align="center">
-    <img src="/images/RF_ProtoBoard_Front.png?raw=true" alt="Front of standard version" title="Front of standard version"/>
+    <img src="images/RF_ProtoBoard_Front.png" alt="Front of standard version" title="Front of standard version"/>
     <div>Front</div>    
   </div>
 
   <br/>
 
   <div align="center">
-    <img src="/images/RF_ProtoBoard_Back.png?raw=true" alt="Back of standard version" title="Back of standard version"/>
+    <img src="images/RF_ProtoBoard_Back.png" alt="Back of standard version" title="Back of standard version"/>
     <div>Back</div>
   </div>
 
@@ -48,14 +48,14 @@ This resulted in two boards (out of the many variations I tried):
   <br/>
   
   <div align="center">
-    <img src="/images/RF_ProtoBoard_Extended_Front.png?raw=true" alt="Front of extended version" title="Front of extended version"/>
+    <img src="images/RF_ProtoBoard_Extended_Front.png" alt="Front of extended version" title="Front of extended version"/>
     <div>Front</div>    
   </div>
 
   <br/>
 
   <div align="center">
-    <img src="/images/RF_ProtoBoard_Extended_Back.png?raw=true" alt="Back of extended version" title="Back of extended version"/>
+    <img src="images/RF_ProtoBoard_Extended_Back.png" alt="Back of extended version" title="Back of extended version"/>
     <div>Back</div>
   </div>
   
@@ -88,7 +88,7 @@ The project is set up to work correctly with JLCPCB, with all the necessary laye
     - for others: hide the text, as it will be unnecessary clutter
   - do **not** enable "Subtract soldermask from silkscreen", unless the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB substrate. If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB substrate is intentional.
 
-![KiCad 7 plot settings](images/PlotSettings.png)
+![KiCad 7 plot settings](images/PlotSettings.png "KiCad 7 plot settings")
 
 Now, generate the gerber, the drill, and the map files. The results will be in the gerbers/ sub-directory. Put all the generated files in gerbers/ into a ZIP file, and upload them to your manufacturer.
 
