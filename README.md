@@ -88,7 +88,7 @@ The project is set up to work correctly with JLCPCB, with all the necessary laye
     - for others: hide the text, as it will be unnecessary clutter
   - do **not** enable "Subtract soldermask from silkscreen", unless the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB substrate. If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB substrate is intentional.
 
-Default settings for standard and extended board version:
+Default plot settings (menu File|Fabrications Output|Gebers (.gbr)...) for standard and extended board versions:
 ![KiCad 7 plot settings](images/PlotSettings.png "KiCad 7 plot settings")
 
 Now, generate the gerber, the drill, and the map files. The results will be in the gerbers/ sub-directory. Put all the generated files in gerbers/ into a ZIP file, and upload them to your manufacturer.
