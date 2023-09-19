@@ -2,6 +2,6 @@ fp-info-cache
 *.kicad_prl
 *-backups
 /RF_ProtoBoard_Extended/jlcpcb
-/RF_ProtoBoard_Extended/gerber
+/RF_ProtoBoard_Extended/gerbers
 /RF_ProtoBoard/jlcpcb
-/RF_ProtoBoard/gerber
+/RF_ProtoBoard/gerbers
