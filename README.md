@@ -63,7 +63,7 @@ The screw terminal on the extended version reduces the amount of loose wires goi
 
 ## Fabricating the RF proto boards
 
-The necessary ZIP files are available in the [fabrication directory](/fabrication), ready to be sent to a PCB manufacturer.
+The necessary ZIP files are available in the [fabrication directory](fabrication/), ready to be sent to a PCB manufacturer.
 They are tuned for JLCPCB, but you can easily adjust the settings as needed when generating the gerber, drill and map files from within the KiCad projects (see [below](#generating-files-manually)).
 
 PCB ordering website options:
@@ -82,7 +82,7 @@ The project is set up to work correctly with JLCPCB, with all the necessary laye
 - extended board version:
   - do **not** enable "Subtract soldermask from silkscreen", unless the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB substrate. If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB substrate is intentional.
 
-![grafik](https://github.com/maelh/radio-frequency-prototype-boards/assets/42317414/6460f052-7fbf-48c1-9852-434afaf4dd8c)
+![KiCad 7 plot settings](images/PlotSettings.png)
 
 Now, generate the gerber, the drill, and the map files. The results will be in the gerbers/ sub-directory. Put all the generated files in gerbers/ into a ZIP file, and upload them to your manufacturer.
 
