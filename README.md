@@ -84,6 +84,8 @@ The project is set up to work correctly with JLCPCB, with all the necessary laye
 
 Now, generate the gerber, the drill, and the map files. The results will be in the gerbers/ sub-directory. Put all the generated files in gerbers/ into a ZIP file, and upload them to your manufacturer.
 
+![grafik](https://github.com/maelh/radio-frequency-prototype-boards/assets/42317414/6460f052-7fbf-48c1-9852-434afaf4dd8c)
+
 See also: [How to generate Gerber and Drill files in KiCad 7 (JLCPCB)](https://jlcpcb.com/help/article/362-how-to-generate-gerber-and-drill-files-in-kicad-7).
 
 ### Caveat!
