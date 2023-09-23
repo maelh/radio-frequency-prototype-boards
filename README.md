@@ -96,9 +96,13 @@ Now, generate the gerber, the drill, and the map files. The results will be in t
 
 See also: [How to generate Gerber and Drill files in KiCad 7 (JLCPCB)](https://jlcpcb.com/help/article/362-how-to-generate-gerber-and-drill-files-in-kicad-7).
 
-### Caveat!
+### Experience with manufacturing
 
-I haven't sent the designs to a PCB manufacturer yet, but will do so soon with the extended version, testing it with JLCPCB. Let me know if there are any issues in manufacturability!
+I fabricated the extended board version at JLCPCB. For my first (and so far only) order, I enabled "Confirm Production file", which turned out to be a good idea. At first, they reduced the solder mask openings on the back side, which effectively removed the ground ring. Also, the silkscreen for the U.FL connectors on the front was removed and then when communicating to readd them, they were clipped. I suspect the wording in the remark field on the order page, was the issue, so I updated it in this README to sound closer to their wordings. The clipping was possibly due to the closeness to the SMD pads on the front.
+
+Watch out for some changes manufactures will automatically apply, to your design: [relevant instructions when ordering at JLCPCB](https://jlcpcb.com/help/article/14-Instructions-for-ordering).
+
+I haven't sent the standard design to a PCB manufacturer yet. Let me know if there are any issues in manufacturability and what instructions you followed when successful.
 
 ## Recommended lead-free solder
 
