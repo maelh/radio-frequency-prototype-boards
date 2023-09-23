@@ -75,18 +75,18 @@ They are tuned for JLCPCB, but you can easily adjust the settings as needed when
 
 The project is set up to work correctly with JLCPCB, with all the necessary layers selected and the options properly set.
 
-- standard board version:
-  - make sure "Do not tent vias" is enabled.
+- Standard board version:
+  - Make sure "Do not tent vias" is enabled.
   - "JLCJLCJLCJLC" text on the B.Silkscreen layer:
-    - for JLCPCB: do **not** enable "Subtract soldermask from silkscreen", otherwise the text will be clipped, and the ordering number will be placed at a random location.
-    - for others: hide the text, as it will be unnecessary clutter.
+    - For JLCPCB: do **not** enable "Subtract soldermask from silkscreen", otherwise the text will be clipped, and the ordering number will be placed at a random location.
+    - For others: hide the text, as it will be unnecessary clutter.
 
-- extended board version:
-  - make sure "Do not tent vias" is enabled.
+- Extended board version:
+  - Make sure "Do not tent vias" is enabled.
   - "JLCJLCJLCJLC" text on the B.Silkscreen layer:
-    - for JLCPCB: keep the text visible, so the ordering number is not placed at a random location.
-    - for others: hide the text, as it will be unnecessary clutter.
-  - do **not** enable "Subtract soldermask from silkscreen", unless the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB substrate. If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB substrate is intentional. To do so, write a note in the order page remark field: "Keep the silkscreen on the solder mask openings".
+    - For JLCPCB: keep the text visible, so the ordering number is not placed at a random location.
+    - For others: hide the text, as it will be unnecessary clutter.
+  - Do **not** enable "Subtract soldermask from silkscreen", unless the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB substrate. If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB substrate is intentional. To do so, write a note in the order page remark field: "Keep the silkscreen on the solder mask openings".
 
 Default plot settings (menu`File|Fabrications Output|Gerbers (.gbr)...`) for standard and extended board versions:
 
