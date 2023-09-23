@@ -104,7 +104,7 @@ I suspect the wording in the remark field on the order page was the issue, so I 
 
 Similarily, for the reduced solder mask openings on the back side, a note saying "Solder mask openings on back side of PTH is intentionally covering the ground plane." However I suspect such a statement will not work, as in my experiece images worked best. Ideally, you could point that out in the Fab layer, adding arrows to say the crossing of two copper regions (ring around PTH and ground plane) is intentional.
 
-Watch out for some changes manufactures will automatically apply, to your design: [relevant instructions when ordering at JLCPCB](https://jlcpcb.com/help/article/14-Instructions-for-ordering).
+In general, watch out for some changes manufactures will automatically apply to your design: [relevant instructions when ordering at JLCPCB](https://jlcpcb.com/help/article/14-Instructions-for-ordering).
 
 I haven't sent the standard design to a PCB manufacturer yet. Let me know if there are any issues in manufacturability and what instructions you followed when successful.
 
