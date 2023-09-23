@@ -86,7 +86,7 @@ The project is set up to work correctly with JLCPCB, with all the necessary laye
   - "JLCJLCJLCJLC" text on the B.Silkscreen layer:
     - for JLCPCB: keep the text visible, so the ordering number is not placed at a random location.
     - for others: hide the text, as it will be unnecessary clutter.
-  - do **not** enable "Subtract soldermask from silkscreen", unless the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB substrate. If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB substrate is intentional.
+  - do **not** enable "Subtract soldermask from silkscreen", unless the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB substrate. If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB substrate is intentional. To do so, write a note in the remark field: "Keep the silkscreen on the solder mask openings".
 
 Default plot settings (menu`File|Fabrications Output|Gerbers (.gbr)...`) for standard and extended board versions:
 
