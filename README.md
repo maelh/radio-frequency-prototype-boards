@@ -113,6 +113,7 @@ I haven't sent the standard design to a PCB manufacturer yet. Let me know if the
 #### DFM (Design for manufacturability) analysis
 
 To review production files received from fabs such as PCBpartner or JLCPCB, you can use [iPCB-DFM](https://www.pcbpartner.com/iPCB-DFM). Given the screenshots I received it seems to be the same software that JLCPCB uses for reviewing.
+You can also simply do a visual compare using KiCad Gerber viewer, to see what changes the fab made.
 
 ## Recommended lead-free solder
 
