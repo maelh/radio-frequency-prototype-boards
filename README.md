@@ -110,6 +110,10 @@ In general, watch out for some changes manufactures will automatically apply to 
 
 I haven't sent the standard design to a PCB manufacturer yet. Let me know if there are any issues in manufacturability and what instructions you followed to be successful.
 
+### DFM (Design for manufacturability) analysis
+
+To review production files received from fabs such as PCBpartner or JLCPCB, you can use [iPCB-DFM](https://www.pcbpartner.com/iPCB-DFM). Given the screenshots I received it seems to be the same software that JLCPCB uses for reviewing.
+
 ## Recommended lead-free solder
 
 After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowing solder making nice shiny joints.
