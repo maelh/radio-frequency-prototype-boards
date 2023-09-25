@@ -74,7 +74,7 @@ They are tuned for JLCPCB, but you can easily  [adjust the settings](Manufacturi
 
 ### Fabrication results, generating files manually, reviewing production files
 
-More details on how to generate Gerber files manually, my experiences with producing the extended board version, and how to review production files, can be found under [Manufacturing](Manufacturing.md).
+More details on how to generate Gerber files manually, my experiences with producing the extended board version, and how to review production files before fabrication begins, can be found under [Manufacturing](Manufacturing.md).
 
 ## Recommended lead-free solder
 
