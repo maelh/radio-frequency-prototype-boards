@@ -78,7 +78,7 @@ More details on how to generate Gerber files manually, my experiences with produ
 
 ## Necessary parts and measurement equipment
 
-Aside from measurement equipment, such as the NanoVNA and the TinySA, you will need U.FL connectors, screw terminals, and most importantly, surface mount components, to build RF circuits. See the [list of tools and parts](NecessaryToolsAndPart.md) needed.
+Aside from measurement equipment, such as the NanoVNA and the TinySA, you will need U.FL connectors, screw terminals, and most importantly, surface mount components, to build RF circuits. See the [list of tools and parts needed](NecessaryToolsAndPart.md).
 
 ## Related perfboard designs
 
