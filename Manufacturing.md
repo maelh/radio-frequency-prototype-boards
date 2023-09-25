@@ -1,14 +1,14 @@
-## Fabricating the RF proto boards
+# Fabricating the RF proto boards
 
 The necessary ZIP files are available in the [fabrication directory](fabrication/), ready to be sent to a PCB manufacturer.
 They are tuned for JLCPCB, but you can easily adjust the settings as needed when generating the gerber, drill and map files from within the KiCad projects (see [below](#generating-files-manually)).
 
-### PCB ordering website options
+## PCB ordering website options
 - *Extended board version:* inform your manufacturer to keep the silkscreen for the U.FL connectors, since it's on the bare PCB substrate (no solder mask underneath). To do so, write a note in the order page remark field: "Keep the silkscreen on the solder mask openings".
 - Select "Untented" for "Via Covering".
 - *JLCPCB only*: under "Remove Order Number", select "Specify a location". The "JLCJLCJLCJLC" text on the B.Silkscreen layer [specifies the location of the order number](https://jlcpcb.com/help/article/50-How-to-remove-order-number-from-your-PCB).
 
-### Generating files manually
+## Generating files manually
 
 The project is set up to work correctly with JLCPCB, with all the necessary layers selected and the options properly set.
 
@@ -33,7 +33,7 @@ Now, generate the gerber, the drill, and the map files. The results will be in t
 
 See also: [How to generate Gerber and Drill files in KiCad 7 (JLCPCB)](https://jlcpcb.com/help/article/362-how-to-generate-gerber-and-drill-files-in-kicad-7).
 
-### Experience with manufacturing
+## Experience with manufacturing
 
 I fabricated the extended board version at JLCPCB. For my first (and so far only) order, I enabled "Confirm Production file", which turned out to be a good idea. Initially, they reduced the solder mask openings on the back side, which effectively removed the ground ring. Also, the silkscreen for the U.FL connectors on the front was removed and then, when communicating to readd them, they were clipped.
 
@@ -47,7 +47,7 @@ In general, watch out for some changes manufactures will automatically apply to 
 
 I haven't sent the standard design to a PCB manufacturer yet. Let me know if there are any issues in manufacturability and what instructions you followed to be successful.
 
-#### DFM (Design for manufacturability) analysis / checks
+### DFM (Design for manufacturability) analysis / checks
 
 If you selected the "Confirm Production file" option, you will receive a RAR/ZIP file with several folders.
 The [`ok` folder contains the production files](https://www.libreservo.com/en/articulo/how-check-jlcpcb-production-files) used by the manufacturer for fabrication, and your original design is found in the `yk` folder.
