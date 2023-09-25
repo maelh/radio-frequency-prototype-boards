@@ -112,7 +112,9 @@ I haven't sent the standard design to a PCB manufacturer yet. Let me know if the
 
 #### DFM (Design for manufacturability) analysis / checks
 
-To review production files received from fabs such as PCBpartner or JLCPCB, you can use [iPCB-DFM](https://www.pcbpartner.com/iPCB-DFM). Given the screenshots I received it seems to be the same software that JLCPCB uses for reviewing.
+The RAR/ZIP file you will receive has several folders: the [`ok` folder contains the production files](https://www.libreservo.com/en/articulo/how-check-jlcpcb-production-files) used by the manufacturer for fabrication and your original design is found in the `yk` folder.
+
+To review production files received from fabs such as PCBpartner or JLCPCB, you can use [iPCB-DFM](https://www.pcbpartner.com/iPCB-DFM). Given the screenshots I received it seems to be the same software that JLCPCB uses for reviewing. 
 
 Another online alternative is [FreeDFM](https://www.my4pcb.com/net35/FreeDFMNet/FreeDFMHome.aspx).
 
