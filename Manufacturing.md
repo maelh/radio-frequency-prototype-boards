@@ -50,10 +50,10 @@ I haven't sent the standard design to a PCB manufacturer yet. Let me know if the
 ### DFM (Design for manufacturability) analysis / checks
 
 If you selected the "Confirm Production file" option, you will receive a RAR/ZIP file with several folders.
-The [`ok` folder contains the production files](https://www.libreservo.com/en/articulo/how-check-jlcpcb-production-files) used by the manufacturer for fabrication, and your original design is found in the `yk` folder.
+The [`ok` folder contains the production files](https://www.libreservo.com/en/articulo/how-check-jlcpcb-production-files) used by the manufacturer for fabrication, and your original design is found in the `YG ` folder.
 
 To review production files received from fabs such as PCBpartner or JLCPCB, you can use [iPCB-DFM](https://www.pcbpartner.com/iPCB-DFM). Given the screenshots I received, it seems to be the same software that JLCPCB uses for reviewing. In iPCB-DFM choose `File|Open odb` and select the TGZ file in the `ok` folder.
 
-You can also simply do a manual visual compare using KiCad Gerber viewer, to see what changes the fab made. In that case, import all the Gerber files, that have simple names (they are Protel extensions). For a two layer design, like the protoboards here, the relevant files are: bl, bo, bs, drl, ko, tl, to, ts.
+You can also simply do a manual visual compare using KiCad Gerber viewer, to see what changes the fab made. In that case, open all the Gerber files, that have simple names (the name are essentially Protel file extensions). For a two layer design, like the protoboards here, the relevant files are: bl, bo, bs, drl, ko, tl, to, ts.
 
-If you want to check your design before submitting it to a fab, you can use [FreeDFM](https://www.my4pcb.com/net35/FreeDFMNet/FreeDFMHome.aspx).
+If you want to check your design before submitting it to a manufacturer, you can use [FreeDFM](https://www.my4pcb.com/net35/FreeDFMNet/FreeDFMHome.aspx).
