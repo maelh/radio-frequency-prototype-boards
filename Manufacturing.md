@@ -54,6 +54,6 @@ The [`ok` folder contains the production files](https://www.libreservo.com/en/ar
 
 To review production files received from fabs such as PCBpartner or JLCPCB, you can use [iPCB-DFM](https://www.pcbpartner.com/iPCB-DFM). Given the screenshots I received, it seems to be the same software that JLCPCB uses for reviewing. In iPCB-DFM choose `File|Open odb` and select the TGZ file in the `ok` folder.
 
-You can also simply do a manual visual compare using KiCad Gerber viewer, to see what changes the fab made. In that case import all the Gerber files, that have simple names (they are Protel extensions). For a two layer design, like the protoboards here, they are: bl, bo, bs, drl, ko, tl, to, ts.
+You can also simply do a manual visual compare using KiCad Gerber viewer, to see what changes the fab made. In that case, import all the Gerber files, that have simple names (they are Protel extensions). For a two layer design, like the protoboards here, they are: bl, bo, bs, drl, ko, tl, to, ts.
 
 If you want to check your design before submitting it to a fab, you can use [FreeDFM](https://www.my4pcb.com/net35/FreeDFMNet/FreeDFMHome.aspx).
