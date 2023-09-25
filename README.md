@@ -76,9 +76,9 @@ They are tuned for JLCPCB, but you can easily  [adjust the settings](Manufacturi
 
 More details on how to generate Gerber files manually, my experiences with producing the extended board version, and how to review production files before fabrication begins, can be found under [Manufacturing](Manufacturing.md).
 
-## Necessary parts and measurement equipment
+## Parts and measurement equipment
 
-Aside from measurement equipment, such as the NanoVNA and the TinySA, you will need U.FL connectors, screw terminals, and most importantly, surface mount components, to build RF circuits. See the [list of tools and parts needed](NecessaryToolsAndPart.md).
+Aside from measurement equipment, such as the NanoVNA and the TinySA, you will need U.FL connectors, screw terminals, and most importantly, surface mount components, to build RF circuits. See the [list of tools and parts needed](NecessaryToolsAndParts.md).
 
 ## Related perfboard designs
 
