@@ -76,6 +76,10 @@ They are tuned for JLCPCB, but you can easily  [adjust the settings](Manufacturi
 
 More details on how to generate Gerber files manually, my experiences with producing the extended board version, and how to review production files before fabrication begins, can be found under [Manufacturing](Manufacturing.md).
 
+## Necessary parts to use RF protoboards
+
+dd
+
 ## Recommended lead-free solder
 
 After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowing solder making nice shiny joints.
