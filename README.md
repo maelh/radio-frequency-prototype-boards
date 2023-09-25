@@ -72,7 +72,7 @@ They are tuned for JLCPCB, but you can easily adjust the settings as needed when
 - Select "Untented" for "Via Covering".
 - *JLCPCB only*: under "Remove Order Number", select "Specify a location". The "JLCJLCJLCJLC" text on the B.Silkscreen layer [specifies the location of the order number](https://jlcpcb.com/help/article/50-How-to-remove-order-number-from-your-PCB).
 
-### Extended protoboard production results, generating files manually, reviewing production files
+### Fabrication results, generating files manually, reviewing production files
 
 More details on how to generate Gerber files manually, my experiences with producing the extended board version, and how to review production files, can be found under [Manufacturing](Manufacturing.md).
 
