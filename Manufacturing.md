@@ -4,7 +4,7 @@ The necessary ZIP files are available in the [fabrication directory](fabrication
 They are tuned for JLCPCB, but you can easily adjust the settings as needed when generating the gerber, drill and map files from within the KiCad projects (see [below](#generating-files-manually)).
 
 ## PCB ordering website options
-- *Extended board version:* inform your manufacturer to keep the silkscreen for the U.FL connectors, since it's on the bare PCB substrate (no solder mask underneath). To do so, write a note in the order page remark field: "Keep the silkscreen on the solder mask openings".
+- *Extended board version:* inform your manufacturer to keep the silkscreen for the U.FL connectors, since it's on the bare PCB substrate (no solder mask underneath). To do so, write a note in the order page remark field: "Keep the silkscreen on the solder mask openings."
 - Select "Untented" for "Via Covering".
 - *JLCPCB only*: under "Remove Order Number", select "Specify a location". The "JLCJLCJLCJLC" text on the B.Silkscreen layer [specifies the location of the order number](https://jlcpcb.com/help/article/50-How-to-remove-order-number-from-your-PCB).
 
@@ -23,7 +23,7 @@ The project is set up to work correctly with JLCPCB, with all the necessary laye
   - "JLCJLCJLCJLC" text on the B.Silkscreen layer:
     - For JLCPCB: keep the text visible, so the ordering number is not placed at a random location.
     - For others: hide the text, as it will be unnecessary clutter.
-  - Do **not** enable "Subtract soldermask from silkscreen", unless the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB substrate. If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB substrate is intentional. To do so, write a note in the order page remark field: "Keep the silkscreen on the solder mask openings".
+  - Do **not** enable "Subtract soldermask from silkscreen", unless the silkscreen for the U.FL connectors creates issues, because it is printed on the bare PCB substrate. If you keep the U.FL silkscreen, make sure to let the manufacturer know that the silkscreen on the bare PCB substrate is intentional. To do so, write a note in the order page remark field: "Keep the silkscreen on the solder mask openings."
 
 Default plot settings (menu`File|Fabrications Output|Gerbers (.gbr)...`) for standard and extended board versions:
 
@@ -37,7 +37,7 @@ See also: [How to generate Gerber and Drill files in KiCad 7 (JLCPCB)](https://j
 
 I fabricated the extended board version at JLCPCB. For my first (and so far only) order, I enabled "Confirm Production file", which turned out to be a good idea. Initially, they reduced the solder mask openings on the back side, which effectively removed the ground ring. Also, the silkscreen for the U.FL connectors on the front was removed and then, when communicating to readd them, they were clipped.
 
-I suspect the wording in the remark field on the order page was the issue, so I updated it in this README to match their wordings more closely: "Keep the silkscreen on the solder mask openings" (same note is mentioned in ordering instructions above). The clipping was possibly due to the closeness to the SMD pads on the front. I was reviewing their changes directly and sending pictures comparing their version and my desired version, with arrows pointing out the differences too clarify, but maybe a note "Keep silkscreen close to copper pads unchanged." could help.
+I suspect the wording in the remark field on the order page was the issue, so I updated it in the README to match their wordings more closely: "Keep the silkscreen on the solder mask openings." (same note is mentioned in ordering instructions above). The clipping was possibly due to the closeness to the SMD pads on the front. I was reviewing their changes directly and sending pictures comparing their version and my desired version, with arrows pointing out the differences too clarify, but maybe a note "Keep silkscreen close to copper pads unchanged." could help.
 
 Similarily, for the reduced solder mask openings on the back side, a note saying "Solder mask openings on back side of PTH is intentionally covering the adjacent ground plane." However I suspect such a statement will not work, as in my experiece images worked best. Ideally, you could point that out in something like the Fab layer, adding arrows to say the crossing of two copper regions (ring around PTH and ground plane) is intentional.
 
