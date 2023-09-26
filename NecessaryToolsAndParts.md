@@ -4,6 +4,8 @@ The RF prototype boards have a 0.1" pin pitch, which means the pad holes are 100
 
 You will need 0805 (2.0 mm × 1.25 mm) or 0603 (1.6 mm × 0.8 mm) sized SMD components. SMD sizes are given in [imperial code](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Rectangular_passive_components), not metric code.
 
+The pads on the boards are separated by 10 mils (0.254 mm), so any SMD component that comfortably bridges this gap can be used.
+
 ## Recommended lead-free solder
 
 After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowing solder making nice shiny joints.<br/>
