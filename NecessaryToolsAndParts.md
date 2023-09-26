@@ -63,9 +63,9 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
 - https://www.ph2lb.nl/blog/index.php?page=xtal-adapter-for-nanovna
 - https://www.ph2lb.nl/blog/index.php?page=qrp-labs-filter-adapter-for-nanovna
 - https://www.ph2lb.nl/blog/index.php?page=rfsampler
-<br/>
 
+Mostly for the manual (but the NanoVNA Testboard Kit (see above) is better):
 - https://www.ph2lb.nl/blog/index.php?page=component-measuring-adapter-for-nanovna
   
-  Mostly for the manual, but NanoVNA Testboard Kit (see below) is better.
+
   
