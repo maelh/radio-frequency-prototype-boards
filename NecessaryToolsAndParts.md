@@ -57,7 +57,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
  
 ### Basic addons
 - "RF Demo Kit for NanoVNA-F - by deepelec" (The green board with all the cool Smith Charts and components)
-- "NanoVNA Testboard Kit" (the little blue board the filter was built on)
+- 2x "NanoVNA Testboard Kit" (the little blue board the filter was built on)
 - stethoscope camera with microphone (or stethoscope  microphone alone)
 
 ### Advanced add-ons
