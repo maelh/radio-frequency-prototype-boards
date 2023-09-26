@@ -11,7 +11,7 @@ Note: SMD sizes are given in [imperial code](https://en.wikipedia.org/wiki/List_
 
 Since the SMD parts should make solid connections with the board, the smallest acceptable size is 0402 (1.0 mm × 0.5 mm). Smaller sizes will have their SMD pads reach into the *gap* between two board pads, instead of fully touching the board's pads.
 
-Choose the part size depending on how much of the board pads (and their holes) you want to cover, and for ease of solderability.
+Choose the part size depending on how much of the board pads (and their holes) you want to cover, and for ease of use/soldering.
 
 ## Recommended lead-free solder
 
