@@ -1,6 +1,6 @@
 # Necessary tools and parts
 
-The RF prototype boards have a 0.1" pin pitch, which means the pad holes are 100 mils (= 2.54 mm) apart from each other.
+The RF prototype boards have a 0.1" pin pitch, which means the pad holes are 100 mils (= 2.54 mm) apart from each other. Also, the pads on the boards are separated by 10 mils (= 0.254 mm), so any SMD component that comfortably bridges this gap can be used.
 
 You will need 0805 (2.0 mm × 1.25 mm) or 0603 (1.6 mm × 0.8 mm) or at the minimum 0402 (1.0 mm × 0.5 mm) sized SMD components. SMD sizes are given in [imperial code](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Rectangular_passive_components), not metric code.
 
