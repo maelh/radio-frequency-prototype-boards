@@ -24,9 +24,10 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
 
 - SMD kit with many parts (except inductors):
   - Interstellar Electronics SMD Professional Assortment Kit
-  - Also, called "2900 pcs SMD 1206 0805 0603 Component Assortment, Resistor, Capacitor, Diode, Transistor, OpAmp, IC, Solder, PCB, SMT Soldering Assorted Kit" by Zebulon
-    - Alternatively: "SMD SMT Electronic Components Assortment 1206 0805 0603 Resistors Capacitors Diodes Transistors LEDs Potentiometers Opamps ICs Zener PCBs 2900pcs"
-    - https://www.amazon.de/gp/product/B08QGD9G7C/
+  - Also, called:
+    - "2900 pcs SMD 1206 0805 0603 Component Assortment, Resistor, Capacitor, Diode, Transistor, OpAmp, IC, Solder, PCB, SMT Soldering Assorted Kit" by Zebulon
+    - "SMD SMT Electronic Components Assortment 1206 0805 0603 Resistors Capacitors Diodes Transistors LEDs Potentiometers Opamps ICs Zener PCBs 2900pcs"
+  - https://www.amazon.de/gp/product/B08QGD9G7C/
 - https://www.amazon.de/gp/product/B0795DX46R/ref=ox_sc_act_title_2?smid=A1CKTEOLLEJC1Q&psc=1
 - For *extended* prototype board: screw terminals with a 5.0 mm pin pitch
 - For *extended* prototype board: M2.5 spacer rods, screws and nuts (nylon, or some other non-conductive material) for pcb mounting holes
