@@ -31,7 +31,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
 - Inductor Sample Book
   - Search terms:
     - SMD Multilayer Ceramic Inductor Kit 0201 0402 0603 0805 1206 Chip Inductance Assorted Kit Sample Book
-  - https://www.aliexpress.us/item/1005004268660183.html (pick the "0805 47valuesX25pcs" option)
+  - https://www.aliexpress.us/item/1005004268660183.html (pick the "0603 52valuesX25pcs" or the "0805 47valuesX25pcs" option)
 - U.FL connectors
   - Search terms:
     - 50PCS IPEX U.FL SMD SMT Solder for PCB Mount Socket Jack Female RF Coaxial Connector
