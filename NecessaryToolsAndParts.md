@@ -6,7 +6,7 @@ You will need 0805 (2.0 mm × 1.25 mm) or 0603 (1.6 mm × 0.8 mm) sized SMD comp
 
 ## Recommended lead-free solder
 
-After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowing solder making nice shiny joints.<br\>
+After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowing solder making nice shiny joints.<br/>
 A 0.5 mm diameter is well suited for SMD components, while still allowing to solder through-hole parts.
 
 The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
