@@ -32,7 +32,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
   - SMD Multilayer Ceramic Inductor Kit 0201 0402 0603 0805 1206 Chip Inductance Assorted Kit Sample Book
   - https://www.aliexpress.us/item/1005004268660183.html (pick the "0805 47valuesX25pcs" option)
 - U.FL connectors
-  - "50PCS IPEX U.FL SMD SMT Solder for PCB Mount Socket Jack Female RF Coaxial Connector
+  - 50PCS IPEX U.FL SMD SMT Solder for PCB Mount Socket Jack Female RF Coaxial Connector
 - For *extended* prototype board: screw terminals with a 5.0 mm pin pitch
 - For *extended* prototype board: M2.5 spacer rods, screws and nuts (nylon, or some other non-conductive material) for the PCB mounting holes
 - Rubber feet with adhesive
