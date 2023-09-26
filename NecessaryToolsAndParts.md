@@ -2,9 +2,11 @@
 
 The RF prototype boards have a 0.1" pin pitch, which means the pad holes are 100 mils (= 2.54 mm) apart from each other. Also, the pads on the boards are separated by 10 mils (= 0.254 mm), so any SMD component that comfortably bridges this gap can be used.
 
-You will need 0805 (2.0 mm × 1.25 mm) or 0603 (1.6 mm × 0.8 mm) or at the minimum 0402 (1.0 mm × 0.5 mm) sized SMD components. SMD sizes are given in [imperial code](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Rectangular_passive_components), not metric code.
+You will need 0805 (2.0 mm × 1.25 mm) or 0603 (1.6 mm × 0.8 mm) or 0402 (1.0 mm × 0.5 mm) sized SMD components. SMD sizes are given in [imperial code](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Rectangular_passive_components), not metric code.
 
-The pads on the boards are separated by 10 mils (0.254 mm), so any SMD component that comfortably bridges this gap can be used. Therefore the minimal size would be 0402 (1.0 mm × 0.5 mm), smaller SMD parts will have their pads reach into the gap between two pads on the board, and not make solid connections. Choose the part size depending on how much of the board pads (and their holes) you want to cover, and ease of solderability.
+Since SMD part should make solid connections, the smallest size would be 0402 (1.0 mm × 0.5 mm). Smaller sizes will have their SMD pads reaching into the gap between two board pads, instead of being fully touching the boards pads.
+
+Choose the part size depending on how much of the board pads (and their holes) you want to cover, and ease of solderability.
 
 ## Recommended lead-free solder
 
