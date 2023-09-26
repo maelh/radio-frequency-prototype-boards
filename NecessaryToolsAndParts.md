@@ -22,7 +22,10 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
 
 ## SMD component kits and basic parts
 
-- https://www.amazon.de/gp/product/B08QGD9G7C/
+- "Interstellar Electronics SMD Professional Assortment Kit" (the surface mount parts box)
+  - Also offered by "Zebulon" called "2900 pcs SMD 1206 0805 0603 Component Assortment, Resistor, Capacitor, Diode, Transistor, OpAmp, IC, Solder, PCB, SMT Soldering Assorted Kit"
+    - In German "SMD SMT Electronic Components Assortment 1206 0805 0603 Resistors Capacitors Diodes Transistors LEDs Potentiometers Opamps ICs Zener PCBs 2900pcs"
+    - https://www.amazon.de/gp/product/B08QGD9G7C/
 - https://www.amazon.de/gp/product/B0795DX46R/ref=ox_sc_act_title_2?smid=A1CKTEOLLEJC1Q&psc=1
 - For *extended* prototype board: screw terminals with a 5.0 mm pin pitch
 - For *extended* prototype board: M2.5 spacer rods, screws and nuts (nylon, or some other non-conductive material) for pcb mounting holes
@@ -34,6 +37,8 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
 - [TinySA](https://tinysa.org/wiki/pmwiki.php?n=Main.Specification) or [TinySA Ultra](https://tinysa.org/wiki/pmwiki.php?n=TinySA4.Specification)
   - [Where to buy](https://tinysa.org/wiki/pmwiki.php?n=Main.Buying) to avoid bad clones
 - stethoscope camera with microphone (or stethoscope  microphone alone)
+
+### Advanced add-ons
 - https://www.ph2lb.nl/blog/index.php?page=xtal-adapter-for-nanovna
 - https://www.ph2lb.nl/blog/index.php?page=qrp-labs-filter-adapter-for-nanovna
 - https://www.ph2lb.nl/blog/index.php?page=rfsampler
@@ -45,8 +50,6 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
 
 ## Main parts (mentioned in MegawattKS' YouTube playlist)
 
-- "NanoVNA" (lots of different versions - mine is the 4" screen NanoVNA-F)
-- "TinySA" (some different types, but mainly different places to buy)
 - "RF Demo Kit for NanoVNA-F - by deepelec" (The green board with all the cool Smith Charts and components)
 - "NanoVNA Testboard Kit" (the little blue board the filter was built on)
 - "SMA RF DC-Block DC to 6 GHz 50 Ohm"
@@ -54,9 +57,6 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
 
 <br/>
 
-- "Interstellar Electronics SMD Professional Assortment Kit" (the surface mount parts box)
-  - Also offered by "Zebulon" called "2900 pcs SMD 1206 0805 0603 Component Assortment, Resistor, Capacitor, Diode, Transistor, OpAmp, IC, Solder, PCB, SMT Soldering Assorted Kit"
-    - In German "SMD SMT Electronic Components Assortment 1206 0805 0603 Resistors Capacitors Diodes Transistors LEDs Potentiometers Opamps ICs Zener PCBs 2900pcs"
 - "Inductor Sample Book" (goes by various names/vendors - but that should pull up useful hits)
 - "50PCS IPEX U.FL SMD SMT Solder for PCB Mount Socket Jack Female RF Coaxial Connector"
 - "U.FL to SMA Male Coaxial RG178 Low Loss Cable"
