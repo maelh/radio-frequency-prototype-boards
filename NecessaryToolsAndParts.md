@@ -7,7 +7,7 @@ That means, *pick SMD components of any of the following sizes*:
   - 0603 (1.6 mm × 0.8 mm)
   - 0402 (1.0 mm × 0.5 mm)
 
-SMD sizes are given in [imperial code](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Rectangular_passive_components), not metric code.
+Note: SMD sizes are given in [imperial code](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Rectangular_passive_components), not metric code.
 
 Since SMD part should make solid connections, the smallest size would be 0402 (1.0 mm × 0.5 mm). Smaller sizes will have their SMD pads reaching into the gap between two board pads, instead of being fully touching the boards pads.
 
