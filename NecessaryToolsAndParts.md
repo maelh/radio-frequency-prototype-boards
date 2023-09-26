@@ -29,6 +29,8 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
     - "SMD SMT Electronic Components Assortment 1206 0805 0603 Resistors Capacitors Diodes Transistors LEDs Potentiometers Opamps ICs Zener PCBs 2900pcs" by Zebulon
   - https://www.amazon.de/gp/product/B08QGD9G7C/
 - https://www.amazon.de/gp/product/B0795DX46R/ref=ox_sc_act_title_2?smid=A1CKTEOLLEJC1Q&psc=1
+- "Inductor Sample Book" (goes by various names/vendors - but that should pull up useful hits)
+- "50PCS IPEX U.FL SMD SMT Solder for PCB Mount Socket Jack Female RF Coaxial Connector"
 - For *extended* prototype board: screw terminals with a 5.0 mm pin pitch
 - For *extended* prototype board: M2.5 spacer rods, screws and nuts (nylon, or some other non-conductive material) for the PCB mounting holes
 - Rubber feet with adhesive
@@ -40,6 +42,14 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
   - See [vendor list](https://tinysa.org/wiki/pmwiki.php?n=Main.Buying) to avoid bad clones.
 - **Important:** attenuators and DC blocks
   - For both instruments above you should use attenuators.
+  - "SMA RF DC-Block DC to 6 GHz 50 Ohm"
+  - "Nooelec SMA Attenuator Kit - Bundle of 6pc 2W 50 Ohm SMA in-Line Attenuators"
+- "6.5ft Low-Loss Coaxial Extension Cable RG58 (50 Ohm) SMA Male to SMA Female"
+- "U.FL to SMA Male Coaxial RG178 Low Loss Cable"
+ 
+### Basic addons
+- "RF Demo Kit for NanoVNA-F - by deepelec" (The green board with all the cool Smith Charts and components)
+- "NanoVNA Testboard Kit" (the little blue board the filter was built on)
 - stethoscope camera with microphone (or stethoscope  microphone alone)
 
 ### Advanced add-ons
@@ -51,20 +61,4 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
 - https://www.ph2lb.nl/blog/index.php?page=component-measuring-adapter-for-nanovna
   
   Mostly for the manual, but NanoVNA Testboard Kit (see below) is better.
-
-## Main parts (mentioned in MegawattKS' YouTube playlist)
-
-- "RF Demo Kit for NanoVNA-F - by deepelec" (The green board with all the cool Smith Charts and components)
-- "NanoVNA Testboard Kit" (the little blue board the filter was built on)
-- "SMA RF DC-Block DC to 6 GHz 50 Ohm"
-- "Nooelec SMA Attenuator Kit - Bundle of 6pc 2W 50 Ohm SMA in-Line Attenuators"
-
-<br/>
-
-- "Inductor Sample Book" (goes by various names/vendors - but that should pull up useful hits)
-- "50PCS IPEX U.FL SMD SMT Solder for PCB Mount Socket Jack Female RF Coaxial Connector"
-- "U.FL to SMA Male Coaxial RG178 Low Loss Cable"
-
-<br/>
-
-- "6.5ft Low-Loss Coaxial Extension Cable RG58 (50 Ohm) SMA Male to SMA Female"
+  
