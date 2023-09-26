@@ -29,7 +29,9 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
     - "SMD SMT Electronic Components Assortment 1206 0805 0603 Resistors Capacitors Diodes Transistors LEDs Potentiometers Opamps ICs Zener PCBs 2900pcs" by Zebulon
   - https://www.amazon.de/gp/product/B08QGD9G7C/
 - https://www.amazon.de/gp/product/B0795DX46R/ref=ox_sc_act_title_2?smid=A1CKTEOLLEJC1Q&psc=1
-- "Inductor Sample Book" (goes by various names/vendors - but that should pull up useful hits)
+- Inductor Sample Book
+  - SMD Multilayer Ceramic Inductor Kit 0201 0402 0603 0805 1206 Chip Inductance Assorted Kit Sample Book
+  - https://www.aliexpress.us/item/1005004268660183.html
 - "50PCS IPEX U.FL SMD SMT Solder for PCB Mount Socket Jack Female RF Coaxial Connector"
 - For *extended* prototype board: screw terminals with a 5.0 mm pin pitch
 - For *extended* prototype board: M2.5 spacer rods, screws and nuts (nylon, or some other non-conductive material) for the PCB mounting holes
