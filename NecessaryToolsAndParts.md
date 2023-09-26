@@ -16,7 +16,7 @@ Choose the part size depending on how much of the board pads (and their holes) y
 ## Recommended lead-free solder
 
 After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowing solder making nice shiny joints.<br/>
-A 0.5 mm diameter is well suited for SMD components, while still allowing to solder through-hole parts.
+A diameter of 0.5 mm is well suited for SMD components, while still allowing to solder through-hole parts.
 
 The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
 
