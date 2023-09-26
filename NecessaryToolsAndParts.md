@@ -1,12 +1,18 @@
+# Necessary tools and parts
+
+The RF prototype boards have a 0.1" pin pitch, which means pins are 100 mils (= 2.54 mm) apart from each other.
+
+You will need 0805 (2.0 mm × 1.25 mm) or 0603 (1.6 mm × 0.8 mm) sized SMD components. SMD sizes are given in [imperial code](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types#Rectangular_passive_components), not metric.
+
 ## Recommended lead-free solder
 
 After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowing solder making nice shiny joints.
 
 ## SMD component kits and other useful parts
 
-- https://www.amazon.de/gp/product/B08QGD9G7C/ref=ox_sc_act_image_1?smid=A343O8N8FO74B8&psc=1
+- https://www.amazon.de/gp/product/B08QGD9G7C/
 - https://www.amazon.de/gp/product/B0795DX46R/ref=ox_sc_act_title_2?smid=A1CKTEOLLEJC1Q&psc=1
-- TODO: screw terminal block that fits extended pcb
+- For *extended* prototype board: screw terminals with a 5.0 mm pin pitch
 - M2.5 spacer rods, screws and nuts (nylon, or some other non-conductive material) for pcb mounting holes
 - rubber feet with adhesive
 - stethoscope camera with microphone (or stethoscope  microphone alone)
@@ -19,7 +25,7 @@ After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowi
   
   Mostly for the manual, but NanoVNA Testboard Kit (see below) is better.
 
-## Other parts (mentioned in MegawattKS' YouTube playlist)
+## Main parts (mentioned in MegawattKS' YouTube playlist)
 
 - "NanoVNA" (lots of different versions - mine is the 4" screen NanoVNA-F)
 - "TinySA" (some different types, but mainly different places to buy)
@@ -31,6 +37,8 @@ After trying various lead-free solders, I can recommend Sn100Ni+ as a well flowi
 <br/>
 
 - "Interstellar Electronics SMD Professional Assortment Kit" (the surface mount parts box)
+  - Also offered by "Zebulon" called "2900 pcs SMD 1206 0805 0603 Component Assortment, Resistor, Capacitor, Diode, Transistor, OpAmp, IC, Solder, PCB, SMT Soldering Assorted Kit"
+    - In German "SMD SMT Electronic Components Assortment 1206 0805 0603 Resistors Capacitors Diodes Transistors LEDs Potentiometers Opamps ICs Zener PCBs 2900pcs"
 - "Inductor Sample Book" (goes by various names/vendors - but that should pull up useful hits)
 - "50PCS IPEX U.FL SMD SMT Solder for PCB Mount Socket Jack Female RF Coaxial Connector"
 - "U.FL to SMA Male Coaxial RG178 Low Loss Cable"
