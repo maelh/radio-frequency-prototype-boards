@@ -35,9 +35,9 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
 
 ## Test equipement
 - NanoVNA
-  - Many different versions, I use [NanoVNA-H4](https://nanovna.com/) (see [where to buy](https://nanovna.com/?page_id=121) to avoid bad clones), MegaWattKS uses [NanoVNA-F](https://deepelec.com/nanovna-f/), both having a 4" screen.
+  - Many different versions, I use [NanoVNA-H4](https://nanovna.com/) (see [vendor list](https://nanovna.com/?page_id=121) to avoid bad clones), MegaWattKS uses [NanoVNA-F](https://deepelec.com/nanovna-f/), both having a 4" screen.
 - [TinySA](https://tinysa.org/wiki/pmwiki.php?n=Main.Specification) or [TinySA Ultra](https://tinysa.org/wiki/pmwiki.php?n=TinySA4.Specification)
-  - See [where to buy](https://tinysa.org/wiki/pmwiki.php?n=Main.Buying) to avoid bad clones
+  - See [vendor list](https://tinysa.org/wiki/pmwiki.php?n=Main.Buying) to avoid bad clones
 - stethoscope camera with microphone (or stethoscope  microphone alone)
 
 ### Advanced add-ons
