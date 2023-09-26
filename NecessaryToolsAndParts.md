@@ -37,9 +37,9 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
 
 ## Test equipment
 - NanoVNA
-  - Many different versions, I use [NanoVNA-H4](https://nanovna.com/) (see [vendor list](https://nanovna.com/?page_id=121) to avoid bad clones), MegaWattKS uses [NanoVNA-F](https://deepelec.com/nanovna-f/), both having a 4" screen.
+  - Many different versions, I use [NanoVNA-H4](https://nanovna.com/) (see [recommended vendor list](https://nanovna.com/?page_id=121) to avoid bad clones), MegaWattKS uses [NanoVNA-F](https://deepelec.com/nanovna-f/), both having a 4" screen.
 - [TinySA](https://tinysa.org/wiki/pmwiki.php?n=Main.Specification) or [TinySA Ultra](https://tinysa.org/wiki/pmwiki.php?n=TinySA4.Specification)
-  - See [vendor list](https://tinysa.org/wiki/pmwiki.php?n=Main.Buying) to avoid bad clones.
+  - See [recommended vendor list](https://tinysa.org/wiki/pmwiki.php?n=Main.Buying) to avoid bad clones.
 - **Important:** attenuators and DC blocks
   - For both instruments above you should use attenuators, since the frontends cannot sustain much power.
   - "SMA RF DC-Block DC to 6 GHz 50 Ohm"
