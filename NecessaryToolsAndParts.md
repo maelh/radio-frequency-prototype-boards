@@ -22,8 +22,9 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
 
 ## SMD component kits and basic parts
 
-- "Interstellar Electronics SMD Professional Assortment Kit" (the surface mount parts box)
-  - Also offered by "Zebulon" called "2900 pcs SMD 1206 0805 0603 Component Assortment, Resistor, Capacitor, Diode, Transistor, OpAmp, IC, Solder, PCB, SMT Soldering Assorted Kit"
+- SMD kit with many parts (except inductors):
+  - Interstellar Electronics SMD Professional Assortment Kit
+  - Also, called "2900 pcs SMD 1206 0805 0603 Component Assortment, Resistor, Capacitor, Diode, Transistor, OpAmp, IC, Solder, PCB, SMT Soldering Assorted Kit" by Zebulon
     - In German "SMD SMT Electronic Components Assortment 1206 0805 0603 Resistors Capacitors Diodes Transistors LEDs Potentiometers Opamps ICs Zener PCBs 2900pcs"
     - https://www.amazon.de/gp/product/B08QGD9G7C/
 - https://www.amazon.de/gp/product/B0795DX46R/ref=ox_sc_act_title_2?smid=A1CKTEOLLEJC1Q&psc=1
