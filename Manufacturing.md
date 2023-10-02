@@ -57,3 +57,7 @@ To review production files received from fabs such as PCBpartner or JLCPCB, you 
 You can also simply do a manual visual compare using KiCad Gerber viewer, to see what changes the fab made. In that case, open all the Gerber files, that have simple names (the names are essentially Protel file extensions). For a two layer design, like the protoboards here, the relevant files are: bl, bo, bs, drl, ko, tl, to, ts.
 
 If you want to check your design before submitting it to a manufacturer, you can use [FreeDFM](https://www.my4pcb.com/net35/FreeDFMNet/FreeDFMHome.aspx).
+
+### Manfacturing process
+
+If you are curious, here is also a description of [how boards are fabricated step by step in a factory](https://www.digikey.com/en/maker/blogs/2018/how-is-a-pcb-manufactured).
