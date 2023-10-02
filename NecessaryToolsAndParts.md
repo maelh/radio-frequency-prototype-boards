@@ -38,7 +38,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
     - IPX U.FL RF Coaxial Plug SMD SMT Soldering Conductor Board Female for Antenna Wireless LAN Equipment Coaxial Cable Pack of 80
   - https://www.amazon.de/gp/product/B0BFQ98MLC
 - Rubber feet with adhesive
-- For *extended* prototype board:
+- For the *extended* prototype board:
   - Screw terminals with a 5.0 mm pin pitch
     - https://www.amazon.de/gp/product/B0C3HB9HK7
   - M2.5 spacer rods, screws and nuts (nylon, or some other non-conductive material) for the PCB mounting holes
