@@ -86,6 +86,8 @@ Either solder only to the inner ring on the backside to mechanically secure a th
 
 No special or large sized tip is necessary: I use a 2 mm wide chisel tip, with a soldering station set to about 330°C, using Sn100Ni+ 0.5mm solder wire (see [recommended lead-free solder](NecessaryToolsAndParts.md#recommended-lead-free-solder)).
 
+The only tricky part is to remove solder from the narrow plated through holes, so it is better to plan ahead if you want a throughhole component or a surface mount component on a specific pad.
+
 ### Soldering in more detail
 
 Add some solder to the inner ring, then swirl the iron tip around the inner ring and the outer ground ring at the same time and add more solder to make a larger blob/dome. Initially it only bonds to the inner ring, but after a few seconds of swilring, the ground plane ring will also accept the solder. If the joint looks "cold"/crumbly, simply add a little flux and touch up the joint again briefly, so it will create a nice shiny joint.
@@ -95,8 +97,6 @@ Add some solder to the inner ring, then swirl the iron tip around the inner ring
 Heat up a solder joint and collect excessive solder with the iron's tip and brush it off on your brass sponge. With less solder it will tend to only cover the inner ring. Alternatively, use a solder sucker: keep the iron on the rings until the solder melts, then move the iron slightly off the center of the ring but close enough, so it can keep the solder in a molten state. Then make the (silicone!) tip of the solder sucker touch directly the iron tip, and press the button of the desoldering pump to suck most of the solder away. It works quite reliably, and better than using solder wick.
 
 The solder sucker tip should be made out of silicone, so it doesn't melt when touching the soldering iron.
-
-The only tricky part is to remove solder from the narrow plated through holes, so it is better to plan ahead if you want a throughhole component or a surface mount component on a specific pad.
 
 ## Parts and measurement equipment
 
