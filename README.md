@@ -90,7 +90,7 @@ The only tricky part is to remove solder from the narrow plated through holes, s
 
 ### Soldering in more detail
 
-Add some solder to the inner ring, then swirl the iron tip around the inner ring and the outer ground ring at the same time and add more solder to make a larger blob/dome. Initially it only bonds to the inner ring, but after a few seconds of swilring, the ground plane ring will also accept the solder. If the joint looks "cold"/crumbly, simply add a little flux and touch up the joint again briefly, so it will create a nice shiny joint.
+Add some solder to the inner ring, then swirl the iron tip around the inner ring and the outer ground ring at the same time and add more solder to make a larger blob/dome. Initially it only bonds to the inner ring, but after a few seconds of swirling, the ground plane ring will also accept the solder. If the joint looks "cold"/crumbly, simply add a little flux and touch up the joint again briefly, so it will create a nice shiny joint.
 
 ### Removing a ground connection
 
