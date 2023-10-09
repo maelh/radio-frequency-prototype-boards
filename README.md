@@ -74,7 +74,7 @@ They are tuned for JLCPCB, but you can easily  [adjust the settings](Manufacturi
 
 ### Fabrication results, generating files manually, reviewing production files
 
-I received my first extended RF protoboards on October 9, 2023. All tests indicate they are working well -- I made continuity tests with my multimeter -- and they were manufactured to specfication regarding silkscreen, drilled hole diameters and correct through hole plating to the ground planes.
+I received my first extended RF protoboards on October 9, 2023. All tests indicate they are working well -- I made continuity tests with my multimeter -- and they were manufactured to specification regarding silkscreen, drilled hole diameters and correct through hole plating to the ground planes.
 
 More details on how to generate Gerber files manually, my experiences with producing the extended board version, and how to review production files before fabrication begins, can be found under [manufacturing](Manufacturing.md).
 
