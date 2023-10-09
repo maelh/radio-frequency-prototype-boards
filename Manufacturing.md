@@ -62,6 +62,6 @@ If you are curious, here is also a description of [how boards are fabricated ste
 
 ### Fabrication results
 
-I received my first extended RF protoboards on October 9, 2023. All tests indicate they are working well -- I made continuity tests with my multimeter -- and they were manufactured to specfication regarding silkscreen, drilled hole diameters and correct through hole plating to the ground planes.
+I received my first extended RF protoboards on October 9, 2023. All tests indicate they are working well -- I made continuity tests with my multimeter -- and they were manufactured to specification regarding silkscreen, drilled hole diameters and correct through hole plating to the ground planes.
 
 I haven't sent the standard design to a PCB manufacturer yet. Let me know if there are any issues in manufacturability and what instructions you followed to be successful.
