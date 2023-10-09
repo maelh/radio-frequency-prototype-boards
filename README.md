@@ -78,7 +78,7 @@ More details on how to generate Gerber files manually, my experiences with produ
 
 ## Soldering to the ground plane
 
-I received my first extended RF protoboards on October 9th 2023. All tests indicate they are working well -- I made continuity tests with my multimeter -- and they were manufactured to specfication regarding silkscreen, drilled hole diameters and correct through hole plating to the ground planes.
+I received my first extended RF protoboards on October 9, 2023. All tests indicate they are working well -- I made continuity tests with my multimeter -- and they were manufactured to specfication regarding silkscreen, drilled hole diameters and correct through hole plating to the ground planes.
 
 The ground ring design proved to be really easy to use for connecting pads to ground.
 
