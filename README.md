@@ -94,7 +94,7 @@ Add some solder to the inner ring, then swirl the iron tip around the inner ring
 
 ### Removing a ground connection
 
-Heat up a solder joint and collect excessive solder with the iron's tip, then brush it off on your brass wool cleaner. With less solder it will tend to only cover the inner ring (which means there is no more connection to ground).
+Heat up a solder joint and collect excessive solder with the iron's tip, then brush it off on your brass wool cleaner. With less solder it will tend to only cover the inner ring, which means there is no more connection to ground.
 
 Alternatively, use a solder sucker: keep the iron on the rings until the solder melts, then move the iron slightly off the center of the ring but close enough, so it can keep the solder in a molten state. Then make the (silicone!) tip of the solder sucker touch directly the iron tip, and press the button of the desoldering pump to suck most of the solder away. It works quite reliably, and better than using solder wick.
 
