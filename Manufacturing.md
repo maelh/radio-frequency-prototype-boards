@@ -56,7 +56,7 @@ You can also simply do a manual visual compare using KiCad Gerber viewer, to see
 
 If you want to check your design before submitting it to a manufacturer, you can use [FreeDFM](https://www.my4pcb.com/net35/FreeDFMNet/FreeDFMHome.aspx).
 
-### Manfacturing process
+### Manufacturing process
 
 If you are curious, here is also a description of [how boards are fabricated step by step in a factory](https://www.digikey.com/en/maker/blogs/2018/how-is-a-pcb-manufactured).
 
