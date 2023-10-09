@@ -84,7 +84,7 @@ In the first practical soldering tests, the ground ring design proved to be real
 
 Either solder only to the inner ring on the backside to mechanically secure a through hole component to the board, without connecting it to the ground plane, or make a larger solder dome/blob that also covers the outer ground ring to make a ground plane connection.
 
-No special or large sized tip is necessary: I use a 2 mm wide chisel tip, with a soldering station set to about 330°C, using Sn100Ni+ 0.5mm solder wire (see [recommended lead-free solder](NecessaryToolsAndParts.md#recommended-lead-free-solder)).
+No special or large sized tip is necessary: I use a 2 mm wide chisel tip, with my soldering station set to about 330°C, using Sn100Ni+ 0.5mm solder wire (see [recommended lead-free solder](NecessaryToolsAndParts.md#recommended-lead-free-solder)).
 
 The only tricky part is to remove solder from the narrow plated through holes, so it is better to plan ahead if you want a throughhole component or a surface mount component on a specific pad.
 
