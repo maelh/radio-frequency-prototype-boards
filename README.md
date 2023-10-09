@@ -74,13 +74,13 @@ They are tuned for JLCPCB, but you can easily  [adjust the settings](Manufacturi
 
 ### Fabrication results, generating files manually, reviewing production files
 
+I received my first extended RF protoboards on October 9, 2023. All tests indicate they are working well -- I made continuity tests with my multimeter -- and they were manufactured to specfication regarding silkscreen, drilled hole diameters and correct through hole plating to the ground planes.
+
 More details on how to generate Gerber files manually, my experiences with producing the extended board version, and how to review production files before fabrication begins, can be found under [manufacturing](Manufacturing.md).
 
 ## Soldering to the ground plane
 
-I received my first extended RF protoboards on October 9, 2023. All tests indicate they are working well -- I made continuity tests with my multimeter -- and they were manufactured to specfication regarding silkscreen, drilled hole diameters and correct through hole plating to the ground planes.
-
-The ground ring design proved to be really easy to use for connecting pads to ground.
+In the first practical soldering tests, the ground ring design proved to be really easy to use for connecting pads to ground.
 
 Either solder only to the inner ring on the backside to mechanically secure a through hole component to the board, without connecting it to ground plane, or make a larger solder dome/blob that also covers the outer ground ring to make a ground plane connection.
 
