@@ -43,7 +43,7 @@ Similarily, for the reduced solder mask openings on the back side, a note saying
 
 In the production files (if you chose to review them), diameters of PTHs will be enlarged, but that is to account for the narrowing of the holes when copper plating them, and is normal. Otherwise, I saw minor dimension changes of pads, but its mostly cosmetic: the outer ground pads for the U.FL connectors was enlarged and moved a bit and is now protruding from the rectangular frame. I mostly would like to know why it happened -- possibly to account for the via size, but the change was minimal --, so I can account for it in other boards/situations, where it might be relevant. But it was not worth the effort to keep delaying production.
 
-In general, watch out for some changes manufactures will automatically apply to your design: [relevant instructions when ordering at JLCPCB](https://jlcpcb.com/help/article/14-Instructions-for-ordering). Somewhat related: [How to Order Boards with Solder Mask Defined Pads (JLCPCB)](https://jlcpcb.com/help/article/84-How-to-Order-Boards-with-Solder-Mask-Defined-Pads).
+In general, watch out for some changes manufacturers will automatically apply to your design: [relevant instructions when ordering at JLCPCB](https://jlcpcb.com/help/article/14-Instructions-for-ordering). Somewhat related: [How to Order Boards with Solder Mask Defined Pads (JLCPCB)](https://jlcpcb.com/help/article/84-How-to-Order-Boards-with-Solder-Mask-Defined-Pads).
 
 ### DFM (Design for manufacturability) analysis / checks
 
