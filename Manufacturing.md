@@ -1,7 +1,7 @@
 # Fabricating the RF proto boards
 
 The necessary ZIP files are available in the [fabrication directory](fabrication/), ready to be sent to a PCB manufacturer.
-They are tuned for JLCPCB, but you can easily adjust the settings as needed when generating the gerber, drill and map files from within the KiCad projects (see [below](#generating-files-manually)).
+They are tuned for JLCPCB, but you can easily adjust the settings as needed when generating the Gerber, drill and map files from within the KiCad projects (see [below](#generating-files-manually)).
 
 ## PCB ordering website options
 - *Extended board version:* inform your manufacturer to keep the silkscreen for the U.FL connectors, since it's on the bare PCB substrate (no solder mask underneath). To do so, write a note in the order page remark field: "Keep the silkscreen on the solder mask openings."
@@ -29,7 +29,7 @@ Default plot settings (menu`File|Fabrications Output|Gerbers (.gbr)...`) for sta
 
 ![KiCad 7 plot settings](images/PlotSettings.png "KiCad 7 plot settings")
 
-Now, generate the gerber, the drill, and the map files. The results will be in the gerbers/ sub-directory. Put all the generated files in gerbers/ into a ZIP file, and upload them to your manufacturer.
+Now, generate the Gerber, the drill, and the map files. The results will be in the gerbers/ sub-directory. Put all the generated files in gerbers/ into a ZIP file, and upload them to your manufacturer.
 
 See also:
   - [How to generate Gerber and Drill files in KiCad 7 (JLCPCB)](https://jlcpcb.com/help/article/362-how-to-generate-gerber-and-drill-files-in-kicad-7)
