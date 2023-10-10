@@ -33,7 +33,7 @@ Now, generate the gerber, the drill, and the map files. The results will be in t
 
 See also: [How to generate Gerber and Drill files in KiCad 7 (JLCPCB)](https://jlcpcb.com/help/article/362-how-to-generate-gerber-and-drill-files-in-kicad-7).
 
-## Experience with manufacturing
+## Experience with submitting designs to JLCPCB
 
 I fabricated the extended board version at JLCPCB. For my first (and so far only) order, I enabled "Confirm Production file", which turned out to be a good idea. Initially, they reduced the solder mask openings on the back side, which effectively removed the ground ring. Also, the silkscreen for the U.FL connectors on the front was removed and then, when communicating to readd them, they were clipped.
 
@@ -43,9 +43,7 @@ Similarily, for the reduced solder mask openings on the back side, a note saying
 
 In the production files (if you chose to review them), diameters of PTHs will be enlarged, but that is to account for the narrowing of the holes when copper plating them, and is normal. Otherwise, I saw minor dimension changes of pads, but its mostly cosmetic: the outer ground pads for the U.FL connectors was enlarged and moved a bit and is now protruding from the rectangular frame. I mostly would like to know why it happened -- possibly to account for the via size, but the change was minimal --, so I can account for it in other boards/situations, where it might be relevant. But it was not worth the effort to keep delaying production.
 
-In general, watch out for some changes manufactures will automatically apply to your design: [relevant instructions when ordering at JLCPCB](https://jlcpcb.com/help/article/14-Instructions-for-ordering). Somewhat related: [How to Order Boards with Solder Mask Defined Pads (JLCPCB)](https://jlcpcb.com/help/article/84-How-to-Order-Boards-with-Solder-Mask-Defined-Pads).
-
-I haven't sent the standard design to a PCB manufacturer yet. Let me know if there are any issues in manufacturability and what instructions you followed to be successful.
+In general, watch out for some changes manufacturers will automatically apply to your design: [relevant instructions when ordering at JLCPCB](https://jlcpcb.com/help/article/14-Instructions-for-ordering). Somewhat related: [How to Order Boards with Solder Mask Defined Pads (JLCPCB)](https://jlcpcb.com/help/article/84-How-to-Order-Boards-with-Solder-Mask-Defined-Pads).
 
 ### DFM (Design for manufacturability) analysis / checks
 
@@ -58,6 +56,12 @@ You can also simply do a manual visual compare using KiCad Gerber viewer, to see
 
 If you want to check your design before submitting it to a manufacturer, you can use [FreeDFM](https://www.my4pcb.com/net35/FreeDFMNet/FreeDFMHome.aspx).
 
-### Manfacturing process
+### Manufacturing process
 
 If you are curious, here is also a description of [how boards are fabricated step by step in a factory](https://www.digikey.com/en/maker/blogs/2018/how-is-a-pcb-manufactured).
+
+### Fabrication results
+
+I received my first extended RF protoboards on October 9, 2023. All tests indicate they are working well -- I made continuity tests with my multimeter -- and they were manufactured to specification regarding silkscreen, drilled hole diameters and correct through hole plating to the ground planes.
+
+I haven't sent the standard design to a PCB manufacturer yet. Let me know if there are any issues in manufacturability and what instructions you followed to be successful.
