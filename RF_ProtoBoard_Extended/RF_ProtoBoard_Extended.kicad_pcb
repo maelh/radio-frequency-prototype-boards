@@ -93,7 +93,7 @@
     )
   )
 
-  (property "ProductNumberPlaceholder" "JLCJLCJLCJLC")
+  (property "ProductNumberPlaceholder" "")
 
   (net 0 "")
   (net 1 "GND1")

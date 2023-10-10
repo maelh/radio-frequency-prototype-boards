@@ -491,6 +491,6 @@
     ]
   ],
   "text_variables": {
-    "ProductNumberPlaceholder": "JLCJLCJLCJLC"
+    "ProductNumberPlaceholder": ""
   }
 }
