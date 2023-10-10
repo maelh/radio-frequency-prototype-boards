@@ -32,8 +32,8 @@ Default plot settings (menu`File|Fabrications Output|Gerbers (.gbr)...`) for sta
 Now, generate the gerber, the drill, and the map files. The results will be in the gerbers/ sub-directory. Put all the generated files in gerbers/ into a ZIP file, and upload them to your manufacturer.
 
 See also:
-  - [How to generate Gerber and Drill files in KiCad 7 (JLCPCB)](https://jlcpcb.com/help/article/362-how-to-generate-gerber-and-drill-files-in-kicad-7).
-  - [How to Generate Gerber and Drill Files in KiCad 7.0 (PCBWay)](https://www.pcbway.com/helpcenter/technical_support/How_to_Generate_Gerber_and_Drill_Files_in_KiCad_7_0.html).
+  - [How to generate Gerber and Drill files in KiCad 7 (JLCPCB)](https://jlcpcb.com/help/article/362-how-to-generate-gerber-and-drill-files-in-kicad-7)
+  - [How to Generate Gerber and Drill Files in KiCad 7.0 (PCBWay)](https://www.pcbway.com/helpcenter/technical_support/How_to_Generate_Gerber_and_Drill_Files_in_KiCad_7_0.html)
 
 ## Experience with submitting designs to JLCPCB
 
