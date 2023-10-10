@@ -78,7 +78,7 @@ I received my first extended RF protoboards on October 9, 2023. All tests indica
 
 More details on how to generate Gerber files manually, my experiences with producing the extended board version, and how to review production files before fabrication begins, can be found under [manufacturing](Manufacturing.md).
 
-## Soldering to the ground plane
+## Soldering to the ground plane rings
 
 In the first practical soldering tests, the ground ring design proved to be really easy to use for connecting pads to ground.
 
