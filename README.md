@@ -64,7 +64,7 @@ The screw terminal on the extended version reduces the amount of loose wires goi
 ## Fabricating the RF proto boards
 
 The necessary ZIP files are available in the [fabrication directory](fabrication/), ready to be sent to a PCB manufacturer.
-They are tuned for JLCPCB, but you can easily  [adjust the settings](Manufacturing.md#generating-files-manually) as needed when generating the gerber, drill and map files from within the KiCad projects.
+They are tuned for JLCPCB, but you can easily  [adjust the settings](Manufacturing.md#generating-files-manually) as needed when generating the Gerber, drill and map files from within the KiCad projects.
 
 ### PCB ordering website options
 
