@@ -1,2 +1,2 @@
 *.kicad_mod text=auto
-*.kicad_pro text=lf
+*.kicad_pro text eol=lf
