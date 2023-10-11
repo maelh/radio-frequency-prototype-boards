@@ -55,7 +55,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
 - "6.5ft Low-Loss Coaxial Extension Cable RG58 (50 Ohm) SMA Male to SMA Female"
 - "U.FL to SMA Male Coaxial RG178 Low Loss Cable"
 - Stylus pen for touchscreen (of NanoVNA/TinySA)
-  - The TinySA user group has a discussion about [https://groups.io/g/tinysa/topic/80388765](possible stylus options)
+  - The TinySA user group has a discussion about [possible stylus options](https://groups.io/g/tinysa/topic/80388765)
  
 ### Basic addons
 - "RF Demo Kit for NanoVNA-F - by deepelec" (The green board with all the cool Smith Charts and components)
