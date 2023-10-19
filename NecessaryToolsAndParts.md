@@ -37,6 +37,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
     - 50PCS IPEX U.FL SMD SMT Solder for PCB Mount Socket Jack Female RF Coaxial Connector
     - IPX U.FL RF Coaxial Plug SMD SMT Soldering Conductor Board Female for Antenna Wireless LAN Equipment Coaxial Cable Pack of 80
   - https://www.amazon.de/gp/product/B0BFQ98MLC
+  - https://www.berrybase.de/u.fl-steckverbinder-stecker-50-937-gerade-smd
 - Rubber feet with adhesive
 - For the *extended* prototype board:
   - Screw terminals with a 5.0 mm pin pitch
