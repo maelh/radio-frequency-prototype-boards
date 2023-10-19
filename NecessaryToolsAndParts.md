@@ -42,6 +42,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
   - Screw terminals with a 5.0 mm pin pitch
     - https://www.amazon.de/gp/product/B0C3HB9HK7
   - M2.5 spacer rods, screws and nuts (nylon, or some other non-conductive material) for the PCB mounting holes
+  - https://www.berrybase.de/420-teiliges-nylon-abstandshalter-sortiment-in-kunststoffbox-m2-5-weiss
 
 ## Test equipment
 - NanoVNA
