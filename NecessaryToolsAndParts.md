@@ -57,7 +57,9 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
 - 6.5ft (2 m) Low-Loss Coaxial Extension Cable RG58 (50 Ohm) SMA Male to SMA Female
   - Search terms:
     - RG174 SMA Coaxial Cable SMA Male to SMA Female RF Coaxial Cable 6.6 Feet (2 m) + 3 Pieces SMA Adapter Set Low Loss Extension Cable
+    - SMA Extension Cable RG58 6.6ft (2M) SMA Male to SMA Female Coaxial Cable Low Loss RF Coaxial Cable
   - https://www.amazon.de/dp/B0C1BFXMWD
+  - https://www.amazon.de/dp/B0995QWSS5
 - "U.FL to SMA Male Coaxial RG178 Low Loss Cable"
 - Stylus pen for touchscreen (of NanoVNA/TinySA)
   - The TinySA user group has a discussion about [possible stylus options](https://groups.io/g/tinysa/topic/80388765)
