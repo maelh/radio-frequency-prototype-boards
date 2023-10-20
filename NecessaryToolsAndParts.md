@@ -72,7 +72,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
   - The TinySA user group has a discussion about [possible stylus options](https://groups.io/g/tinysa/topic/80388765?p=Created%2C%2C%2C20%2C1%2C0%2C0)
  
 ### Basic addons
-- RF Demo Kit for NanoVNA
+- RF Demo Kit for VNA testing / NanoVNA
   - Has symbolic Smith charts, components for SOLT calibration, example filters, attenuators, resistors, capacitors, inductors, and combinations of these three basic components, all accessible via U.FL connectors
   - Search terms:
     - "RF Demo Kit for NanoVNA-F" by [Deepelec](https://deepelec.com/rf-demo-kit/) / SYSJOINT
