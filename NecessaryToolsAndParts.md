@@ -64,6 +64,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
   - https://www.amazon.de/dp/B0C1BFXMWD
   - https://www.amazon.de/dp/B0995QWSS5
 - U.FL to SMA Male Coaxial RG178 Low Loss Cable
+  - Used to connect the U.FL inputs/outputs of the RF protoboards to oscilloscopes/signal generators/vector network analyzers/spectrum analyzers
   - Search terms:
     - U.FL to SMA Coaxial Cable SMA Male to UFL IPX IPEX Coaxial Cable RG178 12 Inch (30 cm) Pack of 5
   - https://www.amazon.de/dp/B0C1BFXMWD
