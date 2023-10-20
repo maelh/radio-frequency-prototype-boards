@@ -54,7 +54,10 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
   - For both instruments above you should use attenuators, since the frontends cannot sustain much power.
   - "SMA RF DC-Block DC to 6 GHz 50 Ohm"
   - "Nooelec SMA Attenuator Kit - Bundle of 6pc 2W 50 Ohm SMA in-Line Attenuators"
-- "6.5ft Low-Loss Coaxial Extension Cable RG58 (50 Ohm) SMA Male to SMA Female"
+- 6.5ft (2 m) Low-Loss Coaxial Extension Cable RG58 (50 Ohm) SMA Male to SMA Female
+  - Search terms:
+    - RG174 SMA Coaxial Cable SMA Male to SMA Female RF Coaxial Cable 6.6 Feet (2 m) + 3 Pieces SMA Adapter Set Low Loss Extension Cable
+  - https://www.amazon.de/dp/B0C1BFXMWD
 - "U.FL to SMA Male Coaxial RG178 Low Loss Cable"
 - Stylus pen for touchscreen (of NanoVNA/TinySA)
   - The TinySA user group has a discussion about [possible stylus options](https://groups.io/g/tinysa/topic/80388765)
