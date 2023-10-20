@@ -69,7 +69,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
     - U.FL to SMA Coaxial Cable SMA Male to UFL IPX IPEX Coaxial Cable RG178 12 Inch (30 cm) Pack of 5
   - https://www.amazon.de/dp/B0C1BFXMWD
 - Stylus pen for touchscreen (of NanoVNA/TinySA)
-  - The TinySA user group has a discussion about [possible stylus options](https://groups.io/g/tinysa/topic/80388765)
+  - The TinySA user group has a discussion about [possible stylus options](https://groups.io/g/tinysa/topic/80388765?p=Created%2C%2C%2C20%2C1%2C0%2C0)
  
 ### Basic addons
 - "RF Demo Kit for NanoVNA-F - by deepelec" (The green board with all the cool Smith Charts and components)
