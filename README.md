@@ -106,7 +106,7 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 
 ## Recommended literature
 
-- RF Circuit Design by Christopher Bowick
+- RF Circuit Design 2nd Edition by Christopher Bowick
   - https://www.amazon.de/RF-Circuit-Design-Christopher-Bowick/dp/0750685182/
 
 ## Related perfboard designs
