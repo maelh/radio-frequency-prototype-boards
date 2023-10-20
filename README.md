@@ -104,6 +104,11 @@ The solder sucker tip should be made out of silicone, so it doesn't melt when to
 
 Aside from measurement equipment, such as the NanoVNA and the TinySA, you will need U.FL connectors, screw terminals, and most importantly, surface mount components, to build RF circuits. See the [list of tools and parts needed](NecessaryToolsAndParts.md).
 
+## Recommended literature
+
+- RF Circuit Design by Christopher Bowick
+  - https://www.amazon.de/RF-Circuit-Design-Christopher-Bowick/dp/0750685182/
+
 ## Related perfboard designs
 
 - https://github.com/electroniceel/protoboard
