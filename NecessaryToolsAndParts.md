@@ -54,8 +54,8 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
   - For both instruments above you should use attenuators, since the frontends cannot sustain much power.
   - "SMA RF DC-Block DC to 6 GHz 50 Ohm"
   - "Nooelec SMA Attenuator Kit - Bundle of 6pc 2W 50 Ohm SMA in-Line Attenuators"
-- SMA Female to SMA Male coaxial extension cable
-  -  Used to create a *simple RF probe*, as described at https://youtu.be/B7DFOq9rM_M?t=858
+- SMA female to SMA male coaxial extension cable
+  -  Used to create a *simple RF probe*, as described in https://youtu.be/B7DFOq9rM_M?t=858
     - A 4.7kOhm resistor is stuck in the female SMA connector as a signal pin, and as ground lead, a piece of wire is wraped around the same female SMA connector, then secured with a nut
   - Search terms:
     - 6.5ft (2 m) Low-Loss Coaxial Extension Cable RG58 (50 Ohm) SMA Male to SMA Female
