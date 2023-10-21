@@ -73,7 +73,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
  
 ### Basic addons
 - RF Demo Kit for VNA testing / for NanoVNA
-  - Has symbolic Smith charts, components for SOLT calibration, example filters, attenuators, resistors, capacitors, inductors, and combinations of these three basic components, all accessible via U.FL connectors
+  - Has symbolic Smith charts, components for SOLT calibration, example filters, attenuators, resistors, capacitors, inductors, and combinations of the last three basic components, all accessible via U.FL connectors
     -  [RF demo kit quickstart guide](https://www.deepelec.com/files/Rf_Demo_Kit_Quick_start_guide_v2.0.pdf)
   - Search terms:
     - "RF Demo Kit for NanoVNA-F" by [Deepelec](https://deepelec.com/rf-demo-kit/) / SYSJOINT
