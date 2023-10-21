@@ -57,6 +57,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
 - SMA female to SMA male coaxial extension cable
   -  Used to create a *simple RF probe* with 40 db attenuation, as described in https://youtu.be/B7DFOq9rM_M?t=858
     - A 4.7 kOhm resistor is stuck into the female SMA connector as a signal pin, and as a ground lead, a piece of wire is wraped around the same female SMA connector, then secured with a nut
+    - See also: [a wideband 1:21 DIY 1 kΩ oscilloscope probe](http://jahonen.kapsi.fi/Electronics/DIY%201k%20probe/)
   - Search terms:
     - 6.5ft (2 m) Low-Loss Coaxial Extension Cable RG58 (50 Ohm) SMA Male to SMA Female
     - RG174 SMA Coaxial Cable SMA Male to SMA Female RF Coaxial Cable 6.6 Feet (2 m) + 3 Pieces SMA Adapter Set Low Loss Extension Cable
