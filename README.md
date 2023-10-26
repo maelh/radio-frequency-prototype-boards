@@ -117,3 +117,4 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 - https://github.com/mje-nz/protoboard
 - https://github.com/AriaSalvatrice/synth-protoboard
 - https://hackaday.com/2016/06/16/evaluating-the-unusual-and-innovative-perf-protoboard/
+- https://www.amazon.com/SP3UT-SMTpads-3U-Thin-Sided-Unplated-Ground/dp/B0040Z8FC6
