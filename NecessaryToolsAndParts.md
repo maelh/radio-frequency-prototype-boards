@@ -52,8 +52,14 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
   - See recommended [vendor list](https://tinysa.org/wiki/pmwiki.php?n=Main.Buying) to avoid bad clones.
 - **Important:** attenuators and DC blocks
   - For both instruments above you should use attenuators, since the frontends cannot sustain much power.
-  - 2x "SMA RF DC-Block DC to 6 GHz 50 Ohm"
-  - "Nooelec SMA Attenuator Kit - Bundle of 6pc 2W 50 Ohm SMA in-Line Attenuators"
+  - 1 or 2 SMA DC blocks, 6 GHz 50 Ohm
+    - Search terms:
+      - NooElec SMA DC Block - High Quality Inline 50ohm 50kHz 8GHz Terminal Blocks DC
+    - https://www.amazon.de/dp/B07YYLHJKS?language=en_GB 
+  - SMA attenuator kit, 6 attenuators of 1dB, 2dB, 3dB, 6dB, 10dB and 20dB, each 2W and 50 Ohm
+    - Search terms:
+      - NooElec SMA Attenuator Kit - 6-piece SMA In-Line attenuator with 2W 50Ohm from 1dB to 42dB in increments of 1dB.
+    - https://www.amazon.de/dp/B07YYMT65T?language=en_GB 
 - SMA female to SMA male coaxial extension cable
   - Used to create a *simple RF probe* with 40 db attenuation, as described in https://youtu.be/B7DFOq9rM_M?t=858
     - A 4.7 kOhm resistor is stuck into the female SMA connector as a signal pin, and as a ground lead, a piece of wire is wraped around the same female SMA connector, then secured with a nut
