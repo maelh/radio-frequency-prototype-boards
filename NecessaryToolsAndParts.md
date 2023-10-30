@@ -57,7 +57,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
     - Search term:
       - NooElec SMA Attenuator Kit - 6-piece SMA In-Line attenuator with 2W 50Ohm from 1dB to 42dB in increments of 1dB.
     - https://www.amazon.de/dp/B07YYMT65T?language=en_GB  
-  - 1 or 2 SMA DC blocks, 6 GHz 50 Ohm
+  - One or two SMA DC blocks, 6 GHz and 50 Ohm
     - Search term:
       - NooElec SMA DC Block - High Quality Inline 50ohm 50kHz 8GHz Terminal Blocks DC
     - https://www.amazon.de/dp/B07YYLHJKS?language=en_GB
