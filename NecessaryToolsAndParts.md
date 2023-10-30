@@ -52,7 +52,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
   - See recommended [vendor list](https://tinysa.org/wiki/pmwiki.php?n=Main.Buying) to avoid bad clones.
 - **Important:** attenuators and DC blocks
   - For both instruments above you should use attenuators, since the frontends cannot sustain much power.
-    - The TinySA will analyze external signals, such as from antennas or signal generators, so attenuators are almost always necessary. The NanoVNA might also need them, when characterizing active circuits, such as amplifiers or mixers. Additionally, especially the TinySA should use an additional DC block, if the internal one is switched off or cannot handle the load.
+    - The TinySA will analyze external signals, such as from antennas or signal generators, so attenuators are almost always necessary. The NanoVNA might also need them, when characterizing active circuits, such as amplifiers or mixers. Especially, the TinySA should use an additional DC block, if the internal one is switched off or cannot handle the load.
   - 1 or 2 SMA DC blocks, 6 GHz 50 Ohm
     - Search terms:
       - NooElec SMA DC Block - High Quality Inline 50ohm 50kHz 8GHz Terminal Blocks DC
