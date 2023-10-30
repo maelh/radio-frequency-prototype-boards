@@ -29,7 +29,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
     - "SMD SMT Electronic Components Assortment 1206 0805 0603 Resistors Capacitors Diodes Transistors LEDs Potentiometers Opamps ICs Zener PCBs 2900pcs" by Zebulon
   - https://www.amazon.de/gp/product/B08QGD9G7C
 - Inductor sample book
-  - Search terms:
+  - Search term:
     - SMD Multilayer Ceramic Inductor Kit 0201 0402 0603 0805 1206 Chip Inductance Assorted Kit Sample Book
   - https://www.aliexpress.us/item/1005004268660183.html (pick the "0603 52valuesX25pcs" or the "0805 47valuesX25pcs" option)
 - U.FL connectors
@@ -54,11 +54,11 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
   - For both instruments above you should use attenuators, since the frontends cannot sustain much power.
     - The TinySA will analyze external signals, such as from antennas or signal generators, so attenuators are almost always necessary. The NanoVNA might also need them, when characterizing active circuits, such as amplifiers or mixers. Especially, the TinySA should use an additional DC block, if the internal one is switched off or cannot handle the load.
   - SMA attenuator kit, 6 attenuators of 1dB, 2dB, 3dB, 6dB, 10dB and 20dB, each 2W and 50 Ohm
-    - Search terms:
+    - Search term:
       - NooElec SMA Attenuator Kit - 6-piece SMA In-Line attenuator with 2W 50Ohm from 1dB to 42dB in increments of 1dB.
     - https://www.amazon.de/dp/B07YYMT65T?language=en_GB  
   - 1 or 2 SMA DC blocks, 6 GHz 50 Ohm
-    - Search terms:
+    - Search term:
       - NooElec SMA DC Block - High Quality Inline 50ohm 50kHz 8GHz Terminal Blocks DC
     - https://www.amazon.de/dp/B07YYLHJKS?language=en_GB
 - SMA female to SMA male coaxial extension cable
@@ -73,7 +73,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
   - https://www.amazon.de/dp/B0995QWSS5
 - U.FL to SMA Male Coaxial RG178 Low Loss Cable
   - Used to connect the U.FL inputs/outputs of the RF protoboards to oscilloscopes/signal generators/vector network analyzers/spectrum analyzers
-  - Search terms:
+  - Search term:
     - U.FL to SMA Coaxial Cable SMA Male to UFL IPX IPEX Coaxial Cable RG178 12 Inch (30 cm) Pack of 5
   - https://www.amazon.de/dp/B0C1BFXMWD
 - Stylus pen for touchscreen (of NanoVNA/TinySA)
