@@ -8,10 +8,13 @@ Before starting calibration, reset all using the menu entry `CALIBRATE>RESET`.
 
 ### Calibration status
 
-On the left side of the screen there are 7 letters, stacked upon each other, that indicate what was calibrated.
+On the left side of the screen there are 7 letters, stacked upon each other, that indicate what was calibrated. If they are missing calibration for that part is not present/was reset/not loaded. If it's shown in lower case or another color, the calibration is only of limited validity, since some parameter the calibration depends on was changed, such as the sweep frequency range.
+
 Cn, D, R, S, T, X are explained in the official manual linked above.
 
-The power mode used during calibration is missing from the documentation. It is indicated by `Pa` for `Power Auto`. Other possible values are `P2`, `P4`, `P6`, and `P8`. See menu entry `CALIBRATE>POWER AUTO` or `CALIBRATE>POWER <number>mA`.
+The power mode used during calibration is missing from the documentation. It is indicated by `Pa` for `Power Auto`. Other possible values are `P2`, `P4`, `P6`, and `P8`. See menu entry `CALIBRATE>POWER AUTO` or `CALIBRATE>POWER <number>mA`. If the power mode is change after calibration the Pa/P<number> indicator is shown in red.
+
+Red indicates t
 
 ### Tips
 
