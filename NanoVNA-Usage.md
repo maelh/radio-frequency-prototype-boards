@@ -22,7 +22,7 @@ Pa
 
 In general, `<n>` is a placeholder for a digit from 0 to 9.
 
-`<n>` in `C<n>` specifies the storage index of the currently used calibration data. C0 is the calibration data that is loaded by default on start.
+`<n>` in `C<n>` specifies the storage index of the currently used calibration data. `C0` is the calibration data that is loaded by default on start.
 
 `Pa` can also be `P<n>`, where <n> is 2, 4, 6, or 8. That is, aside from `Pa`, possible symbols are `P2`, `P4`, `P6`, `P8`.
 
