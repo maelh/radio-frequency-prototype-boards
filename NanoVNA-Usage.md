@@ -8,14 +8,22 @@ Before starting calibration, reset all using the menu entry `CALIBRATE>RESET`.
 
 ### Calibration status
 
-On the left side of the screen there are 7 letters, stacked upon each other, that indicate what was calibrated:
+On the left side of the screen there are 7 symbols, stacked upon each other, that indicate what was calibrated:
 
-`Cn, D, R, S, T, X, Pa`
+```
+Cn
+D
+R
+S
+T
+X
+Pa
+```
 
-Where n is a digit from 0 to 9.
+The n in Cn is placeholder for a digit from 0 to 9. It specifies the storage index of the currently used calibration data.
 Pa can also be P2, P4, P6, or P8.
 
-If they are missing calibration for that part is not present/was reset/not loaded. If it's shown in lower case or another color, the calibration is only of limited validity, since some parameter the calibration depends on was changed, such as the sweep frequency range.
+If one (or more) of the indicators are missing, calibration for that part is not present/was reset/not loaded. If one indicator is shown in lower case or another color, the calibration is only of limited validity, since some parameter the calibration depends on was changed after calibration, such as the sweep frequency range.
 
 Cn, D, R, S, T, X are explained in the official manual linked above.
 
