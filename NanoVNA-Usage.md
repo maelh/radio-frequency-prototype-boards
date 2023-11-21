@@ -23,7 +23,7 @@ Pa
 The n in Cn is placeholder for a digit from 0 to 9. It specifies the storage index of the currently used calibration data.
 Pa can also be P2, P4, P6, or P8.
 
-If one (or more) of the indicators are missing, calibration for that part is not present/was reset/not loaded. If one indicator is shown in lower case or another color, the calibration is only of limited validity, since some parameter the calibration depends on was changed after calibration, such as the sweep frequency range.
+If one (or more) of the indicators are missing, calibration for that part is not present/was reset/not loaded. If one indicator is shown in lower case or another color, the calibration is only of limited validity, since some parameter the calibration depends on was changed after calibration, such as the stimulus settings.
 
 Cn, D, R, S, T, X are explained in the official manual linked above.
 
