@@ -22,7 +22,7 @@ Pa
 
 `<n>` is a placeholder for a digit from 0 to 9.
 
-In `C<n>` it specifies the storage index of the currently used calibration data. C0 is the calibration data that is loaded by default on start.
+`n` in `C<n>` specifies the storage index of the currently used calibration data. C0 is the calibration data that is loaded by default on start.
 
 `Pa` can also be `P<n>`, where <n> is 2, 4, 6, or 8. That is, aside from `Pa`, possible symbols are `P2`, `P4`, `P6`, `P8`.
 
@@ -30,6 +30,8 @@ If one (or more) of the 7 vertical symbols are missing, calibration for that par
 
 #### Meaning of each symbol
 
+- `C<n>` -- calibration data currently used, where <n> is the storage index
+- 
 
 The power mode used during calibration is indicated by `Pa` which is short for `Power Auto`. Other possible values are `P2`, `P4`, `P6`, or `P8`, which mean 2mA, 4mA, 6mA, or 8mA, respectively. See menu entry `CALIBRATE>POWER AUTO` or `CALIBRATE>POWER <n>mA`. If the power mode is changed after calibration, the `Pa`/`P<n>` indicator is shown in red.
 
