@@ -8,7 +8,7 @@ The official manual of the NanoVNA has a section on [how to calibrate the NanoVN
 
 - Select the right mode/frequency synthesizer chip
   - If you updated the firmware, several config settings might have been changed, which is noticeable in excessive spurs/unsteadiness of the graphs. Be sure to check the menu `CONFIG>EXPERT SETTINGS>MORE>MODE` and select the right model. Newer NanoVNAs tend to use MS5351, but after a firmware update, `mode` is reset to the default, but incorrect value Si5351.
-- Adjust IF bandwidth for unsteady graphs
+- Adjust IF bandwidth when you see unsteady graphs
   - Firmware updates can change the IF bandwidth from 1000Hz to 4000Hz, which can cause less accuracy/unsteady graphs. See the menu `DISPLAY>IF BANDWIDTH` to change the value back to 1000Hz.
 
 
