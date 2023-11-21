@@ -30,7 +30,7 @@ If one (or more) of the 7 vertical symbols are missing, calibration for that par
 
 #### Meaning of each symbol
 
-- `C<n>` -- calibration data currently used, where <n> is the storage index
+- `C<n>` -- calibration data currently used, where `<n>` is the storage index
 - 
 
 The power mode used during calibration is indicated by `Pa` which is short for `Power Auto`. Other possible values are `P2`, `P4`, `P6`, or `P8`, which mean 2mA, 4mA, 6mA, or 8mA, respectively. See menu entry `CALIBRATE>POWER AUTO` or `CALIBRATE>POWER <n>mA`. If the power mode is changed after calibration, the `Pa`/`P<n>` indicator is shown in red.
