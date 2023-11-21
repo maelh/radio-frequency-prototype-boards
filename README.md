@@ -108,6 +108,8 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 
 - RF Circuit Design 2nd Edition by Christopher Bowick
   - https://www.amazon.de/RF-Circuit-Design-Christopher-Bowick/dp/0750685182/
+- Impedance Measurement Handbook -- A Guide to Measurement Technology and Techniques 
+  - https://www.keysight.com/us/en/assets/7018-06840/application-notes/5950-3000.pdf
 
 ## Related perfboard designs
 
