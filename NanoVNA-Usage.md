@@ -6,6 +6,11 @@ The official manual of the NanoVNA has a section on [how to calibrate the NanoVN
 
 Before starting calibration, reset all using the menu entry `CALIBRATE>RESET`.
 
+On the left side of the screen there are 7 letters, stacked upon each other, that indicate what was calibrated.
+Cn, D, R, S, T, X are explained in the official manual linked above.
+
+The power mode used during calibration is missing from the documentation. It is indicated by `Pa` for `Power Auto`. Other possible values are `P2`, `P4`, `P6`, and `P8`. See menu entry `CALIBRATE>POWER AUTO` or `CALIBRATE>POWER <number>mA`.
+
 ### Tips
 
 The measurement accuracy and observable spurs on graphs can vary depending on a few settings. If you change them, be sure to calibrate your NanoVNA again, afterwards.
