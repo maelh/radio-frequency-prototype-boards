@@ -25,7 +25,7 @@ Pa can also be P2, P4, P6, or P8.
 
 If one (or more) of the indicators are missing, calibration for that part is not present/was reset/not loaded. If an indicator is shown in lower case or another color, the currently loaded calibration is only of limited validity, since some parameter the calibration depends on was changed after calibration, such as a stimulus setting.
 
-The power mode used during calibration is indicated by `Pa` which is short for `Power Auto`. Other possible values are `P2`, `P4`, `P6`, or `P8`, which mean 2mA, 4mA, 6mA, or 8mA, respectively. See menu entry `CALIBRATE>POWER AUTO` or `CALIBRATE>POWER <number>mA`. If the power mode is changed after calibration, the Pa/P<number> indicator is shown in red.
+The power mode used during calibration is indicated by `Pa` which is short for `Power Auto`. Other possible values are `P2`, `P4`, `P6`, or `P8`, which mean 2mA, 4mA, 6mA, or 8mA, respectively. See menu entry `CALIBRATE>POWER AUTO` or `CALIBRATE>POWER <n>mA`. If the power mode is changed after calibration, the Pa/P<n> indicator is shown in red.
 
 ### Tips
 
