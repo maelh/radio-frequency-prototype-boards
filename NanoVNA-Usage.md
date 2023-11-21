@@ -26,7 +26,7 @@ In general, `<n>` is a placeholder for a digit from 0 to 9.
 
 `Pa` can also be `P<n>`, where `<n>` is 2, 4, 6, or 8. That is, aside from `Pa`, possible symbols are `P2`, `P4`, `P6`, `P8`.
 
-If one (or more) of the 7 vertical symbols are missing, calibration for that part is not present/was reset/not loaded. If an indicator is shown in lower case or another color, the currently loaded calibration is only of limited validity, since some parameters the calibration depend upon (such as stimulus settings) were changed after calibration.
+If one (or more) of the 7 vertical symbols are missing, calibration for that part is not present/was reset/not loaded. If an indicator is shown in lower case or another color, the currently loaded calibration is only of limited validity, since some parameters the calibration depends upon (such as stimulus settings) were changed after calibration.
 
 Examples:
   - `c0` means calibration data from storage index 0 was loaded, which was created with a frequency sweep span of 50kHz to 900MHz, which is different from the currently set sweep span of 50kHz to 600MHz.
