@@ -28,6 +28,8 @@ In general, `<n>` is a placeholder for a digit from 0 to 9.
 
 If one (or more) of the 7 vertical symbols are missing, calibration for that part is not present/was reset/not loaded. If an indicator is shown in lower case or another color, the currently loaded calibration is only of limited validity, since some parameter the calibration depends upon (such as a stimulus setting) was changed after calibration.
 
+For example, `c0` means calibration data in index 0 was loaded, but it was created with a different frequency sweep span, than the currently selected one. Another example: `Pa` is shown in red, because calibration was done with power mode set to 2mA, i.e., `P2`.
+
 #### Meaning of each symbol
 
 - `C<n>` -- calibration data currently used, where `<n>` is the storage index
