@@ -30,7 +30,7 @@ If one (or more) of the 7 vertical symbols are missing, calibration for that par
 
 Examples:
   - `c0` means calibration data from storage index 0 was loaded, which was created with a frequency sweep span of 50kHz to 900MHz, which is different from the currently set sweep span of 50kHz to 600MHz.
-  - `Pa` is shown in red, because calibration was done with power mode set to 2mA, i.e., `P2`.
+  - `Pa` is shown in red, because calibration was done with power mode set to 2mA, i.e., `P2` and not `Pa`.
 
 #### Meaning of each symbol
 
