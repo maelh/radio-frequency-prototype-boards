@@ -50,7 +50,7 @@ jjj
 
 - `T` -- `through` calibration data for port 1 and 2 is present
 
-- `Pa` or `P<n>` -- currently selected output power level
+- `Pa` or `P<n>` -- currently selected output power level (of clock generator)
   - `Pa` is short for `Power Auto`, i.e., output power level depends on frequency (and is automatically chosen).
   - `P<n>` means fixed output power level, i.e., same power level of value `<n>` for all frequencies.
     - Possible values are `P2`, `P4`, `P6`, or `P8`, which mean 2mA, 4mA, 6mA, or 8mA, respectively.
@@ -61,7 +61,7 @@ jjj
 
 The measurement accuracy and observable spurs on graphs can vary depending on a few settings. If you change them, be sure to calibrate your NanoVNA again, afterwards.
 
-- Select the right `mode`/frequency synthesizer chip to reduce spurs
+- Select the right `mode`/clock generator chip to reduce spurs
   - If you updated the firmware, several config settings might have been changed, which is noticeable in excessive spurs/unsteadiness of the graphs. See menu entry `CONFIG>EXPERT SETTINGS>MORE>MODE` and select the right model. Newer NanoVNAs tend to use MS5351, but after a firmware update, mode is reset to the default, but incorrect value Si5351.
 - Adjust `threshold` if you see spurs around or below 300MHz
   - Officially the clock generator chips/frequency synthesizer chips are only specified up to 200MHz, but often work up to 300MHz. In case they do not, the threshold has to be adjusted until spurs are reduced. See menu entry `CONFIG>EXPERT SETTINGS>THRESHOLD` and experiment with the value.
