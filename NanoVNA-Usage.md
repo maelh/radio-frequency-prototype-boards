@@ -37,13 +37,13 @@ The power mode used during calibration is indicated by `Pa` which is short for `
 
 The measurement accuracy and observable spurs on graphs can vary depending on a few settings. If you change them, be sure to calibrate your NanoVNA again, afterwards.
 
-- Select the right mode/frequency synthesizer chip to reduce spurs
+- Select the right `mode`/frequency synthesizer chip to reduce spurs
   - If you updated the firmware, several config settings might have been changed, which is noticeable in excessive spurs/unsteadiness of the graphs. See menu entry `CONFIG>EXPERT SETTINGS>MORE>MODE` and select the right model. Newer NanoVNAs tend to use MS5351, but after a firmware update, `mode` is reset to the default, but incorrect value Si5351.
 - Adjust `threshold` if you see spurs around or below 300MHz
   - Officially the clock generator chips/frequency synthesizer chips are only specified up to 200MHz, but often work up to 300MHz. In case they do not, the threshold has to be adjusted until spurs are reduced. See menu entry `CONFIG>EXPERT SETTINGS>THRESHOLD` and experiment with the value.
-- Adjust IF bandwidth when you see unsteady graphs
+- Adjust `IF bandwidth` when you see unsteady graphs
   - Firmware updates can change the IF bandwidth from 1000Hz to 4000Hz, which can cause less accuracy/unsteady graphs. See menu entry `DISPLAY>IF BANDWIDTH` to change the value back to 1000Hz.
-- Increase sweep points for improved accuracy
+- Increase `sweep points` for improved accuracy
   - More sweep points will increase the resolution of your graphs, since more samples are taken, i.e., the steps between two sampled frequencies are smaller. See menu entry `STIMULUS>SWEEP POINTS`. It will also slow down the refresh rate of the screen, so it's a tradeoff.
 
 ## Measuring
