@@ -40,6 +40,8 @@ Examples:
 - `X` -- `isolation` calibration data for port 1 and 2 is present
 - `t` -- `through` calibration data for port 1 and 2 is present
 
+
+
 - `C<n>` -- currently selected calibration data, where `<n>` is the storage index
   - `C*` is calibration data stored RAM only, and therefore has not storage index
   - `C0` is the default calibration data, loaded upon start of the NanoVNA.
