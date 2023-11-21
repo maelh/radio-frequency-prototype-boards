@@ -9,7 +9,8 @@ Before starting calibration, reset all using the menu entry `CALIBRATE>RESET`.
 ### Calibration status
 
 On the left side of the screen there are 7 letters, stacked upon each other, that indicate what was calibrated:
-Cn, D, R, S, T, X, Pa
+
+`Cn, D, R, S, T, X, Pa`
 
 Where n is a digit from 0 to 9.
 Pa can also be P2, P4, P6, or P8.
