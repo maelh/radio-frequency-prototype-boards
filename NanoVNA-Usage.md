@@ -34,13 +34,20 @@ Examples:
 
 #### Meaning of each symbol
 
-- `C<n>` -- currently selected calibration data, where `<n>` is the storage index
-  - `C0` is the default calibration data, loaded upon start of the NanoVNA.
-- `D` -- `load` calibration data for port 1 is present
-- `R` -- `open` calibration data for port 1 is present
+- `O` -- `open` calibration data for port 1 is present
 - `S` -- `short` calibration data for port 1 is present
-- `T` -- `through` calibration data for port 1 and 2 is present
+- `D` -- `load` calibration data for port 1 is present
 - `X` -- `isolation` calibration data for port 1 and 2 is present
+- `t` -- `through` calibration data for port 1 and 2 is present
+
+- `C<n>` -- currently selected calibration data, where `<n>` is the storage index
+  - `C*` is calibration data stored RAM only, and therefore has not storage index
+  - `C0` is the default calibration data, loaded upon start of the NanoVNA.
+
+- `R` -- `open` calibration data for port 1 is present
+
+- `T` -- `through` calibration data for port 1 and 2 is present
+
 - `Pa` or `P<n>` -- currently selected output power level
   - `Pa` is short for `Power Auto`, i.e., output power level depends on frequency (and is automatically chosen).
   - `P<n>` means fixed output power level, i.e., same power level of value `<n>` for all frequencies.
