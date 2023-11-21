@@ -23,6 +23,7 @@ Pa
 `<n>` is a placeholder for a digit from 0 to 9.
 
 In `C<n>` it specifies the storage index of the currently used calibration data. C0 is the calibration data that is loaded by default on start.
+
 `Pa` can also be `P<n>`, where <n> is 2, 4, 6, or 8. That is, aside from `Pa`, possible symbols are `P2`, `P4`, `P6`, `P8`.
 
 If one (or more) of the 7 symbols are missing, calibration for that part is not present/was reset/not loaded. If an indicator is shown in lower case or another color, the currently loaded calibration is only of limited validity, since some parameter the calibration depends on was changed after calibration, such as a stimulus setting.
