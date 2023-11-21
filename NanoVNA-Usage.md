@@ -3,6 +3,7 @@
 ## Calibration
 
 The official manual of the NanoVNA has a section on [how to calibrate the NanoVNA](https://nanovna.com/?page_id=2).
+
 Before starting calibration, reset all using the menu entry `CALIBRATE>RESET`.
 
 ### Tips
