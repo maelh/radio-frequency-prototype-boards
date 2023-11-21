@@ -7,7 +7,7 @@ The official manual of the NanoVNA has a section on [how to calibrate the NanoVN
 ### Tips
 
 - Select the right mode/chip
-  - If you updated the firmware, several config settings might have been changed, which is noticeable in excessive spurs/unsteadiness of the graphs. Be sure to check the menu `CONFIG>EXPERT SETTINGS>MORE>MODE` and select the right model (newer NanoVNAs usually use MS5351, but after a firmware update mode is reset to the default, Si5351, which will show as excessive spurs in the output).
+  - If you updated the firmware, several config settings might have been changed, which is noticeable in excessive spurs/unsteadiness of the graphs. Be sure to check the menu `CONFIG>EXPERT SETTINGS>MORE>MODE` and select the right model. Newer NanoVNAs usually use MS5351, but after a firmware update mode is reset to the default, Si5351, which will show as excessive spurs in the output.
 
 
 
