@@ -11,7 +11,7 @@ Before starting calibration, reset all using the menu entry `CALIBRATE>RESET`.
 On the left side of the screen there are 7 symbols, stacked upon each other, that indicate what was calibrated:
 
 ```
-Cn
+C<n>
 D
 R
 S
@@ -20,14 +20,12 @@ X
 Pa
 ```
 
-The n in Cn is placeholder for a digit from 0 to 9. It specifies the storage index of the currently used calibration data.
+The <n> in C<n> is placeholder for a digit from 0 to 9. It specifies the storage index of the currently used calibration data.
 Pa can also be P2, P4, P6, or P8.
 
-If one (or more) of the indicators are missing, calibration for that part is not present/was reset/not loaded. If an indicator is shown in lower case or another color, the currently loaded calibration is only of limited validity, since some parameter the calibration depends on was changed after calibration, such as a stimulus settings.
+If one (or more) of the indicators are missing, calibration for that part is not present/was reset/not loaded. If an indicator is shown in lower case or another color, the currently loaded calibration is only of limited validity, since some parameter the calibration depends on was changed after calibration, such as a stimulus setting.
 
-Cn, D, R, S, T, X are explained in the official manual linked above.
-
-The power mode used during calibration is missing from the documentation. It is indicated by `Pa` for `Power Auto`. Other possible values are `P2`, `P4`, `P6`, and `P8`. See menu entry `CALIBRATE>POWER AUTO` or `CALIBRATE>POWER <number>mA`. If the power mode is change after calibration the Pa/P<number> indicator is shown in red.
+The power mode used during calibration is indicated by `Pa` for `Power Auto`. Other possible values are `P2`, `P4`, `P6`, and `P8`. See menu entry `CALIBRATE>POWER AUTO` or `CALIBRATE>POWER <number>mA`. If the power mode is changed after calibration, the Pa/P<number> indicator is shown in red.
 
 ### Tips
 
