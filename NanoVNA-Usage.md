@@ -7,6 +7,7 @@ The official manual of the NanoVNA has a section on [how to calibrate the NanoVN
 Before starting calibration, reset all using the menu entry `CALIBRATE>RESET`.
 
 ### Calibration status
+
 On the left side of the screen there are 7 letters, stacked upon each other, that indicate what was calibrated.
 Cn, D, R, S, T, X are explained in the official manual linked above.
 
