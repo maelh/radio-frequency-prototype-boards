@@ -34,7 +34,7 @@ Examples:
 
 #### Meaning of each symbol
 
-- `C<n>` -- calibration data currently used, where `<n>` is the storage index
+- `C<n>` -- currently selected calibration data, where `<n>` is the storage index
   - `C0` is the default calibration data, loaded upon start of the NanoVNA.
 - `D` -- `load` calibration data for port 1 is present
 - `R` -- `open` calibration data for port 1 is present
