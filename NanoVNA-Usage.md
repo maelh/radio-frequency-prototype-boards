@@ -4,6 +4,13 @@
 
 The official manual of the NanoVNA has a section on [how to calibrate the NanoVNA](https://nanovna.com/?page_id=2).
 
+### Tips
+
+- Select the right mode/chip
+  - If you updated the firmware, settings might have been changed that create wrong measurements. Be sure to check the menu `CONFIG>EXPERT SETTINGS>MORE>MODE` and select the right model (newer NanoVNAs usually use MS5351, but after a firmware update mode is reset to the default, Si5351, which will show as excessive spurs in the output).
+
+
+
 ## Measuring
 
 If you have the RF Demo Kit mentioned in [NecessaryToolsAndParts](NecessaryToolsAndParts.md), you can test your NanoVNA and see if it creates valid results.
