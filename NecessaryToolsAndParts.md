@@ -48,7 +48,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
 ## Test equipment
 - NanoVNA
   - Many different versions, I use [NanoVNA-H4](https://nanovna.com/) (see recommended [vendor list](https://nanovna.com/?page_id=121) to avoid bad clones), MegaWattKS uses [NanoVNA-F](https://deepelec.com/nanovna-f/), both having a 4" screen.
-  - Optional SD card: allows to store / load screenshots, measurements, calibration data, dump firmware
+  - Optional SD card: allows to store / load screenshots, measurements, calibration data, or dump firmware
     - Especially calibration data can only by stored/restored from SD cards, the remaining data can be exchanged over USB
     - [Recommended SD card](https://groups.io/g/nanovna-users/topic/sd_card_size_and_speed/79473051) is fast and has a size of 8 to 32GiB
 - [TinySA](https://tinysa.org/wiki/pmwiki.php?n=Main.Specification) or [TinySA Ultra](https://tinysa.org/wiki/pmwiki.php?n=TinySA4.Specification)
