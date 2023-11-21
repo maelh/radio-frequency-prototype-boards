@@ -35,15 +35,13 @@ Examples:
 #### Meaning of each symbol
 
 - `C<n>` -- calibration data currently used, where `<n>` is the storage index
-  - `C0` is the default calibration data, loaded upon start of the NanoVNA
+  - `C0` is the default calibration data, loaded upon start of the NanoVNA.
 - `Pa` or `P<n>` -- currently selected output power level
-  - `Pa` is short for `Power Auto`, i.e., output power level depends on frequency (and is automatically chosen)
-  - `P<n>` means fixed output power level, i.e., same power level of value `<n>` for all frequencies
-    - Possible values are `P2`, `P4`, `P6`, or `P8`, which mean 2mA, 4mA, 6mA, or 8mA, respectively
-  - `Pa`/`P<n>` indicator shown in `red`, if it doesn't match the power level used in calibration
+  - `Pa` is short for `Power Auto`, i.e., output power level depends on frequency (and is automatically chosen).
+  - `P<n>` means fixed output power level, i.e., same power level of value `<n>` for all frequencies.
+    - Possible values are `P2`, `P4`, `P6`, or `P8`, which mean 2mA, 4mA, 6mA, or 8mA, respectively.
+  - `Pa`/`P<n>` indicator shown in `red`, if it doesn't match the power level used during calibration.
   - See menu entry `CALIBRATE>POWER AUTO` or `CALIBRATE>POWER <n>mA`.
-
-The output power level used during calibration 
 
 ### Tips
 
