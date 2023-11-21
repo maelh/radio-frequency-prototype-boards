@@ -39,10 +39,11 @@ Examples:
 - `Pa` or `P<n>` -- currently selected output power level
   - `Pa` is short for `Power Auto`, i.e., output power level depends on frequency (and is automatically chosen)
   - `P<n>` means fixed output power level, i.e., same power level of value `<n>` for all frequencies
-  - Symbol is in red, if it doesn't match the power level used for the currently loaded calibration
-  - 
+    - Possible values are `P2`, `P4`, `P6`, or `P8`, which mean 2mA, 4mA, 6mA, or 8mA, respectively
+  - `Pa`/`P<n>` indicator shown in red, if it doesn't match the power level used in calibration
+  - See menu entry `CALIBRATE>POWER AUTO` or `CALIBRATE>POWER <n>mA`.
 
-The output power level used during calibration Other possible values are `P2`, `P4`, `P6`, or `P8`, which mean 2mA, 4mA, 6mA, or 8mA, respectively. See menu entry `CALIBRATE>POWER AUTO` or `CALIBRATE>POWER <n>mA`. If the output power level is changed after calibration, the `Pa`/`P<n>` indicator is shown in red.
+The output power level used during calibration 
 
 ### Tips
 
