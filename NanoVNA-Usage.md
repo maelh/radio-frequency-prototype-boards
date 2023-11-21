@@ -30,14 +30,16 @@ If one (or more) of the 7 vertical symbols are missing, calibration for that par
 
 Examples:
   - `c0` means calibration data from storage index 0 was loaded, which was created with a frequency sweep span of 50kHz to 900MHz, which is different from the currently set sweep span of 50kHz to 600MHz.
-  - `Pa` is shown in red, because calibration was done with power mode set to 2mA, i.e., `P2` and not `Pa`.
+  - `Pa` is shown in red, because calibration was done with output power level set to 2mA, i.e., `P2` and not auto output power level `Pa`.
 
 #### Meaning of each symbol
 
 - `C<n>` -- calibration data currently used, where `<n>` is the storage index
-- 
+- `Pa` or `P<n>` -- output power level
+  - `Pa` is automatic output power level, i.e., power level depends on frequency
+  - `P<n>` is fixed output power level, i.e., power level fixed to a specific value `<n>` for all frequencies
 
-The power mode used during calibration is indicated by `Pa` which is short for `Power Auto`. Other possible values are `P2`, `P4`, `P6`, or `P8`, which mean 2mA, 4mA, 6mA, or 8mA, respectively. See menu entry `CALIBRATE>POWER AUTO` or `CALIBRATE>POWER <n>mA`. If the power mode is changed after calibration, the `Pa`/`P<n>` indicator is shown in red.
+The output power level used during calibration is indicated by `Pa` which is short for `Power Auto`. Other possible values are `P2`, `P4`, `P6`, or `P8`, which mean 2mA, 4mA, 6mA, or 8mA, respectively. See menu entry `CALIBRATE>POWER AUTO` or `CALIBRATE>POWER <n>mA`. If the output power level is changed after calibration, the `Pa`/`P<n>` indicator is shown in red.
 
 ### Tips
 
