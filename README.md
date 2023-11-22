@@ -114,6 +114,7 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 - https://www.grund-wissen.de/elektronik/simulationen-mit-qucs.html
 - https://electronics.stackexchange.com/questions/677822/s-parameters-calculation-from-vna-file
 - https://qucs-help.readthedocs.io/de/qucs-0.0.18/start.html
+- https://passive-components.eu/capacitors-losses-esrimpdfq/
 
 ## Related perfboard designs
 
