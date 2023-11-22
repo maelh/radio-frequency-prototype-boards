@@ -113,6 +113,7 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 - https://hexandflex.com/2020/01/11/impedance-matching-with-qucs-studio-and-vna/
 - https://www.grund-wissen.de/elektronik/simulationen-mit-qucs.html
 - https://electronics.stackexchange.com/questions/677822/s-parameters-calculation-from-vna-file
+- https://qucs-help.readthedocs.io/de/qucs-0.0.18/start.html
 
 ## Related perfboard designs
 
