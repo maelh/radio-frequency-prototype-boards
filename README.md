@@ -111,6 +111,8 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 - Impedance Measurement Handbook -- A Guide to Measurement Technology and Techniques 
   - https://www.keysight.com/us/en/assets/7018-06840/application-notes/5950-3000.pdf
 - https://hexandflex.com/2020/01/11/impedance-matching-with-qucs-studio-and-vna/
+- https://www.grund-wissen.de/elektronik/simulationen-mit-qucs.html
+- https://electronics.stackexchange.com/questions/677822/s-parameters-calculation-from-vna-file
 
 ## Related perfboard designs
 
