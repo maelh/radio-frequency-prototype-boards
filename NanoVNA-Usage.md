@@ -74,6 +74,10 @@ The measurement accuracy and observable spurs on graphs can vary depending on a 
 
 If you have the RF Demo Kit mentioned in [NecessaryToolsAndParts](NecessaryToolsAndParts.md), you can test your NanoVNA and see if it creates valid results.
 
+### RF demo kit
+
+I simulated many of the circuits on the RF demo kit, to see what curves to really expect on the Smith Charts, not just the simplified ones shown on the PCB or documentation. This also gave me the opportunity to collect all data in one place: component values, frequency sweep range, circuit diagram, corresponding Smith Chart.
+
 ## Testing if your NanoVNA is in order
 
 https://groups.io/g/nanovna-users/topic/testing_if_a_nanovna_is_good/102706813
