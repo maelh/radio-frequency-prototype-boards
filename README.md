@@ -117,7 +117,7 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 - https://electronics.stackexchange.com/questions/677822/s-parameters-calculation-from-vna-file
 - https://qucs-help.readthedocs.io/de/qucs-0.0.18/start.html
 - https://passive-components.eu/capacitors-losses-esrimpdfq/
-- [http://www.sss-mag.com/pdf/an-95-1.pdf](HP - S-Parameter Techniques for Faster, More Accurate Network Design)
+- [HP - S-Parameter Techniques for Faster, More Accurate Network Design](http://www.sss-mag.com/pdf/an-95-1.pdf)
 
 ## Related perfboard designs
 
