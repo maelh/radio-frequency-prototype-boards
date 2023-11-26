@@ -118,6 +118,7 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 - https://qucs-help.readthedocs.io/de/qucs-0.0.18/start.html
 - https://passive-components.eu/capacitors-losses-esrimpdfq/
 - https://www.antenna-theory.com/tutorial/smith/chart.php
+- https://www.intmath.com/complex-numbers/9-impedance-phase-angle.php
 - [HP - S-Parameter Techniques for Faster, More Accurate Network Design](http://www.sss-mag.com/pdf/an-95-1.pdf)
 
 ## Related perfboard designs
