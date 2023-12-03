@@ -83,11 +83,12 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
   - The TinySA user group has a discussion about [possible stylus options](https://groups.io/g/tinysa/topic/80388765?p=Created%2C%2C%2C20%2C1%2C0%2C0)
  
 ### Basic addons
-- "RF Demo Kit" with U.FL sockets for NanoVNA 
+- "RF Demo Kit" with U.FL sockets for NanoVNA
   - Has symbolic Smith charts, components for SOLT calibration, example filters, attenuators, resistors, capacitors, inductors, and combinations of the last three basic components, all accessible via U.FL connectors
     - [RF demo kit quickstart guide](https://www.deepelec.com/files/Rf_Demo_Kit_Quick_start_guide_v2.0.pdf)
     - [Practical usage guide](https://groups.io/g/nanovna-users/wiki/16592)
       - Do **not** use a **screw driver** to remove U.FL cables (it will apply unequal force and bend/damage the sockets/plugs). Instead use SMD tweezers like a lever, positioned below the U.FL cable's plug, such that you apply an equal force from both sides (with the two "prongs" of the tweezer) and by finding the center pivot point of the plug.
+  - Original idea: [VNA Sandbox](https://www.megiq.com/products/vna-sandbox)
   - Search terms:
     - "RF Demo Kit for NanoVNA-F" by [Deepelec](https://deepelec.com/rf-demo-kit/) / SYSJOINT
     - RF Demo Kit for F RF Tester Board HAM Filter Attenuator 
