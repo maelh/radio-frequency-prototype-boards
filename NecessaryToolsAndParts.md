@@ -95,7 +95,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
     - RF Demo Kit for F RF Tester Board HAM Filter Attenuator 
   - https://www.amazon.de/dp/B0BRCL158V
 - 2x "NanoVNA Testboard Kit" with SMA connectors
-  - has female headers to insert and measure components, and SMD pads to build and measure tiny circuits, such as simple filters
+  - Has female headers to insert and measure components, and SMD pads to build and measure tiny circuits, such as simple filters
   - [Documentation](https://www.sdr-kits.net/documents/Testboard_kit.pdf)
 - stethoscope camera with microphone (or stethoscope  microphone alone)
 
