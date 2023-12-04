@@ -63,7 +63,7 @@ The measurement accuracy and observable artifacts on graphs can vary depending o
 
 - Select the right `mode`/clock generator chip to reduce artifacts
   - Older versions of the NanoVNA use Si5351 chips, while newer ones use MS5351 chips. To identify which chip your model has, look for an `_MS` suffix on the hardware version label on the back of the NanoVNA. For example, `HW version: 4.3_MS` indicates a MS5351 model.
-  - After a firmware update, several config settings might have been changed or reset to defaults (e.g., the Si5351 mode is the default, which is only valid for older NanoVNAs). This will result in excessive artifacts/unsteadiness in the graphs. To solve this issue, see the menu entry `CONFIG>EXPERT SETTINGS>MORE>MODE` and select the right model.
+  - After a firmware update, several config settings might have been changed or reset to defaults (e.g., the Si5351 mode is the default, which is only valid for older NanoVNAs). A wrong setting will result in excessive artifacts/unsteadiness in the graphs. To solve this issue, see the menu entry `CONFIG>EXPERT SETTINGS>MORE>MODE` and select the right model.
 
 - Adjust `threshold` if you see spurs around or below 300MHz
   - Officially the clock generator chips/frequency synthesizer chips are only specified up to 200MHz, but often work up to 300MHz. In case they do not, the threshold has to be adjusted until spurs are reduced. See the menu entry `CONFIG>EXPERT SETTINGS>THRESHOLD` and experiment with the value.
