@@ -71,7 +71,8 @@ The measurement accuracy and observable artifacts on graphs can vary depending o
   - Firmware updates can change the IF bandwidth from 1000Hz to 4000Hz, which can cause less accuracy/unsteady graphs. See the menu entry `DISPLAY>IF BANDWIDTH` to change the value back to 1000Hz.
 - Increase `sweep points` for improved accuracy
   - More sweep points will increase the resolution of your graphs, since more samples are taken, i.e., the steps between two sampled frequencies are smaller. See the menu entry `STIMULUS>SWEEP POINTS`. It will also slow down the refresh rate of the screen, so it's a tradeoff.
-
+- Firmware issues creating measurement instabilities
+  - https://groups.io/g/nanovna-users/message/29530
 ## Measuring
 
 If you have the RF Demo Kit mentioned in [NecessaryToolsAndParts](NecessaryToolsAndParts.md), you can test your NanoVNA and see if it creates valid results.
