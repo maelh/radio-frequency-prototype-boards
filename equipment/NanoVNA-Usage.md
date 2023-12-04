@@ -59,11 +59,12 @@ jjj
 
 ### Tips
 
-The measurement accuracy and observable spurs on graphs can vary depending on a few settings. If you change them, be sure to calibrate your NanoVNA again, afterwards.
+The measurement accuracy and observable artifacts on graphs can vary depending on a few settings. If you change them, be sure to calibrate your NanoVNA again, afterwards.
 
-- Select the right `mode`/clock generator chip to reduce spurs
-  - If you updated the firmware, several config settings might have been changed, which is noticeable in excessive spurs/unsteadiness of the graphs. See menu entry `CONFIG>EXPERT SETTINGS>MORE>MODE` and select the right model. Newer NanoVNAs tend to use MS5351, but after a firmware update, mode is reset to the default, but incorrect value Si5351.
-    - To identify if you have a hardware model with a MS5351 chip, look for an `_MS` suffix in the hardware version label on the back of the NanoVNA. For example: `HW version: 4.3_MS`.
+- Select the right `mode`/clock generator chip to reduce artifacts
+  - Older models of the NanoVNA use Si5351 chips, while newer hardware models use MS5351 chips. To identify which chip your model uses, look for an `_MS` suffix on the hardware version label on the back of the NanoVNA. For example, `HW version: 4.3_MS` indicates a MS5351 model.
+  - After a firmware update, several config settings might have been changed or reset to defaults (e.g., the Si5351 mode is the default, which is only valid for older NanoVNAs). This will result in excessive artifacts/unsteadiness in the graphs. To solve this issue, see the menu entry `CONFIG>EXPERT SETTINGS>MORE>MODE` and select the right model.
+
 - Adjust `threshold` if you see spurs around or below 300MHz
   - Officially the clock generator chips/frequency synthesizer chips are only specified up to 200MHz, but often work up to 300MHz. In case they do not, the threshold has to be adjusted until spurs are reduced. See menu entry `CONFIG>EXPERT SETTINGS>THRESHOLD` and experiment with the value.
 - Adjust `IF bandwidth` when you see unsteady graphs
