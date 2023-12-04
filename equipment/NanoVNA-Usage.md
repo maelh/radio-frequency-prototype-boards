@@ -63,6 +63,7 @@ The measurement accuracy and observable spurs on graphs can vary depending on a 
 
 - Select the right `mode`/clock generator chip to reduce spurs
   - If you updated the firmware, several config settings might have been changed, which is noticeable in excessive spurs/unsteadiness of the graphs. See menu entry `CONFIG>EXPERT SETTINGS>MORE>MODE` and select the right model. Newer NanoVNAs tend to use MS5351, but after a firmware update, mode is reset to the default, but incorrect value Si5351.
+    - To identify if you have a hardware model with a MS5351 chip, look for an `_MS` suffix in the hardware version label on the back of the NanoVNA. For example: `HW version: 4.3_MS`.
 - Adjust `threshold` if you see spurs around or below 300MHz
   - Officially the clock generator chips/frequency synthesizer chips are only specified up to 200MHz, but often work up to 300MHz. In case they do not, the threshold has to be adjusted until spurs are reduced. See menu entry `CONFIG>EXPERT SETTINGS>THRESHOLD` and experiment with the value.
 - Adjust `IF bandwidth` when you see unsteady graphs
