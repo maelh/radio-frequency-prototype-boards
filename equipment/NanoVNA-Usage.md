@@ -55,7 +55,7 @@ jjj
   - `P<n>` means fixed output power level, i.e., same power level of value `<n>` for all frequencies.
     - Possible values are `P2`, `P4`, `P6`, or `P8`, which mean 2mA, 4mA, 6mA, or 8mA, respectively.
   - `Pa`/`P<n>` indicator shown in `red`, if it doesn't match the power level used during calibration.
-  - See menu entry `CALIBRATE>POWER AUTO` or `CALIBRATE>POWER <n>mA`.
+  - See the menu entry `CALIBRATE>POWER AUTO` or `CALIBRATE>POWER <n>mA`.
 
 ### Tips
 
@@ -66,11 +66,11 @@ The measurement accuracy and observable artifacts on graphs can vary depending o
   - After a firmware update, several config settings might have been changed or reset to defaults (e.g., the Si5351 mode is the default, which is only valid for older NanoVNAs). This will result in excessive artifacts/unsteadiness in the graphs. To solve this issue, see the menu entry `CONFIG>EXPERT SETTINGS>MORE>MODE` and select the right model.
 
 - Adjust `threshold` if you see spurs around or below 300MHz
-  - Officially the clock generator chips/frequency synthesizer chips are only specified up to 200MHz, but often work up to 300MHz. In case they do not, the threshold has to be adjusted until spurs are reduced. See menu entry `CONFIG>EXPERT SETTINGS>THRESHOLD` and experiment with the value.
+  - Officially the clock generator chips/frequency synthesizer chips are only specified up to 200MHz, but often work up to 300MHz. In case they do not, the threshold has to be adjusted until spurs are reduced. See the menu entry `CONFIG>EXPERT SETTINGS>THRESHOLD` and experiment with the value.
 - Adjust `IF bandwidth` when you see unsteady graphs
-  - Firmware updates can change the IF bandwidth from 1000Hz to 4000Hz, which can cause less accuracy/unsteady graphs. See menu entry `DISPLAY>IF BANDWIDTH` to change the value back to 1000Hz.
+  - Firmware updates can change the IF bandwidth from 1000Hz to 4000Hz, which can cause less accuracy/unsteady graphs. See the menu entry `DISPLAY>IF BANDWIDTH` to change the value back to 1000Hz.
 - Increase `sweep points` for improved accuracy
-  - More sweep points will increase the resolution of your graphs, since more samples are taken, i.e., the steps between two sampled frequencies are smaller. See menu entry `STIMULUS>SWEEP POINTS`. It will also slow down the refresh rate of the screen, so it's a tradeoff.
+  - More sweep points will increase the resolution of your graphs, since more samples are taken, i.e., the steps between two sampled frequencies are smaller. See the menu entry `STIMULUS>SWEEP POINTS`. It will also slow down the refresh rate of the screen, so it's a tradeoff.
 
 ## Measuring
 
