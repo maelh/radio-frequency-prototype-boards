@@ -100,6 +100,8 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
 - stethoscope camera with microphone (or stethoscope  microphone alone)
 
 ### Advanced add-ons
+- VNA Test Boards
+  - https://www.youtube.com/watch?v=29YcNXSB9KM
 - RF probe
   - https://emcesd.com/1ghzprob.htm
 - https://www.ph2lb.nl/blog/index.php?page=xtal-adapter-for-nanovna
