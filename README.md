@@ -120,6 +120,7 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 - https://www.antenna-theory.com/tutorial/smith/chart.php
 - https://www.intmath.com/complex-numbers/9-impedance-phase-angle.php
 - [HP - S-Parameter Techniques for Faster, More Accurate Network Design](http://www.sss-mag.com/pdf/an-95-1.pdf)
+- [Testing Inductors at Application Frequencies -- frequency dependent inductance, LCR meters vs VNAs](https://www.coilcraft.com/getmedia/917e2972-9585-4c8f-a94d-9a5b02fdffd9/doc119_testappfreq.pdf)
 
 ## Related perfboard designs
 
