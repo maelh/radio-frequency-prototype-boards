@@ -90,6 +90,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
       - Do **not** use a **screw driver** to remove U.FL cables (it will apply unequal force and bend/damage the sockets/plugs). Instead use SMD tweezers like a lever, positioned below the U.FL cable's plug, such that you apply an equal force from both sides (with the two "prongs" of the tweezer) and by finding the center pivot point of the plug.
   - [Discussion about some inaccurate graphs](https://groups.io/g/nanovna-users/topic/rf_demo_kit_testing_tutorial/65778338) due to inductor quality issues
   - Original idea: [VNA Sandbox](https://www.megiq.com/products/vna-sandbox)
+    - [Discussion RF Demo Kit and VNA Sandbox origin](https://groups.io/g/nanovna-users/topic/65778338)
   - Search terms:
     - "RF Demo Kit for NanoVNA-F" by [Deepelec](https://deepelec.com/rf-demo-kit/) / SYSJOINT
     - RF Demo Kit for F RF Tester Board HAM Filter Attenuator 
