@@ -106,6 +106,7 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 
 ## Recommended literature
 
+- https://www.tek.com/en/documents/primer/what-vector-network-analyzer-and-how-does-it-work
 - RF Circuit Design 2nd Edition by Christopher Bowick
   - https://www.amazon.de/RF-Circuit-Design-Christopher-Bowick/dp/0750685182/
 - Impedance Measurement Handbook -- A Guide to Measurement Technology and Techniques 
