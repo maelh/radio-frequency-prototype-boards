@@ -106,6 +106,7 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 
 ## Recommended literature
 
+- [What is a VNA / Vector Network Analyzer by w2aew](https://www.youtube.com/watch?v=Sb3q8f0NBZc)
 - https://www.tek.com/en/documents/primer/what-vector-network-analyzer-and-how-does-it-work
 - RF Circuit Design 2nd Edition by Christopher Bowick
   - https://www.amazon.de/RF-Circuit-Design-Christopher-Bowick/dp/0750685182/
