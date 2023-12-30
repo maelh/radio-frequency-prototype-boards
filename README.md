@@ -106,10 +106,11 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 
 ## Recommended literature
 
-- [What is a VNA / Vector Network Analyzer by w2aew](https://www.youtube.com/watch?v=Sb3q8f0NBZc)
-- https://www.tek.com/en/documents/primer/what-vector-network-analyzer-and-how-does-it-work
 - RF Circuit Design 2nd Edition by Christopher Bowick
   - https://www.amazon.de/RF-Circuit-Design-Christopher-Bowick/dp/0750685182/
+- [What is a VNA / Vector Network Analyzer by w2aew](https://www.youtube.com/watch?v=Sb3q8f0NBZc)
+- [Impedance Matching with the Smith Chart](https://www.youtube.com/watch?v=_pJ8kh0i2u4)
+- https://www.tek.com/en/documents/primer/what-vector-network-analyzer-and-how-does-it-work
 - Impedance Measurement Handbook -- A Guide to Measurement Technology and Techniques 
   - https://www.keysight.com/us/en/assets/7018-06840/application-notes/5950-3000.pdf
 - https://hexandflex.com/2020/01/11/impedance-matching-with-qucs-studio-and-vna/
