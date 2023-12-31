@@ -109,6 +109,7 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 - RF Circuit Design 2nd Edition by Christopher Bowick
   - https://www.amazon.de/RF-Circuit-Design-Christopher-Bowick/dp/0750685182/
 - [What is a VNA / Vector Network Analyzer by w2aew](https://www.youtube.com/watch?v=Sb3q8f0NBZc)
+- [Basics of Capacitor & Inductor self-resonance, parasitics, etc. - Tutorial](https://www.youtube.com/watch?v=vi24SpKYYoQ)
 - [Impedance Matching with the Smith Chart](https://www.youtube.com/watch?v=_pJ8kh0i2u4)
 - https://www.tek.com/en/documents/primer/what-vector-network-analyzer-and-how-does-it-work
 - Impedance Measurement Handbook -- A Guide to Measurement Technology and Techniques 
