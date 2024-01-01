@@ -128,6 +128,11 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 - [Testing Inductors at Application Frequencies -- frequency dependent inductance, LCR meters vs VNAs](https://www.coilcraft.com/getmedia/917e2972-9585-4c8f-a94d-9a5b02fdffd9/doc119_testappfreq.pdf)
 - [How to Use an LCR Meter: Basic Knowledge](https://www.hioki.com/global/learning/usage/lcr-meters_2.html)
 
+## Useful software
+
+- http://www.ae6ty.com/Smith_Charts.html
+- https://w0qe.com/SimSmith.html
+
 ## Related perfboard designs
 
 - https://github.com/electroniceel/protoboard
