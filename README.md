@@ -133,6 +133,7 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 
 - http://www.ae6ty.com/Smith_Charts.html
 - https://w0qe.com/SimSmith.html
+- http://www.physicsbox.com/indexsolveelec2en.html
 
 ## Related perfboard designs
 
