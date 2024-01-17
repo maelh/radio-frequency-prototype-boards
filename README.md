@@ -127,6 +127,7 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 - https://www.microwaves101.com/encyclopedias/s-parameters
 - https://www.baseapp.com/iot/antenna-tuning-for-beginners/
 - Fixing calibration issues (see question comments): https://electronics.stackexchange.com/questions/609714/calibrating-a-vna
+- Soldering skills and other factors affecting calibration: https://www.antune.net/calibration.html
 - [HP - S-Parameter Techniques for Faster, More Accurate Network Design](http://www.sss-mag.com/pdf/an-95-1.pdf)
 - [Testing Inductors at Application Frequencies -- frequency dependent inductance, LCR meters vs VNAs](https://www.coilcraft.com/getmedia/917e2972-9585-4c8f-a94d-9a5b02fdffd9/doc119_testappfreq.pdf)
 - [How to Use an LCR Meter: Basic Knowledge](https://www.hioki.com/global/learning/usage/lcr-meters_2.html)
@@ -138,6 +139,7 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 - https://w0qe.com/SimSmith.html
 - http://www.physicsbox.com/indexsolveelec2en.html
 - https://www.antune.net/
+- https://www.atyune.com/
 
 ## Related perfboard designs
 
