@@ -124,6 +124,7 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 - https://passive-components.eu/capacitors-losses-esrimpdfq/
 - https://www.antenna-theory.com/tutorial/smith/chart.php
 - https://www.intmath.com/complex-numbers/9-impedance-phase-angle.php
+- https://www.microwaves101.com/encyclopedias/s-parameters
 - [HP - S-Parameter Techniques for Faster, More Accurate Network Design](http://www.sss-mag.com/pdf/an-95-1.pdf)
 - [Testing Inductors at Application Frequencies -- frequency dependent inductance, LCR meters vs VNAs](https://www.coilcraft.com/getmedia/917e2972-9585-4c8f-a94d-9a5b02fdffd9/doc119_testappfreq.pdf)
 - [How to Use an LCR Meter: Basic Knowledge](https://www.hioki.com/global/learning/usage/lcr-meters_2.html)
