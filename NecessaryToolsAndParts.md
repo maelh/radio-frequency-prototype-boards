@@ -54,7 +54,7 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
       - This model works in my NanoVNA-H4 and TinySA Ultra: [SanDisk 32GB (Pack of 2) Ultra microSDHC UHS-I Memory Card (2x32GB) with Adapter](https://www.amazon.com/dp/B08J4HJ98L )
 - [TinySA](https://tinysa.org/wiki/pmwiki.php?n=Main.Specification) or [TinySA Ultra](https://tinysa.org/wiki/pmwiki.php?n=TinySA4.Specification)
   - See recommended [vendor list](https://tinysa.org/wiki/pmwiki.php?n=Main.Buying) to avoid bad clones.
-  - TinySA Ultra comes with cheap microSD card, TinySA not
+  - TinySA Ultra comes with a cheap microSD card, TinySA has none
 - **Important:** attenuators and DC blocks
   - For both instruments above you should use attenuators, since the frontends cannot sustain much power.
     - The TinySA will analyze external signals, such as from antennas or signal generators, so attenuators are almost always necessary. The NanoVNA might also need them, when characterizing active circuits, such as amplifiers or mixers. Especially, the TinySA should use an additional DC block, if the internal one is switched off or cannot handle the load.
