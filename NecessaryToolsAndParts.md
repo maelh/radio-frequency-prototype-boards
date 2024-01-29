@@ -51,8 +51,8 @@ The exact solder I use is called `Felder ISO-Core "Ultra-Clear" Sn100Ni+ 0.5mm`.
   - Optional microSD card: allows to store / load screenshots, measurements, calibration data, or dump firmware
     - Especially calibration data can only by stored/restored from SD cards, the remaining data can be exchanged over USB
     - [Recommended microSD card](https://groups.io/g/nanovna-users/topic/sd_card_size_and_speed/79473051) is fast, has a size of 8 to 32GiB, is formatted in FAT32, and should support SPI mode
-      - *Potentially compatible (if it supports SPI mode)*: microSDHC or microSDHC I (= microSDHC UHS-1)
-      - *Not compatible*: microSDHC II (= microSDHC UHS-2), microSDHC III (= microSDHC UHS-3), microSDXC, microSDUC
+      - *Potentially compatible (if it supports SPI mode)*: microSDHC or microSDHC I (= microSDHC UHS-I)
+      - *Not compatible*: microSDHC II (= microSDHC UHS-II), microSDHC III (= microSDHC UHS-III), microSDXC, microSDUC
       - This model works in my NanoVNA-H4 and TinySA Ultra: [SanDisk 32GB (Pack of 2) Ultra microSDHC UHS-I Memory Card (2x32GB) with Adapter](https://www.amazon.com/dp/B08J4HJ98L )
 - [TinySA](https://tinysa.org/wiki/pmwiki.php?n=Main.Specification) or [TinySA Ultra](https://tinysa.org/wiki/pmwiki.php?n=TinySA4.Specification)
   - See recommended [vendor list](https://tinysa.org/wiki/pmwiki.php?n=Main.Buying) to avoid bad clones.
