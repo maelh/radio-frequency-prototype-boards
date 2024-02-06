@@ -124,6 +124,7 @@ Aside from measurement equipment, such as the NanoVNA and the TinySA, you will n
 - https://qucs-help.readthedocs.io/de/qucs-0.0.18/start.html
 - https://passive-components.eu/capacitors-losses-esrimpdfq/
 - https://www.antenna-theory.com/tutorial/smith/chart.php
+- https://groups.io/g/nanovna-users/files/C1-Smith_Chart_Aarhus_CAS_2010_caspers_version_20_September_2010.pdf
 - https://www.intmath.com/complex-numbers/9-impedance-phase-angle.php
 - https://www.microwaves101.com/encyclopedias/s-parameters
 - https://www.baseapp.com/iot/antenna-tuning-for-beginners/
